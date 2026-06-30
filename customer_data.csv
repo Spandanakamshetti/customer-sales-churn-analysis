@@ -1,0 +1,2001 @@
+CustomerID,Gender,Age,Plan,Contract,TenureMonths,MonthlyCharges,TotalCharges,PaymentMethod,SupportCalls,SatisfactionScore,Churn
+CUST00001,Male,64,Basic,Annual,5,11.51,55.93,Bank Transfer,0,1,No
+CUST00002,Female,29,Basic,Two-Year,3,11.11,30.93,Credit Card,3,4,No
+CUST00003,Male,33,Standard,Annual,57,20.68,1092.67,Credit Card,2,4,No
+CUST00004,Male,41,Standard,Month-to-Month,47,19.73,966.54,Debit Card,0,4,Yes
+CUST00005,Male,36,Basic,Month-to-Month,19,12.58,233.17,Debit Card,2,4,No
+CUST00006,Female,25,Premium,Annual,2,40.32,88.08,Credit Card,1,2,No
+CUST00007,Male,48,Premium,Month-to-Month,44,39.22,1665.51,Bank Transfer,0,5,No
+CUST00008,Male,38,Basic,Two-Year,37,11.3,458.53,Debit Card,4,2,No
+CUST00009,Male,34,Basic,Month-to-Month,54,10.13,514.79,Credit Card,1,3,No
+CUST00010,Female,40,Premium,Month-to-Month,17,40.51,633.96,Credit Card,1,4,Yes
+CUST00011,Male,54,Standard,Two-Year,14,20.29,273.41,Bank Transfer,0,3,No
+CUST00012,Male,33,Standard,Month-to-Month,28,20.74,625.5,PayPal,2,2,Yes
+CUST00013,Male,23,Premium,Month-to-Month,27,38.52,1044.59,Credit Card,1,4,No
+CUST00014,Male,25,Basic,Annual,54,7.81,391.01,Debit Card,0,2,No
+CUST00015,Female,42,Basic,Annual,10,12.14,114.18,Bank Transfer,3,4,No
+CUST00016,Male,35,Basic,Month-to-Month,3,10.36,29.91,Bank Transfer,0,2,Yes
+CUST00017,Female,42,Standard,Two-Year,36,21.15,775.13,Bank Transfer,3,1,Yes
+CUST00018,Female,29,Standard,Month-to-Month,38,17.35,637.2,PayPal,4,5,Yes
+CUST00019,Female,32,Standard,Annual,56,21.59,1268.78,PayPal,3,5,No
+CUST00020,Male,43,Basic,Month-to-Month,25,9.21,235.61,Debit Card,2,4,No
+CUST00021,Female,58,Basic,Annual,22,8.78,207.6,Debit Card,0,1,Yes
+CUST00022,Male,62,Standard,Month-to-Month,48,19.89,954.9,Bank Transfer,3,3,Yes
+CUST00023,Female,43,Standard,Month-to-Month,39,18.52,697.89,Debit Card,1,1,Yes
+CUST00024,Female,64,Standard,Month-to-Month,47,19.99,1032.78,Credit Card,0,4,No
+CUST00025,Female,49,Basic,Annual,30,9.79,285.22,PayPal,3,1,No
+CUST00026,Female,27,Premium,Month-to-Month,21,41.58,860.71,Bank Transfer,1,3,No
+CUST00027,Female,33,Basic,Annual,30,12.26,390.54,Bank Transfer,0,4,No
+CUST00028,Female,24,Premium,Annual,28,42.21,1084.64,Credit Card,4,5,No
+CUST00029,Female,34,Basic,Month-to-Month,31,6.59,199.65,Credit Card,1,1,No
+CUST00030,Female,40,Standard,Month-to-Month,57,18.59,971.83,Credit Card,0,5,No
+CUST00031,Male,43,Basic,Month-to-Month,52,6.58,317.48,Credit Card,2,5,No
+CUST00032,Male,38,Premium,Annual,26,38.2,894.8,Bank Transfer,0,2,Yes
+CUST00033,Female,39,Standard,Month-to-Month,43,19.02,737.64,PayPal,2,3,No
+CUST00034,Female,24,Basic,Month-to-Month,22,10.61,227.83,PayPal,1,1,Yes
+CUST00035,Female,31,Basic,Annual,21,9.21,205.37,Credit Card,1,5,No
+CUST00036,Male,32,Basic,Annual,1,9.25,9.41,Debit Card,0,5,No
+CUST00037,Female,24,Basic,Month-to-Month,37,10.26,389.86,Bank Transfer,3,3,No
+CUST00038,Male,26,Premium,Month-to-Month,13,37.43,488.46,PayPal,0,5,No
+CUST00039,Male,68,Basic,Annual,21,8.73,195.06,Credit Card,1,5,Yes
+CUST00040,Male,65,Standard,Two-Year,46,19.23,951.88,Debit Card,0,5,No
+CUST00041,Male,25,Standard,Two-Year,9,19.69,189.61,Debit Card,2,5,No
+CUST00042,Male,67,Standard,Annual,17,20.11,363.21,Credit Card,1,2,No
+CUST00043,Female,40,Basic,Month-to-Month,47,12.24,538.77,Bank Transfer,1,2,No
+CUST00044,Female,46,Basic,Month-to-Month,21,11.35,242.83,PayPal,2,4,Yes
+CUST00045,Female,35,Standard,Month-to-Month,31,18.84,593.64,Debit Card,3,1,Yes
+CUST00046,Female,48,Premium,Month-to-Month,39,39.6,1553.03,PayPal,1,3,No
+CUST00047,Female,47,Basic,Annual,59,9.5,558.35,PayPal,5,4,No
+CUST00048,Male,69,Basic,Month-to-Month,54,9.22,456.97,Debit Card,2,2,Yes
+CUST00049,Female,56,Standard,Month-to-Month,22,20.4,413.09,Credit Card,1,2,Yes
+CUST00050,Female,52,Premium,Two-Year,12,37.2,482.32,Debit Card,0,2,No
+CUST00051,Male,35,Basic,Month-to-Month,55,11.31,638.25,Debit Card,2,4,No
+CUST00052,Female,59,Basic,Month-to-Month,6,12.53,71.61,Bank Transfer,3,2,Yes
+CUST00053,Male,56,Premium,Month-to-Month,53,39.59,2005.65,PayPal,4,4,No
+CUST00054,Female,34,Basic,Annual,16,9.56,156.33,Credit Card,1,2,No
+CUST00055,Male,31,Basic,Annual,26,10.23,261.03,PayPal,1,5,No
+CUST00056,Female,48,Standard,Month-to-Month,5,21.52,106.34,Debit Card,1,5,No
+CUST00057,Female,41,Premium,Month-to-Month,9,39.5,324.26,Credit Card,0,1,Yes
+CUST00058,Male,52,Basic,Annual,46,11.39,486.08,Credit Card,1,2,Yes
+CUST00059,Male,61,Standard,Annual,40,20.72,811.12,Credit Card,3,1,No
+CUST00060,Male,62,Standard,Two-Year,14,23.53,342.58,Credit Card,1,4,No
+CUST00061,Male,51,Standard,Annual,44,19.5,780.44,Bank Transfer,1,1,No
+CUST00062,Male,20,Standard,Annual,42,17.03,691.59,Credit Card,3,2,Yes
+CUST00063,Male,54,Standard,Month-to-Month,30,17.84,556.08,Debit Card,1,4,No
+CUST00064,Male,60,Basic,Month-to-Month,52,10.01,550.92,Bank Transfer,1,4,No
+CUST00065,Male,57,Standard,Month-to-Month,52,21.53,1050.2,Debit Card,1,5,No
+CUST00066,Female,43,Standard,Annual,26,19.01,517.14,Debit Card,4,4,No
+CUST00067,Female,40,Standard,Annual,53,19.64,1135.73,PayPal,4,4,No
+CUST00068,Male,61,Premium,Month-to-Month,45,41.02,1996.09,Credit Card,0,1,No
+CUST00069,Female,56,Basic,Month-to-Month,29,8.54,261.99,Credit Card,1,4,Yes
+CUST00070,Female,32,Premium,Month-to-Month,19,39.07,773.85,Debit Card,3,3,No
+CUST00071,Female,66,Premium,Two-Year,47,38.24,1702.07,Credit Card,1,5,No
+CUST00072,Female,21,Basic,Annual,8,11.76,96.6,Bank Transfer,1,5,Yes
+CUST00073,Male,46,Standard,Annual,23,22.3,527.6,PayPal,2,4,No
+CUST00074,Female,39,Basic,Annual,53,7.62,396.33,Credit Card,1,1,Yes
+CUST00075,Male,42,Basic,Two-Year,42,9.78,410.19,Credit Card,1,5,No
+CUST00076,Female,30,Basic,Annual,35,12.1,439.93,Bank Transfer,1,5,No
+CUST00077,Female,35,Basic,Annual,31,10.59,357.97,PayPal,1,3,No
+CUST00078,Female,50,Basic,Month-to-Month,53,9.26,470.69,Bank Transfer,2,4,No
+CUST00079,Male,33,Premium,Month-to-Month,35,37.67,1251.57,Debit Card,2,5,No
+CUST00080,Female,62,Basic,Month-to-Month,32,11.72,382.68,Debit Card,0,5,No
+CUST00081,Male,59,Premium,Month-to-Month,58,40.53,2177.16,Credit Card,1,5,No
+CUST00082,Female,61,Standard,Two-Year,5,17.78,90.37,PayPal,0,5,No
+CUST00083,Male,19,Premium,Month-to-Month,16,41.77,613.36,Debit Card,1,1,Yes
+CUST00084,Female,52,Standard,Two-Year,17,17.59,298.47,Bank Transfer,1,2,No
+CUST00085,Male,59,Basic,Month-to-Month,32,9.66,316.56,Debit Card,2,3,No
+CUST00086,Male,51,Standard,Month-to-Month,38,19.59,680.42,Debit Card,0,1,Yes
+CUST00087,Female,47,Basic,Two-Year,58,12.42,678.14,Bank Transfer,2,3,No
+CUST00088,Male,30,Standard,Month-to-Month,32,19.6,606.55,Credit Card,2,5,No
+CUST00089,Female,30,Premium,Month-to-Month,52,39.59,2004.58,PayPal,4,3,No
+CUST00090,Female,35,Basic,Month-to-Month,20,7.95,164.6,Credit Card,2,4,No
+CUST00091,Female,49,Basic,Annual,48,9.03,435.96,Bank Transfer,1,4,No
+CUST00092,Female,49,Standard,Month-to-Month,56,18.76,1025.79,Debit Card,0,2,No
+CUST00093,Female,52,Premium,Annual,2,38.84,76.91,PayPal,1,2,No
+CUST00094,Female,56,Standard,Annual,20,20.0,361.04,Credit Card,1,3,No
+CUST00095,Female,63,Basic,Annual,47,6.34,314.1,Bank Transfer,1,1,No
+CUST00096,Female,69,Standard,Annual,18,17.72,289.68,Debit Card,0,1,Yes
+CUST00097,Female,46,Basic,Month-to-Month,1,9.82,10.47,Debit Card,1,5,Yes
+CUST00098,Female,66,Standard,Month-to-Month,58,20.17,1179.45,Credit Card,1,1,No
+CUST00099,Female,46,Premium,Annual,29,39.64,1155.96,Bank Transfer,4,2,Yes
+CUST00100,Male,61,Standard,Month-to-Month,29,19.93,601.62,Debit Card,2,1,Yes
+CUST00101,Male,33,Premium,Month-to-Month,19,39.38,802.03,Debit Card,0,5,Yes
+CUST00102,Female,61,Basic,Month-to-Month,44,9.96,477.04,PayPal,0,4,Yes
+CUST00103,Female,64,Standard,Two-Year,40,20.64,832.76,Debit Card,2,1,No
+CUST00104,Female,27,Premium,Month-to-Month,6,40.63,226.75,Credit Card,1,1,Yes
+CUST00105,Female,47,Basic,Month-to-Month,44,8.96,424.09,Bank Transfer,1,2,Yes
+CUST00106,Female,42,Premium,Annual,39,41.36,1464.86,Bank Transfer,4,3,No
+CUST00107,Female,56,Basic,Annual,50,10.23,542.94,PayPal,0,4,No
+CUST00108,Female,37,Standard,Month-to-Month,54,21.84,1221.92,Bank Transfer,3,3,Yes
+CUST00109,Female,22,Premium,Month-to-Month,46,42.14,2095.35,Credit Card,0,5,Yes
+CUST00110,Male,18,Standard,Annual,8,17.83,153.98,Debit Card,1,5,No
+CUST00111,Female,47,Basic,Two-Year,24,8.7,190.14,PayPal,0,3,No
+CUST00112,Male,66,Standard,Annual,20,21.21,433.49,Bank Transfer,2,2,No
+CUST00113,Female,20,Standard,Month-to-Month,54,17.49,873.56,PayPal,2,2,No
+CUST00114,Female,62,Premium,Month-to-Month,14,42.12,539.97,PayPal,2,2,No
+CUST00115,Male,31,Basic,Two-Year,5,9.47,46.86,Bank Transfer,3,4,No
+CUST00116,Female,47,Basic,Annual,41,10.85,409.05,PayPal,4,5,No
+CUST00117,Male,67,Standard,Month-to-Month,40,19.82,828.94,Bank Transfer,3,5,No
+CUST00118,Female,21,Basic,Month-to-Month,34,7.9,293.79,Credit Card,4,5,No
+CUST00119,Female,35,Standard,Annual,16,21.57,349.92,Bank Transfer,5,4,Yes
+CUST00120,Male,54,Standard,Month-to-Month,45,24.12,1027.91,Debit Card,1,5,No
+CUST00121,Female,42,Premium,Month-to-Month,7,39.22,293.38,Bank Transfer,2,3,No
+CUST00122,Male,65,Standard,Month-to-Month,16,19.51,334.2,Debit Card,0,1,Yes
+CUST00123,Female,18,Standard,Month-to-Month,7,16.02,117.36,PayPal,0,4,Yes
+CUST00124,Male,63,Basic,Month-to-Month,27,12.02,332.01,Bank Transfer,0,1,Yes
+CUST00125,Male,32,Basic,Annual,14,11.36,170.74,Debit Card,0,3,No
+CUST00126,Female,26,Basic,Month-to-Month,14,7.39,96.49,Bank Transfer,1,2,No
+CUST00127,Female,32,Basic,Month-to-Month,44,6.89,329.33,Bank Transfer,0,2,Yes
+CUST00128,Male,66,Standard,Month-to-Month,33,17.07,613.69,Bank Transfer,0,2,Yes
+CUST00129,Female,41,Standard,Month-to-Month,33,20.96,743.14,Credit Card,2,4,No
+CUST00130,Female,21,Standard,Month-to-Month,44,21.11,882.52,Debit Card,2,2,Yes
+CUST00131,Female,29,Premium,Month-to-Month,20,38.6,827.3,Credit Card,1,4,Yes
+CUST00132,Male,54,Premium,Annual,53,40.74,2158.2,Credit Card,1,4,No
+CUST00133,Male,54,Premium,Month-to-Month,47,40.23,1926.71,Debit Card,1,1,Yes
+CUST00134,Male,60,Standard,Month-to-Month,36,19.44,747.51,Bank Transfer,2,2,Yes
+CUST00135,Male,23,Standard,Month-to-Month,7,21.45,136.02,Credit Card,1,5,Yes
+CUST00136,Male,56,Basic,Month-to-Month,32,8.18,254.58,Credit Card,1,2,Yes
+CUST00137,Male,63,Basic,Two-Year,48,11.71,597.57,Credit Card,0,2,No
+CUST00138,Male,41,Basic,Month-to-Month,3,8.9,28.38,Bank Transfer,2,2,Yes
+CUST00139,Male,28,Premium,Two-Year,39,42.66,1779.77,Credit Card,0,5,No
+CUST00140,Male,30,Premium,Month-to-Month,29,38.48,1042.09,PayPal,1,5,No
+CUST00141,Female,51,Basic,Annual,24,9.46,236.39,Debit Card,1,4,No
+CUST00142,Male,42,Standard,Month-to-Month,22,20.08,410.53,PayPal,1,5,No
+CUST00143,Female,24,Premium,Annual,6,40.07,254.13,Bank Transfer,0,4,No
+CUST00144,Female,69,Basic,Month-to-Month,48,10.73,488.79,Credit Card,1,1,Yes
+CUST00145,Female,21,Basic,Month-to-Month,24,8.06,202.64,Debit Card,2,4,No
+CUST00146,Male,25,Premium,Annual,40,39.93,1582.83,Credit Card,1,2,Yes
+CUST00147,Male,37,Basic,Annual,23,10.2,257.42,Bank Transfer,4,3,No
+CUST00148,Male,46,Basic,Month-to-Month,54,9.2,504.74,Debit Card,1,3,No
+CUST00149,Male,68,Standard,Month-to-Month,38,20.6,803.56,PayPal,1,2,Yes
+CUST00150,Female,62,Premium,Month-to-Month,10,37.97,369.69,Debit Card,3,4,No
+CUST00151,Male,63,Standard,Annual,16,19.5,326.63,Credit Card,3,2,No
+CUST00152,Male,27,Basic,Month-to-Month,11,8.86,97.36,Debit Card,1,5,Yes
+CUST00153,Male,60,Basic,Month-to-Month,32,9.5,274.7,Bank Transfer,1,4,No
+CUST00154,Male,51,Standard,Annual,45,22.16,1018.86,Bank Transfer,0,2,No
+CUST00155,Male,43,Standard,Two-Year,6,22.19,141.94,Debit Card,2,5,No
+CUST00156,Female,58,Standard,Annual,24,21.9,497.93,Bank Transfer,0,5,No
+CUST00157,Male,66,Basic,Annual,33,9.3,289.78,Bank Transfer,2,4,No
+CUST00158,Female,20,Premium,Annual,53,41.35,2239.28,Bank Transfer,0,1,No
+CUST00159,Male,23,Basic,Month-to-Month,51,10.16,551.11,PayPal,0,1,Yes
+CUST00160,Female,22,Basic,Month-to-Month,12,10.06,114.67,Credit Card,2,5,No
+CUST00161,Male,22,Basic,Annual,56,9.87,600.5,Bank Transfer,1,1,Yes
+CUST00162,Male,64,Basic,Month-to-Month,27,12.63,370.16,Debit Card,2,5,No
+CUST00163,Female,40,Standard,Two-Year,38,22.04,787.36,Bank Transfer,2,1,No
+CUST00164,Female,66,Standard,Month-to-Month,18,21.11,362.03,PayPal,2,5,No
+CUST00165,Female,26,Basic,Month-to-Month,45,9.73,455.42,Debit Card,3,5,No
+CUST00166,Male,52,Standard,Two-Year,39,20.05,852.6,Credit Card,1,5,No
+CUST00167,Female,37,Basic,Annual,55,10.79,618.36,Debit Card,2,5,No
+CUST00168,Male,66,Standard,Month-to-Month,13,19.21,246.98,Debit Card,2,3,No
+CUST00169,Male,59,Premium,Annual,53,41.4,2048.94,Debit Card,1,1,Yes
+CUST00170,Female,52,Basic,Annual,40,8.61,341.71,Debit Card,2,5,No
+CUST00171,Female,67,Standard,Month-to-Month,30,20.58,630.58,Bank Transfer,1,2,No
+CUST00172,Male,35,Basic,Month-to-Month,53,6.56,335.93,Credit Card,3,4,No
+CUST00173,Male,34,Basic,Annual,49,9.16,449.76,Bank Transfer,2,2,No
+CUST00174,Female,41,Basic,Two-Year,41,13.11,497.76,PayPal,2,2,No
+CUST00175,Female,20,Standard,Month-to-Month,52,21.54,1109.37,PayPal,2,3,No
+CUST00176,Female,49,Standard,Two-Year,13,22.29,266.05,Debit Card,1,1,No
+CUST00177,Male,52,Basic,Two-Year,34,8.99,278.09,Bank Transfer,0,3,Yes
+CUST00178,Male,55,Premium,Month-to-Month,36,40.15,1548.67,Bank Transfer,1,1,No
+CUST00179,Male,30,Standard,Annual,30,21.91,618.53,Credit Card,4,5,No
+CUST00180,Male,64,Premium,Month-to-Month,25,40.94,1038.88,Credit Card,1,3,No
+CUST00181,Male,42,Standard,Month-to-Month,2,20.75,38.59,Credit Card,1,4,No
+CUST00182,Male,26,Standard,Annual,36,22.44,769.47,Bank Transfer,1,1,Yes
+CUST00183,Female,21,Basic,Two-Year,18,8.43,147.53,Credit Card,0,3,No
+CUST00184,Male,31,Basic,Annual,5,9.71,45.09,Credit Card,0,4,No
+CUST00185,Male,54,Premium,Month-to-Month,19,37.36,645.38,Credit Card,3,2,No
+CUST00186,Male,51,Basic,Month-to-Month,42,8.35,377.15,Debit Card,0,5,No
+CUST00187,Female,28,Premium,Month-to-Month,18,41.6,675.69,PayPal,1,5,Yes
+CUST00188,Male,58,Standard,Month-to-Month,57,18.61,967.7,PayPal,1,2,Yes
+CUST00189,Male,20,Basic,Month-to-Month,32,11.09,376.53,Bank Transfer,2,3,Yes
+CUST00190,Female,45,Basic,Annual,21,12.48,250.65,Bank Transfer,1,2,No
+CUST00191,Male,46,Basic,Month-to-Month,10,9.72,101.53,Debit Card,2,4,No
+CUST00192,Male,26,Premium,Annual,37,40.77,1401.76,PayPal,1,1,Yes
+CUST00193,Male,20,Basic,Month-to-Month,49,11.1,515.32,Credit Card,0,3,No
+CUST00194,Male,42,Basic,Annual,22,8.16,182.13,Credit Card,0,1,No
+CUST00195,Male,51,Basic,Month-to-Month,13,9.07,129.43,Bank Transfer,2,2,Yes
+CUST00196,Female,29,Basic,Month-to-Month,55,8.48,426.61,PayPal,3,5,No
+CUST00197,Female,59,Standard,Month-to-Month,17,19.18,319.57,Bank Transfer,2,1,No
+CUST00198,Female,26,Basic,Month-to-Month,9,11.06,90.44,Bank Transfer,0,1,Yes
+CUST00199,Male,32,Premium,Two-Year,24,39.1,881.95,Credit Card,0,5,No
+CUST00200,Male,57,Basic,Month-to-Month,44,9.94,473.0,Credit Card,3,1,Yes
+CUST00201,Male,42,Basic,Annual,14,8.43,108.49,PayPal,3,1,No
+CUST00202,Female,22,Standard,Two-Year,46,21.83,1075.85,Bank Transfer,1,5,No
+CUST00203,Male,28,Basic,Annual,8,9.17,68.63,Debit Card,2,5,No
+CUST00204,Male,51,Premium,Month-to-Month,55,42.27,2493.07,PayPal,1,2,No
+CUST00205,Female,41,Standard,Two-Year,37,20.08,748.61,Bank Transfer,1,2,No
+CUST00206,Male,32,Basic,Month-to-Month,19,7.88,161.05,PayPal,2,1,Yes
+CUST00207,Female,55,Standard,Month-to-Month,28,19.73,513.96,PayPal,2,3,No
+CUST00208,Female,25,Basic,Two-Year,46,8.4,406.65,PayPal,4,2,No
+CUST00209,Female,22,Basic,Annual,41,10.87,461.78,Debit Card,3,2,No
+CUST00210,Male,65,Premium,Month-to-Month,30,39.6,1198.2,Debit Card,2,3,No
+CUST00211,Male,43,Standard,Month-to-Month,7,20.23,150.41,Credit Card,1,3,Yes
+CUST00212,Male,35,Premium,Month-to-Month,59,39.44,2395.97,Credit Card,3,5,No
+CUST00213,Male,23,Standard,Month-to-Month,58,19.16,1195.08,Bank Transfer,0,2,Yes
+CUST00214,Male,54,Standard,Month-to-Month,26,18.53,470.32,PayPal,3,4,No
+CUST00215,Male,65,Basic,Two-Year,40,11.24,457.69,Bank Transfer,1,4,No
+CUST00216,Male,30,Basic,Two-Year,46,9.73,480.75,Credit Card,0,1,No
+CUST00217,Female,45,Premium,Two-Year,54,39.52,2012.36,Debit Card,2,2,No
+CUST00218,Male,22,Basic,Month-to-Month,46,9.69,444.47,Credit Card,1,4,No
+CUST00219,Female,30,Premium,Annual,11,38.97,468.17,Bank Transfer,0,2,No
+CUST00220,Male,34,Standard,Two-Year,14,19.52,271.84,Credit Card,0,2,No
+CUST00221,Male,67,Basic,Two-Year,21,10.3,205.61,Bank Transfer,1,4,No
+CUST00222,Male,57,Standard,Month-to-Month,8,18.44,143.13,Bank Transfer,1,2,No
+CUST00223,Female,62,Standard,Month-to-Month,3,18.66,60.29,Bank Transfer,1,3,No
+CUST00224,Female,49,Basic,Month-to-Month,28,12.06,368.4,Bank Transfer,3,1,No
+CUST00225,Female,46,Premium,Annual,29,39.45,1247.04,Credit Card,1,5,No
+CUST00226,Female,68,Standard,Annual,23,19.16,458.21,Bank Transfer,0,4,No
+CUST00227,Male,20,Basic,Annual,18,7.97,143.74,Bank Transfer,2,5,No
+CUST00228,Female,57,Standard,Month-to-Month,35,21.27,697.21,PayPal,3,1,Yes
+CUST00229,Male,51,Premium,Month-to-Month,13,38.41,461.7,Bank Transfer,1,3,Yes
+CUST00230,Male,57,Basic,Month-to-Month,12,9.97,109.11,Credit Card,3,3,Yes
+CUST00231,Female,44,Premium,Month-to-Month,47,37.43,1589.52,Bank Transfer,1,3,No
+CUST00232,Female,30,Basic,Month-to-Month,50,11.22,603.42,Debit Card,3,3,Yes
+CUST00233,Female,62,Standard,Annual,5,21.76,115.53,Debit Card,1,4,Yes
+CUST00234,Female,50,Standard,Month-to-Month,39,20.72,819.04,Bank Transfer,4,4,No
+CUST00235,Female,23,Basic,Annual,11,7.69,93.03,Debit Card,2,2,Yes
+CUST00236,Female,41,Basic,Month-to-Month,58,11.25,711.62,Debit Card,2,2,Yes
+CUST00237,Female,36,Standard,Month-to-Month,59,18.75,1140.57,Credit Card,3,1,No
+CUST00238,Female,33,Standard,Month-to-Month,11,18.23,199.11,PayPal,1,2,Yes
+CUST00239,Male,57,Standard,Two-Year,59,19.41,1065.52,Debit Card,1,1,No
+CUST00240,Female,45,Basic,Month-to-Month,47,9.38,442.23,Debit Card,1,1,Yes
+CUST00241,Female,50,Premium,Annual,42,39.23,1534.88,PayPal,3,1,No
+CUST00242,Male,65,Standard,Month-to-Month,47,21.9,1008.4,PayPal,1,3,Yes
+CUST00243,Female,58,Premium,Two-Year,31,43.01,1451.35,Debit Card,1,5,No
+CUST00244,Male,30,Basic,Annual,31,7.94,238.36,Bank Transfer,4,5,No
+CUST00245,Male,60,Standard,Month-to-Month,13,18.96,229.36,Debit Card,1,4,No
+CUST00246,Female,62,Standard,Annual,14,20.2,287.46,Bank Transfer,0,1,Yes
+CUST00247,Male,42,Basic,Month-to-Month,49,9.41,470.53,Bank Transfer,2,3,Yes
+CUST00248,Male,59,Standard,Two-Year,45,20.59,869.81,Bank Transfer,2,2,No
+CUST00249,Male,53,Basic,Month-to-Month,42,11.36,448.17,PayPal,3,2,Yes
+CUST00250,Male,44,Standard,Month-to-Month,25,21.11,579.42,Debit Card,1,4,No
+CUST00251,Female,55,Standard,Annual,33,20.9,654.29,Debit Card,2,4,No
+CUST00252,Male,24,Basic,Annual,33,12.48,439.7,Credit Card,1,1,No
+CUST00253,Female,22,Standard,Month-to-Month,15,17.61,262.58,PayPal,1,1,No
+CUST00254,Male,60,Standard,Annual,16,22.21,350.74,Credit Card,1,2,Yes
+CUST00255,Male,62,Basic,Month-to-Month,44,9.37,395.37,Credit Card,1,2,Yes
+CUST00256,Male,68,Premium,Month-to-Month,58,41.17,2518.63,Bank Transfer,2,2,Yes
+CUST00257,Male,48,Premium,Annual,56,38.45,2317.13,PayPal,2,2,No
+CUST00258,Female,40,Standard,Month-to-Month,38,18.63,674.12,Credit Card,1,5,No
+CUST00259,Female,59,Basic,Month-to-Month,6,10.98,60.54,Debit Card,2,1,Yes
+CUST00260,Male,27,Standard,Annual,44,17.1,697.76,Credit Card,3,1,Yes
+CUST00261,Male,49,Standard,Month-to-Month,25,21.47,568.18,PayPal,0,2,Yes
+CUST00262,Female,60,Basic,Annual,15,11.88,175.91,Debit Card,1,3,No
+CUST00263,Male,47,Standard,Month-to-Month,4,20.26,75.07,Debit Card,0,2,No
+CUST00264,Male,56,Standard,Month-to-Month,56,20.2,1095.07,Debit Card,3,4,No
+CUST00265,Male,48,Standard,Month-to-Month,4,18.74,75.17,Bank Transfer,5,3,No
+CUST00266,Female,35,Basic,Annual,30,11.0,353.24,Debit Card,0,4,No
+CUST00267,Female,53,Standard,Annual,34,20.51,717.11,Bank Transfer,2,3,No
+CUST00268,Female,19,Premium,Month-to-Month,27,38.61,974.92,Bank Transfer,0,4,No
+CUST00269,Male,31,Basic,Month-to-Month,31,9.4,271.51,Credit Card,3,2,No
+CUST00270,Male,30,Standard,Two-Year,56,19.75,1086.61,Credit Card,2,2,No
+CUST00271,Female,46,Premium,Month-to-Month,32,39.4,1153.68,Debit Card,0,3,No
+CUST00272,Female,29,Standard,Two-Year,44,17.95,830.17,PayPal,3,4,No
+CUST00273,Female,56,Basic,Month-to-Month,39,11.04,422.07,Debit Card,0,5,No
+CUST00274,Female,19,Standard,Annual,52,19.62,988.21,Credit Card,2,3,No
+CUST00275,Male,49,Standard,Month-to-Month,9,20.01,180.42,Debit Card,0,3,No
+CUST00276,Female,30,Premium,Two-Year,41,39.12,1670.95,Credit Card,4,1,No
+CUST00277,Male,63,Standard,Annual,8,20.7,167.9,Debit Card,3,3,No
+CUST00278,Female,44,Premium,Month-to-Month,14,40.29,598.17,PayPal,1,5,No
+CUST00279,Male,66,Basic,Month-to-Month,33,11.81,399.81,Debit Card,1,2,Yes
+CUST00280,Female,58,Basic,Annual,23,10.71,260.52,PayPal,1,4,No
+CUST00281,Female,34,Standard,Annual,21,19.69,429.76,PayPal,0,1,No
+CUST00282,Female,57,Basic,Month-to-Month,55,8.88,458.42,Debit Card,0,4,No
+CUST00283,Female,48,Basic,Month-to-Month,12,11.29,123.35,PayPal,2,2,No
+CUST00284,Male,51,Basic,Annual,57,9.57,589.5,PayPal,2,3,No
+CUST00285,Female,41,Basic,Month-to-Month,2,9.73,21.19,Credit Card,2,5,No
+CUST00286,Male,62,Basic,Annual,13,9.73,132.23,Credit Card,0,1,No
+CUST00287,Male,52,Premium,Month-to-Month,59,39.39,2428.22,PayPal,0,5,Yes
+CUST00288,Male,65,Basic,Two-Year,4,9.76,37.25,Bank Transfer,1,5,No
+CUST00289,Male,23,Standard,Two-Year,20,22.88,461.48,Debit Card,1,5,Yes
+CUST00290,Female,36,Standard,Two-Year,50,18.42,1011.67,PayPal,0,5,No
+CUST00291,Male,47,Premium,Month-to-Month,51,38.77,2118.11,Debit Card,4,2,Yes
+CUST00292,Male,24,Basic,Two-Year,48,12.07,556.69,Credit Card,2,5,No
+CUST00293,Male,27,Premium,Month-to-Month,59,39.43,2233.8,Debit Card,1,5,No
+CUST00294,Female,58,Standard,Annual,14,19.31,269.45,PayPal,1,2,No
+CUST00295,Female,49,Standard,Month-to-Month,30,21.54,633.87,PayPal,1,4,No
+CUST00296,Female,51,Standard,Month-to-Month,29,17.86,504.59,PayPal,0,2,Yes
+CUST00297,Female,45,Premium,Two-Year,8,41.22,338.13,PayPal,0,3,No
+CUST00298,Male,32,Basic,Month-to-Month,12,10.06,108.93,Bank Transfer,0,2,Yes
+CUST00299,Male,47,Standard,Annual,41,20.69,892.97,Bank Transfer,1,4,No
+CUST00300,Female,54,Standard,Annual,38,20.66,822.77,Bank Transfer,0,3,No
+CUST00301,Male,46,Standard,Annual,26,19.05,528.02,PayPal,4,3,No
+CUST00302,Male,39,Premium,Month-to-Month,50,41.57,2220.44,Bank Transfer,0,1,Yes
+CUST00303,Male,21,Basic,Month-to-Month,2,9.16,18.56,Debit Card,1,5,No
+CUST00304,Female,37,Premium,Annual,55,40.6,2358.08,PayPal,2,3,No
+CUST00305,Female,49,Basic,Month-to-Month,40,11.85,473.28,Credit Card,2,3,No
+CUST00306,Male,53,Basic,Month-to-Month,56,12.06,736.35,PayPal,2,4,No
+CUST00307,Female,67,Basic,Month-to-Month,14,9.59,125.95,Debit Card,1,3,No
+CUST00308,Female,21,Basic,Month-to-Month,6,10.68,69.41,Bank Transfer,4,4,No
+CUST00309,Female,44,Standard,Two-Year,42,19.45,777.45,PayPal,3,5,No
+CUST00310,Female,34,Basic,Month-to-Month,40,13.75,506.3,Bank Transfer,0,1,Yes
+CUST00311,Female,29,Basic,Annual,31,11.16,341.75,PayPal,1,1,No
+CUST00312,Male,39,Premium,Month-to-Month,17,40.12,697.72,Debit Card,1,5,Yes
+CUST00313,Female,34,Premium,Month-to-Month,25,40.46,957.08,PayPal,1,5,No
+CUST00314,Male,27,Premium,Month-to-Month,32,40.6,1313.7,Bank Transfer,4,2,No
+CUST00315,Male,18,Premium,Month-to-Month,12,40.65,517.84,Bank Transfer,0,3,No
+CUST00316,Female,39,Standard,Month-to-Month,49,19.63,915.14,Debit Card,4,3,No
+CUST00317,Male,43,Basic,Annual,13,9.4,124.16,PayPal,0,3,No
+CUST00318,Male,35,Basic,Month-to-Month,19,9.76,179.48,Credit Card,2,4,Yes
+CUST00319,Male,67,Standard,Month-to-Month,44,18.28,809.11,PayPal,1,2,Yes
+CUST00320,Female,31,Basic,Month-to-Month,48,11.07,549.1,Debit Card,1,3,No
+CUST00321,Female,64,Standard,Month-to-Month,25,18.79,455.7,Credit Card,3,4,No
+CUST00322,Male,46,Basic,Two-Year,31,8.4,286.15,Debit Card,1,4,No
+CUST00323,Female,29,Basic,Month-to-Month,59,9.97,595.73,PayPal,2,1,No
+CUST00324,Female,53,Standard,Month-to-Month,37,19.79,779.75,Credit Card,0,4,No
+CUST00325,Female,52,Standard,Month-to-Month,25,20.36,531.92,Debit Card,0,5,No
+CUST00326,Female,69,Standard,Two-Year,16,19.14,327.85,Bank Transfer,1,4,No
+CUST00327,Male,29,Standard,Month-to-Month,57,19.4,1033.66,Credit Card,4,5,Yes
+CUST00328,Male,24,Basic,Annual,38,11.03,395.88,Credit Card,4,5,No
+CUST00329,Female,46,Basic,Month-to-Month,43,10.94,469.24,Debit Card,1,1,No
+CUST00330,Female,28,Premium,Two-Year,49,40.87,2143.75,Bank Transfer,1,1,No
+CUST00331,Male,50,Standard,Two-Year,58,20.04,1092.02,Credit Card,1,4,No
+CUST00332,Male,23,Basic,Annual,23,10.24,257.71,Debit Card,3,1,No
+CUST00333,Female,64,Premium,Month-to-Month,14,40.34,522.7,Credit Card,0,1,Yes
+CUST00334,Male,32,Basic,Month-to-Month,6,9.01,50.55,Credit Card,0,3,No
+CUST00335,Female,49,Standard,Month-to-Month,25,22.2,518.06,Credit Card,2,4,No
+CUST00336,Female,68,Basic,Month-to-Month,23,11.99,280.51,Bank Transfer,3,4,No
+CUST00337,Male,28,Standard,Month-to-Month,43,21.18,986.79,PayPal,0,4,No
+CUST00338,Male,40,Standard,Month-to-Month,12,19.35,220.83,PayPal,1,1,Yes
+CUST00339,Female,43,Basic,Annual,13,10.8,141.89,Bank Transfer,1,1,No
+CUST00340,Female,51,Premium,Month-to-Month,36,41.46,1395.77,Bank Transfer,0,5,No
+CUST00341,Male,63,Basic,Month-to-Month,39,8.16,326.59,Debit Card,4,2,Yes
+CUST00342,Female,51,Basic,Month-to-Month,34,12.53,393.92,Credit Card,0,2,Yes
+CUST00343,Male,46,Basic,Two-Year,6,7.38,44.2,Bank Transfer,0,2,No
+CUST00344,Female,21,Basic,Month-to-Month,38,11.05,432.93,Debit Card,1,3,No
+CUST00345,Male,34,Basic,Annual,50,12.17,618.13,PayPal,0,1,No
+CUST00346,Male,52,Standard,Month-to-Month,52,19.82,956.43,PayPal,1,5,Yes
+CUST00347,Male,30,Premium,Month-to-Month,40,39.76,1482.69,PayPal,1,5,No
+CUST00348,Female,58,Standard,Month-to-Month,8,20.99,173.68,PayPal,1,2,Yes
+CUST00349,Female,56,Basic,Month-to-Month,8,12.77,108.47,Debit Card,1,3,Yes
+CUST00350,Male,32,Basic,Annual,40,9.57,414.04,Credit Card,2,3,No
+CUST00351,Female,46,Basic,Annual,33,8.82,309.32,Debit Card,2,2,Yes
+CUST00352,Male,46,Basic,Month-to-Month,34,9.35,348.03,Credit Card,0,2,Yes
+CUST00353,Male,28,Standard,Two-Year,44,17.66,762.78,PayPal,0,1,No
+CUST00354,Female,69,Basic,Month-to-Month,15,11.34,164.36,Bank Transfer,0,3,Yes
+CUST00355,Female,49,Standard,Two-Year,36,19.22,626.63,Bank Transfer,0,5,No
+CUST00356,Male,19,Premium,Two-Year,57,39.68,2239.1,Bank Transfer,4,2,Yes
+CUST00357,Female,64,Standard,Month-to-Month,35,21.35,769.87,Credit Card,1,1,Yes
+CUST00358,Female,31,Premium,Month-to-Month,46,39.42,1927.71,PayPal,2,5,No
+CUST00359,Male,37,Standard,Month-to-Month,22,21.13,443.24,Debit Card,1,3,No
+CUST00360,Male,39,Standard,Annual,23,18.43,425.04,Bank Transfer,0,2,No
+CUST00361,Female,28,Standard,Month-to-Month,40,21.43,884.97,Credit Card,2,2,Yes
+CUST00362,Male,44,Standard,Two-Year,45,20.5,932.02,Bank Transfer,1,1,Yes
+CUST00363,Male,20,Basic,Annual,55,9.86,517.79,Debit Card,0,1,Yes
+CUST00364,Female,34,Basic,Month-to-Month,51,10.19,550.49,PayPal,2,3,No
+CUST00365,Male,61,Basic,Month-to-Month,22,8.06,165.74,Debit Card,2,2,No
+CUST00366,Male,45,Standard,Annual,5,20.15,108.91,PayPal,0,1,No
+CUST00367,Female,46,Basic,Month-to-Month,31,9.78,330.62,PayPal,1,2,Yes
+CUST00368,Female,38,Premium,Annual,13,38.1,481.98,PayPal,2,3,No
+CUST00369,Male,64,Standard,Month-to-Month,28,18.98,518.28,Bank Transfer,0,2,Yes
+CUST00370,Male,33,Basic,Month-to-Month,58,9.8,596.06,Debit Card,1,5,Yes
+CUST00371,Female,54,Basic,Month-to-Month,20,9.08,180.01,Bank Transfer,3,2,No
+CUST00372,Female,37,Premium,Annual,33,36.37,1087.06,Debit Card,5,4,No
+CUST00373,Female,23,Premium,Month-to-Month,16,41.6,721.49,Credit Card,2,4,Yes
+CUST00374,Female,36,Standard,Annual,29,19.78,565.68,Credit Card,0,3,No
+CUST00375,Male,22,Basic,Month-to-Month,23,6.58,142.37,Debit Card,1,3,No
+CUST00376,Female,20,Basic,Annual,24,13.19,320.08,Debit Card,2,3,No
+CUST00377,Female,18,Basic,Annual,34,11.85,380.25,Debit Card,2,5,No
+CUST00378,Male,55,Basic,Month-to-Month,7,9.47,62.39,Debit Card,3,5,No
+CUST00379,Female,32,Standard,Annual,38,18.73,718.25,PayPal,2,2,Yes
+CUST00380,Male,51,Standard,Month-to-Month,37,20.59,745.23,Bank Transfer,3,1,Yes
+CUST00381,Female,52,Standard,Month-to-Month,4,20.29,82.34,PayPal,4,4,Yes
+CUST00382,Female,66,Premium,Month-to-Month,34,40.8,1525.04,Bank Transfer,2,4,No
+CUST00383,Female,42,Standard,Annual,42,18.73,843.15,Bank Transfer,0,4,No
+CUST00384,Male,41,Standard,Two-Year,22,21.64,429.2,Bank Transfer,1,2,No
+CUST00385,Male,29,Basic,Annual,5,9.28,42.23,PayPal,0,2,No
+CUST00386,Female,35,Premium,Month-to-Month,50,41.01,2095.64,Debit Card,0,3,No
+CUST00387,Male,32,Basic,Annual,42,8.79,378.5,PayPal,1,1,Yes
+CUST00388,Male,61,Premium,Month-to-Month,23,43.96,1087.56,PayPal,2,3,No
+CUST00389,Male,33,Premium,Two-Year,54,41.03,2272.81,Bank Transfer,1,2,Yes
+CUST00390,Male,44,Basic,Month-to-Month,15,14.32,203.1,Credit Card,3,5,No
+CUST00391,Male,25,Standard,Two-Year,31,21.23,653.99,Credit Card,3,3,No
+CUST00392,Male,63,Premium,Annual,59,39.15,2452.59,PayPal,2,2,No
+CUST00393,Female,42,Standard,Annual,9,21.23,207.23,Bank Transfer,0,2,No
+CUST00394,Female,34,Premium,Annual,43,41.34,1684.09,PayPal,3,5,No
+CUST00395,Male,46,Premium,Month-to-Month,58,40.55,2370.53,PayPal,1,5,No
+CUST00396,Female,25,Basic,Annual,53,10.94,540.27,Debit Card,3,5,No
+CUST00397,Female,32,Basic,Month-to-Month,25,11.13,278.08,Bank Transfer,3,1,Yes
+CUST00398,Female,44,Premium,Annual,25,38.5,883.6,Credit Card,2,2,No
+CUST00399,Female,63,Standard,Annual,49,18.39,980.72,Credit Card,1,5,No
+CUST00400,Male,67,Basic,Two-Year,21,8.8,189.9,Credit Card,2,1,No
+CUST00401,Female,69,Basic,Month-to-Month,9,10.18,98.11,PayPal,0,4,No
+CUST00402,Female,24,Standard,Month-to-Month,55,19.66,1189.06,Bank Transfer,3,4,Yes
+CUST00403,Male,20,Premium,Month-to-Month,48,38.53,1732.06,Debit Card,1,4,Yes
+CUST00404,Male,46,Premium,Annual,38,41.15,1624.42,Credit Card,1,2,Yes
+CUST00405,Female,61,Standard,Month-to-Month,22,20.41,483.77,Bank Transfer,1,1,No
+CUST00406,Female,41,Basic,Month-to-Month,43,10.24,447.01,Credit Card,5,1,Yes
+CUST00407,Female,20,Basic,Annual,23,9.6,226.97,Debit Card,2,4,No
+CUST00408,Female,37,Premium,Annual,49,39.42,1895.91,Bank Transfer,0,3,No
+CUST00409,Female,63,Basic,Month-to-Month,4,8.73,36.14,PayPal,2,4,No
+CUST00410,Female,32,Basic,Month-to-Month,29,11.39,323.41,PayPal,1,2,Yes
+CUST00411,Male,42,Basic,Annual,15,8.93,133.32,Credit Card,1,4,No
+CUST00412,Female,47,Standard,Month-to-Month,1,20.3,18.69,Credit Card,4,4,No
+CUST00413,Female,31,Premium,Annual,54,42.48,2068.11,Bank Transfer,4,1,Yes
+CUST00414,Male,24,Basic,Month-to-Month,30,9.49,259.37,Debit Card,1,4,No
+CUST00415,Male,34,Standard,Two-Year,29,21.43,583.25,Credit Card,3,5,No
+CUST00416,Male,61,Standard,Month-to-Month,20,20.84,413.18,Bank Transfer,4,5,Yes
+CUST00417,Male,37,Premium,Month-to-Month,33,40.46,1207.27,Debit Card,3,3,No
+CUST00418,Female,53,Basic,Annual,41,10.64,406.22,Credit Card,1,2,Yes
+CUST00419,Female,26,Standard,Annual,44,19.85,922.56,Credit Card,1,2,Yes
+CUST00420,Female,55,Basic,Month-to-Month,36,10.04,380.39,Bank Transfer,2,1,Yes
+CUST00421,Female,65,Premium,Annual,22,39.17,911.67,Credit Card,0,2,No
+CUST00422,Female,39,Standard,Month-to-Month,13,20.05,282.62,PayPal,1,3,No
+CUST00423,Female,19,Basic,Two-Year,7,9.11,58.91,Debit Card,1,5,No
+CUST00424,Male,41,Standard,Annual,8,21.5,160.41,Debit Card,4,1,Yes
+CUST00425,Female,25,Standard,Month-to-Month,28,17.44,472.06,PayPal,1,5,Yes
+CUST00426,Male,28,Basic,Annual,45,10.71,521.97,Bank Transfer,1,3,No
+CUST00427,Male,30,Premium,Month-to-Month,43,40.49,1837.0,PayPal,1,1,Yes
+CUST00428,Female,34,Basic,Month-to-Month,9,10.36,89.96,PayPal,1,4,Yes
+CUST00429,Male,25,Standard,Two-Year,25,21.53,493.86,Debit Card,3,2,No
+CUST00430,Female,38,Basic,Annual,56,9.56,547.82,Bank Transfer,1,3,No
+CUST00431,Male,35,Standard,Month-to-Month,16,20.37,310.07,Credit Card,4,1,Yes
+CUST00432,Female,47,Basic,Month-to-Month,10,7.42,74.66,PayPal,0,5,Yes
+CUST00433,Male,35,Premium,Month-to-Month,11,39.37,471.34,PayPal,4,1,Yes
+CUST00434,Female,63,Standard,Two-Year,31,21.27,668.95,Bank Transfer,0,4,No
+CUST00435,Female,64,Standard,Month-to-Month,12,17.98,234.05,PayPal,0,3,No
+CUST00436,Female,48,Standard,Month-to-Month,31,20.23,613.71,Bank Transfer,0,1,Yes
+CUST00437,Female,55,Standard,Month-to-Month,14,18.97,272.66,Credit Card,1,3,No
+CUST00438,Female,49,Basic,Month-to-Month,51,9.82,540.27,Bank Transfer,2,3,No
+CUST00439,Male,28,Basic,Month-to-Month,44,9.06,405.66,Credit Card,0,5,No
+CUST00440,Male,62,Premium,Month-to-Month,32,38.12,1247.87,Bank Transfer,0,2,Yes
+CUST00441,Male,42,Basic,Month-to-Month,50,10.57,551.36,PayPal,2,4,No
+CUST00442,Female,50,Standard,Month-to-Month,53,19.92,1136.44,Credit Card,3,1,No
+CUST00443,Male,55,Premium,Two-Year,17,40.91,638.19,PayPal,3,2,Yes
+CUST00444,Female,58,Basic,Month-to-Month,35,11.18,378.53,Credit Card,5,5,Yes
+CUST00445,Female,25,Standard,Annual,1,21.83,21.38,Bank Transfer,0,2,Yes
+CUST00446,Male,28,Standard,Annual,29,20.19,633.49,Bank Transfer,1,3,No
+CUST00447,Male,39,Standard,Annual,51,21.89,1218.21,Bank Transfer,1,3,No
+CUST00448,Female,68,Basic,Two-Year,4,8.53,31.53,Debit Card,0,4,No
+CUST00449,Male,41,Basic,Month-to-Month,23,11.35,241.16,Debit Card,1,1,Yes
+CUST00450,Female,58,Standard,Month-to-Month,28,20.68,629.4,Credit Card,0,1,No
+CUST00451,Female,34,Premium,Month-to-Month,16,40.34,619.08,Debit Card,1,5,No
+CUST00452,Female,29,Standard,Month-to-Month,12,20.66,235.12,Bank Transfer,0,4,No
+CUST00453,Female,63,Standard,Annual,53,18.55,891.84,Debit Card,3,1,No
+CUST00454,Female,49,Basic,Annual,21,8.19,164.27,Debit Card,2,3,No
+CUST00455,Male,32,Standard,Two-Year,45,22.55,1054.03,PayPal,0,4,No
+CUST00456,Male,33,Basic,Month-to-Month,17,9.74,163.13,Credit Card,0,2,Yes
+CUST00457,Female,39,Premium,Two-Year,40,39.72,1594.16,Credit Card,4,4,No
+CUST00458,Female,45,Premium,Month-to-Month,13,38.34,540.02,Credit Card,2,4,No
+CUST00459,Male,37,Standard,Month-to-Month,52,17.77,852.83,Debit Card,2,1,Yes
+CUST00460,Male,50,Premium,Month-to-Month,58,39.86,2113.63,Bank Transfer,2,5,No
+CUST00461,Female,27,Basic,Annual,32,9.48,324.71,PayPal,0,5,No
+CUST00462,Male,57,Standard,Month-to-Month,37,19.99,780.29,Credit Card,3,1,Yes
+CUST00463,Female,49,Basic,Two-Year,50,10.12,482.09,Debit Card,0,1,Yes
+CUST00464,Male,67,Premium,Two-Year,15,43.72,632.75,Bank Transfer,2,1,No
+CUST00465,Female,50,Basic,Two-Year,12,9.48,109.44,PayPal,3,5,No
+CUST00466,Male,19,Standard,Month-to-Month,49,22.36,1128.03,PayPal,0,1,No
+CUST00467,Female,50,Premium,Two-Year,57,42.45,2207.31,Credit Card,3,2,No
+CUST00468,Male,50,Basic,Annual,15,11.12,166.45,Credit Card,0,2,Yes
+CUST00469,Male,58,Basic,Month-to-Month,34,9.64,303.76,Bank Transfer,3,3,Yes
+CUST00470,Female,30,Standard,Month-to-Month,6,17.95,114.59,Debit Card,4,2,Yes
+CUST00471,Male,47,Standard,Month-to-Month,17,20.71,343.67,Bank Transfer,0,4,Yes
+CUST00472,Female,50,Basic,Month-to-Month,48,11.52,556.01,Credit Card,0,3,No
+CUST00473,Male,30,Basic,Month-to-Month,49,12.61,559.72,Bank Transfer,3,2,Yes
+CUST00474,Female,69,Basic,Two-Year,57,8.57,445.33,Debit Card,2,4,No
+CUST00475,Male,43,Premium,Month-to-Month,20,39.62,820.14,PayPal,2,2,No
+CUST00476,Female,39,Standard,Month-to-Month,9,18.57,176.05,PayPal,2,4,No
+CUST00477,Male,56,Basic,Two-Year,59,9.04,555.76,PayPal,2,1,No
+CUST00478,Female,19,Basic,Month-to-Month,5,10.99,57.55,PayPal,2,4,No
+CUST00479,Male,55,Basic,Two-Year,23,8.97,190.0,Credit Card,1,1,No
+CUST00480,Female,56,Basic,Month-to-Month,33,8.75,299.92,Credit Card,2,4,No
+CUST00481,Female,43,Basic,Annual,38,11.19,398.15,Debit Card,1,4,Yes
+CUST00482,Female,63,Basic,Month-to-Month,56,10.67,549.48,Debit Card,1,2,Yes
+CUST00483,Male,67,Basic,Annual,14,10.52,154.85,Debit Card,0,4,No
+CUST00484,Female,32,Standard,Month-to-Month,17,19.01,348.34,Debit Card,2,2,Yes
+CUST00485,Male,51,Basic,Annual,57,11.93,709.48,Bank Transfer,0,4,No
+CUST00486,Female,59,Standard,Month-to-Month,19,20.01,403.43,Debit Card,0,5,No
+CUST00487,Male,61,Standard,Two-Year,33,23.56,853.84,PayPal,3,3,No
+CUST00488,Female,66,Standard,Month-to-Month,1,20.23,18.75,PayPal,4,2,Yes
+CUST00489,Male,57,Standard,Month-to-Month,13,16.49,234.31,PayPal,0,2,Yes
+CUST00490,Male,28,Standard,Annual,46,16.42,770.61,Bank Transfer,3,1,No
+CUST00491,Female,20,Premium,Month-to-Month,27,40.93,1174.35,Debit Card,1,5,No
+CUST00492,Male,23,Standard,Annual,6,21.94,135.59,PayPal,1,1,No
+CUST00493,Male,26,Standard,Two-Year,59,18.81,1125.34,PayPal,0,5,No
+CUST00494,Female,23,Premium,Annual,6,43.14,269.38,PayPal,1,5,No
+CUST00495,Male,26,Standard,Month-to-Month,33,22.48,715.17,PayPal,0,4,No
+CUST00496,Male,56,Basic,Annual,30,10.31,335.55,Credit Card,0,1,No
+CUST00497,Male,48,Basic,Annual,46,10.8,458.58,Debit Card,0,3,No
+CUST00498,Female,49,Basic,Annual,35,11.33,382.12,Debit Card,0,5,Yes
+CUST00499,Male,58,Premium,Month-to-Month,23,42.82,892.51,Bank Transfer,2,5,No
+CUST00500,Female,67,Standard,Month-to-Month,10,21.01,200.49,Credit Card,2,2,No
+CUST00501,Male,29,Premium,Month-to-Month,51,40.27,1938.02,Bank Transfer,1,4,No
+CUST00502,Male,25,Standard,Month-to-Month,19,21.0,363.06,PayPal,3,3,No
+CUST00503,Male,25,Standard,Month-to-Month,51,20.8,1059.05,Bank Transfer,2,5,No
+CUST00504,Female,67,Basic,Month-to-Month,28,11.38,316.64,PayPal,2,2,No
+CUST00505,Male,45,Standard,Annual,23,17.63,371.25,PayPal,0,1,No
+CUST00506,Male,37,Standard,Two-Year,4,20.46,77.94,Debit Card,1,5,No
+CUST00507,Female,64,Premium,Annual,20,40.68,887.36,Debit Card,0,2,No
+CUST00508,Male,24,Basic,Month-to-Month,19,9.88,173.11,Debit Card,1,1,No
+CUST00509,Female,28,Standard,Month-to-Month,42,21.17,854.47,Debit Card,3,4,No
+CUST00510,Female,37,Standard,Two-Year,27,22.87,560.17,Debit Card,2,1,No
+CUST00511,Male,33,Standard,Two-Year,57,20.2,1070.55,Credit Card,2,5,No
+CUST00512,Female,21,Standard,Two-Year,34,21.03,743.53,Debit Card,1,3,No
+CUST00513,Male,23,Standard,Annual,4,22.4,87.21,Bank Transfer,0,1,Yes
+CUST00514,Female,39,Basic,Month-to-Month,56,10.23,567.39,PayPal,0,3,No
+CUST00515,Female,43,Standard,Annual,38,18.66,660.43,Debit Card,2,3,Yes
+CUST00516,Male,20,Standard,Month-to-Month,7,20.91,151.7,Credit Card,6,1,No
+CUST00517,Female,58,Premium,Month-to-Month,48,36.69,1849.71,Bank Transfer,1,4,No
+CUST00518,Female,59,Premium,Annual,7,36.54,239.47,Bank Transfer,2,1,No
+CUST00519,Female,31,Basic,Month-to-Month,50,10.49,476.77,PayPal,2,2,Yes
+CUST00520,Female,28,Basic,Month-to-Month,52,6.47,308.24,Bank Transfer,1,3,No
+CUST00521,Female,35,Premium,Month-to-Month,26,38.02,1019.57,Bank Transfer,1,5,No
+CUST00522,Male,29,Standard,Month-to-Month,26,19.42,468.11,Bank Transfer,1,3,No
+CUST00523,Female,40,Premium,Two-Year,54,38.91,2098.58,Bank Transfer,1,5,No
+CUST00524,Male,29,Basic,Month-to-Month,19,9.77,172.73,Credit Card,2,2,No
+CUST00525,Female,30,Standard,Month-to-Month,9,21.66,182.08,PayPal,1,2,No
+CUST00526,Male,42,Premium,Month-to-Month,20,40.35,727.0,Debit Card,1,2,No
+CUST00527,Male,62,Premium,Month-to-Month,42,38.73,1568.37,Bank Transfer,0,1,Yes
+CUST00528,Female,68,Basic,Month-to-Month,45,12.02,496.52,Credit Card,2,3,No
+CUST00529,Female,36,Standard,Annual,50,17.85,873.57,PayPal,2,5,No
+CUST00530,Female,63,Standard,Month-to-Month,16,20.32,331.48,Debit Card,0,2,No
+CUST00531,Male,53,Basic,Annual,54,7.68,403.73,PayPal,1,2,No
+CUST00532,Female,62,Standard,Two-Year,17,20.37,360.49,Credit Card,4,5,No
+CUST00533,Male,25,Standard,Annual,22,19.51,449.95,Credit Card,1,3,No
+CUST00534,Male,46,Premium,Month-to-Month,13,41.61,562.2,Credit Card,1,3,No
+CUST00535,Male,49,Standard,Month-to-Month,12,21.07,274.92,Bank Transfer,1,5,No
+CUST00536,Female,68,Basic,Two-Year,10,9.11,86.31,Credit Card,3,4,No
+CUST00537,Female,61,Basic,Month-to-Month,1,8.82,8.27,Debit Card,2,3,Yes
+CUST00538,Male,35,Basic,Annual,32,9.52,311.32,Bank Transfer,2,5,No
+CUST00539,Male,23,Basic,Two-Year,30,12.8,391.29,PayPal,1,5,Yes
+CUST00540,Female,35,Standard,Two-Year,8,22.42,179.72,Debit Card,0,2,No
+CUST00541,Male,36,Basic,Two-Year,21,8.54,161.56,Bank Transfer,0,5,No
+CUST00542,Female,39,Premium,Annual,22,41.19,916.19,Credit Card,1,1,No
+CUST00543,Male,54,Premium,Month-to-Month,18,37.39,731.28,PayPal,1,2,Yes
+CUST00544,Female,49,Standard,Two-Year,2,19.32,37.36,Credit Card,1,2,No
+CUST00545,Male,58,Premium,Month-to-Month,48,38.6,2026.07,Debit Card,3,3,Yes
+CUST00546,Female,20,Standard,Month-to-Month,44,21.59,922.74,Debit Card,2,4,No
+CUST00547,Male,45,Standard,Annual,9,18.05,150.75,Bank Transfer,4,3,No
+CUST00548,Female,27,Basic,Annual,3,10.63,31.24,Debit Card,1,1,No
+CUST00549,Female,68,Standard,Two-Year,54,19.99,1078.3,PayPal,1,2,No
+CUST00550,Male,52,Standard,Annual,26,19.73,526.26,Bank Transfer,7,2,No
+CUST00551,Male,46,Premium,Month-to-Month,21,42.5,893.37,PayPal,0,5,No
+CUST00552,Female,32,Standard,Two-Year,30,22.63,683.89,Credit Card,8,4,No
+CUST00553,Male,50,Premium,Annual,28,39.77,1007.56,PayPal,3,4,No
+CUST00554,Female,24,Standard,Annual,36,19.47,666.38,PayPal,0,5,No
+CUST00555,Male,29,Basic,Month-to-Month,26,7.73,193.37,Debit Card,0,1,No
+CUST00556,Female,66,Premium,Month-to-Month,34,39.98,1491.74,Credit Card,2,4,No
+CUST00557,Female,47,Standard,Annual,8,22.92,175.86,Debit Card,0,2,No
+CUST00558,Female,38,Basic,Month-to-Month,10,9.8,105.77,Credit Card,1,1,Yes
+CUST00559,Female,48,Standard,Month-to-Month,48,21.08,972.32,Credit Card,1,3,Yes
+CUST00560,Female,41,Basic,Annual,55,7.89,398.9,PayPal,1,3,No
+CUST00561,Female,37,Standard,Month-to-Month,43,19.34,789.64,Debit Card,1,1,No
+CUST00562,Male,54,Standard,Month-to-Month,50,20.68,987.02,PayPal,1,2,No
+CUST00563,Male,21,Basic,Month-to-Month,54,10.15,600.53,PayPal,0,3,No
+CUST00564,Male,45,Premium,Month-to-Month,14,41.23,597.34,PayPal,1,2,Yes
+CUST00565,Female,61,Standard,Annual,40,19.09,829.53,Credit Card,0,5,No
+CUST00566,Female,37,Basic,Month-to-Month,55,7.37,432.51,Debit Card,2,4,No
+CUST00567,Female,41,Standard,Month-to-Month,15,21.67,330.16,Debit Card,1,1,Yes
+CUST00568,Female,67,Premium,Annual,17,38.59,679.04,PayPal,1,4,No
+CUST00569,Male,66,Basic,Two-Year,53,10.75,583.98,Credit Card,1,5,No
+CUST00570,Male,68,Basic,Annual,18,10.67,198.45,Debit Card,2,3,No
+CUST00571,Female,49,Basic,Month-to-Month,32,7.49,228.4,Bank Transfer,1,2,Yes
+CUST00572,Male,58,Basic,Month-to-Month,38,11.56,431.21,Debit Card,2,2,Yes
+CUST00573,Male,53,Premium,Two-Year,23,39.14,916.89,PayPal,1,5,No
+CUST00574,Female,51,Standard,Month-to-Month,46,20.07,837.53,Bank Transfer,2,1,No
+CUST00575,Male,53,Basic,Annual,23,9.45,216.6,Credit Card,3,4,No
+CUST00576,Female,19,Standard,Month-to-Month,35,22.42,841.16,Bank Transfer,1,3,No
+CUST00577,Male,32,Basic,Month-to-Month,39,12.01,467.68,Bank Transfer,2,1,Yes
+CUST00578,Female,51,Premium,Annual,15,37.27,564.9,PayPal,0,5,No
+CUST00579,Female,53,Premium,Annual,53,43.38,2162.07,Debit Card,3,5,No
+CUST00580,Female,23,Basic,Annual,24,8.97,227.95,Credit Card,2,2,No
+CUST00581,Female,56,Premium,Month-to-Month,28,43.14,1173.83,Bank Transfer,0,3,Yes
+CUST00582,Male,59,Standard,Month-to-Month,16,19.61,342.41,PayPal,5,1,Yes
+CUST00583,Female,68,Basic,Annual,16,9.48,166.66,Debit Card,3,2,No
+CUST00584,Female,68,Basic,Annual,40,9.62,416.82,Bank Transfer,2,3,No
+CUST00585,Female,29,Standard,Month-to-Month,39,19.39,693.43,PayPal,2,4,No
+CUST00586,Male,20,Standard,Month-to-Month,6,23.78,137.92,PayPal,2,4,No
+CUST00587,Female,62,Premium,Month-to-Month,2,39.88,86.86,PayPal,3,2,No
+CUST00588,Male,35,Standard,Two-Year,54,19.54,1119.43,Credit Card,1,1,No
+CUST00589,Female,57,Premium,Annual,13,40.11,564.31,Debit Card,1,3,No
+CUST00590,Male,38,Standard,Two-Year,44,18.54,827.6,Bank Transfer,1,4,No
+CUST00591,Male,32,Premium,Month-to-Month,47,42.39,1984.52,Debit Card,3,4,No
+CUST00592,Female,50,Standard,Two-Year,59,17.78,966.46,Debit Card,1,1,Yes
+CUST00593,Male,52,Basic,Month-to-Month,9,9.07,87.17,Bank Transfer,4,2,Yes
+CUST00594,Female,43,Standard,Month-to-Month,34,21.39,762.92,Debit Card,0,5,No
+CUST00595,Female,25,Premium,Annual,17,40.05,620.78,Credit Card,1,3,No
+CUST00596,Female,53,Basic,Month-to-Month,27,10.81,274.91,Bank Transfer,4,4,Yes
+CUST00597,Male,65,Premium,Month-to-Month,29,42.29,1240.46,Bank Transfer,1,5,Yes
+CUST00598,Male,47,Basic,Month-to-Month,37,11.5,441.19,PayPal,1,1,No
+CUST00599,Female,40,Standard,Month-to-Month,43,20.2,805.66,Debit Card,2,2,Yes
+CUST00600,Female,59,Premium,Annual,22,43.12,900.23,Bank Transfer,0,3,No
+CUST00601,Male,61,Basic,Annual,51,9.05,433.22,Bank Transfer,0,1,No
+CUST00602,Female,31,Basic,Annual,24,9.84,222.93,Credit Card,0,2,No
+CUST00603,Female,31,Basic,Annual,7,9.94,75.43,PayPal,0,1,No
+CUST00604,Female,19,Premium,Annual,34,39.84,1413.03,Bank Transfer,3,4,No
+CUST00605,Male,54,Basic,Month-to-Month,48,8.39,421.82,Credit Card,0,4,No
+CUST00606,Male,22,Premium,Month-to-Month,12,37.61,477.86,Bank Transfer,5,5,Yes
+CUST00607,Male,55,Basic,Two-Year,23,10.62,237.25,Bank Transfer,1,1,No
+CUST00608,Female,62,Premium,Month-to-Month,15,39.04,616.89,Bank Transfer,0,4,No
+CUST00609,Female,58,Premium,Annual,33,42.85,1549.35,Credit Card,0,2,No
+CUST00610,Female,64,Standard,Month-to-Month,57,19.88,1178.12,Debit Card,2,5,No
+CUST00611,Male,31,Standard,Annual,13,19.61,250.69,Bank Transfer,3,3,No
+CUST00612,Female,56,Standard,Annual,23,21.63,519.02,Bank Transfer,2,1,No
+CUST00613,Female,42,Standard,Month-to-Month,38,20.59,845.14,Debit Card,2,4,No
+CUST00614,Female,37,Basic,Month-to-Month,32,9.73,288.24,Bank Transfer,1,2,No
+CUST00615,Female,19,Basic,Annual,45,9.03,387.28,PayPal,1,1,No
+CUST00616,Male,56,Basic,Month-to-Month,50,15.48,838.91,Bank Transfer,4,2,Yes
+CUST00617,Male,23,Basic,Month-to-Month,35,10.53,401.44,PayPal,2,5,No
+CUST00618,Female,34,Basic,Annual,1,11.62,11.58,Debit Card,5,4,No
+CUST00619,Male,42,Standard,Month-to-Month,47,18.46,845.85,Credit Card,1,4,No
+CUST00620,Male,45,Premium,Two-Year,58,39.12,2170.39,Debit Card,1,5,No
+CUST00621,Female,19,Basic,Month-to-Month,45,13.16,592.05,Bank Transfer,1,2,No
+CUST00622,Female,52,Standard,Month-to-Month,5,22.09,120.05,PayPal,5,1,Yes
+CUST00623,Male,54,Basic,Annual,57,10.68,566.12,Credit Card,1,2,No
+CUST00624,Female,22,Premium,Month-to-Month,13,39.42,504.24,Bank Transfer,2,1,Yes
+CUST00625,Male,18,Premium,Month-to-Month,54,39.64,2316.77,Credit Card,0,5,No
+CUST00626,Female,57,Premium,Month-to-Month,5,38.98,189.02,Credit Card,1,3,No
+CUST00627,Male,29,Premium,Month-to-Month,32,38.25,1289.63,Bank Transfer,2,1,Yes
+CUST00628,Female,53,Basic,Month-to-Month,51,11.38,567.53,Debit Card,1,4,No
+CUST00629,Male,62,Premium,Month-to-Month,21,40.8,909.05,Bank Transfer,0,4,No
+CUST00630,Male,40,Standard,Month-to-Month,24,21.09,554.85,Bank Transfer,2,4,Yes
+CUST00631,Male,64,Basic,Month-to-Month,18,9.48,166.81,Debit Card,0,2,No
+CUST00632,Female,48,Premium,Annual,21,40.37,906.28,PayPal,1,2,No
+CUST00633,Male,28,Basic,Annual,54,9.34,553.63,Bank Transfer,1,2,Yes
+CUST00634,Male,27,Standard,Month-to-Month,10,18.9,207.29,Credit Card,0,4,No
+CUST00635,Female,20,Basic,Annual,24,12.49,295.79,Bank Transfer,0,1,Yes
+CUST00636,Female,31,Basic,Annual,40,10.17,405.64,Bank Transfer,4,4,No
+CUST00637,Male,33,Standard,Annual,47,20.75,936.9,Credit Card,2,1,Yes
+CUST00638,Male,27,Standard,Annual,21,21.24,429.45,Debit Card,2,2,Yes
+CUST00639,Female,46,Basic,Month-to-Month,25,10.19,254.37,PayPal,3,3,No
+CUST00640,Female,27,Basic,Two-Year,52,10.35,505.96,PayPal,0,2,Yes
+CUST00641,Female,29,Premium,Month-to-Month,57,38.36,2278.85,Credit Card,1,5,No
+CUST00642,Female,47,Basic,Month-to-Month,59,8.65,514.06,Debit Card,1,1,Yes
+CUST00643,Female,58,Basic,Annual,23,8.57,212.8,Bank Transfer,2,3,No
+CUST00644,Male,18,Premium,Month-to-Month,22,40.9,955.69,Bank Transfer,1,2,No
+CUST00645,Female,22,Premium,Month-to-Month,4,40.1,154.7,Bank Transfer,1,3,Yes
+CUST00646,Male,37,Basic,Annual,34,8.65,294.44,Bank Transfer,1,4,No
+CUST00647,Male,25,Standard,Annual,56,20.86,1226.69,Bank Transfer,2,1,No
+CUST00648,Male,60,Premium,Annual,6,40.81,229.84,Credit Card,1,5,No
+CUST00649,Female,29,Premium,Annual,28,38.95,988.43,Bank Transfer,2,4,Yes
+CUST00650,Male,18,Standard,Month-to-Month,31,19.95,662.03,Bank Transfer,2,3,No
+CUST00651,Male,37,Basic,Month-to-Month,35,10.81,350.92,Debit Card,0,2,Yes
+CUST00652,Female,45,Basic,Annual,39,8.7,365.73,Bank Transfer,7,1,No
+CUST00653,Male,60,Basic,Month-to-Month,42,10.84,492.94,PayPal,1,5,Yes
+CUST00654,Male,54,Standard,Annual,23,20.44,466.42,Credit Card,2,2,No
+CUST00655,Female,64,Basic,Month-to-Month,6,8.49,54.07,Credit Card,0,5,No
+CUST00656,Male,54,Standard,Month-to-Month,16,20.32,316.22,Credit Card,0,1,Yes
+CUST00657,Male,29,Basic,Month-to-Month,2,10.54,22.59,PayPal,3,3,Yes
+CUST00658,Male,54,Basic,Annual,24,9.05,231.3,Bank Transfer,1,5,No
+CUST00659,Female,66,Premium,Month-to-Month,17,39.17,609.76,Credit Card,2,1,Yes
+CUST00660,Female,66,Standard,Month-to-Month,45,18.48,845.34,PayPal,1,5,No
+CUST00661,Female,61,Basic,Month-to-Month,1,9.32,9.58,Debit Card,1,2,No
+CUST00662,Male,45,Premium,Month-to-Month,6,39.97,215.88,Bank Transfer,3,5,No
+CUST00663,Male,64,Basic,Month-to-Month,5,9.17,50.25,PayPal,1,2,No
+CUST00664,Female,32,Standard,Month-to-Month,57,17.76,993.4,Bank Transfer,1,2,Yes
+CUST00665,Male,23,Standard,Month-to-Month,45,18.96,856.16,Debit Card,2,1,Yes
+CUST00666,Male,61,Basic,Month-to-Month,55,9.36,483.38,PayPal,3,4,No
+CUST00667,Female,37,Premium,Month-to-Month,50,41.22,2106.72,Bank Transfer,1,5,No
+CUST00668,Female,67,Standard,Annual,29,20.88,643.14,PayPal,3,3,Yes
+CUST00669,Male,31,Standard,Two-Year,12,21.24,259.26,Credit Card,1,2,Yes
+CUST00670,Male,19,Basic,Month-to-Month,39,8.88,366.27,Bank Transfer,0,4,Yes
+CUST00671,Male,26,Basic,Month-to-Month,47,10.2,501.56,PayPal,1,2,Yes
+CUST00672,Female,54,Premium,Month-to-Month,3,36.36,103.36,Credit Card,1,4,No
+CUST00673,Female,37,Basic,Annual,48,10.63,503.69,Debit Card,3,4,No
+CUST00674,Female,43,Standard,Month-to-Month,1,20.91,19.44,Bank Transfer,3,3,Yes
+CUST00675,Female,46,Standard,Month-to-Month,27,19.46,477.28,Bank Transfer,2,4,No
+CUST00676,Male,18,Standard,Annual,48,20.43,894.95,Debit Card,4,3,Yes
+CUST00677,Female,52,Basic,Month-to-Month,24,7.72,201.68,Credit Card,2,1,No
+CUST00678,Female,23,Basic,Annual,44,8.79,424.24,Debit Card,2,2,No
+CUST00679,Female,54,Standard,Month-to-Month,19,21.14,369.12,Bank Transfer,0,3,Yes
+CUST00680,Female,22,Basic,Annual,59,10.76,613.91,PayPal,2,2,Yes
+CUST00681,Female,50,Basic,Month-to-Month,8,9.37,69.18,Credit Card,4,5,Yes
+CUST00682,Male,66,Basic,Two-Year,55,11.21,657.76,Credit Card,2,1,No
+CUST00683,Male,68,Basic,Annual,44,10.2,448.47,Credit Card,1,5,No
+CUST00684,Female,31,Premium,Month-to-Month,47,39.23,1888.53,Debit Card,2,5,No
+CUST00685,Male,29,Basic,Month-to-Month,2,9.72,19.6,Debit Card,0,4,No
+CUST00686,Female,59,Basic,Month-to-Month,30,9.31,291.04,PayPal,2,4,No
+CUST00687,Female,37,Basic,Annual,30,8.21,237.39,PayPal,2,5,No
+CUST00688,Male,67,Standard,Annual,49,21.88,994.39,Credit Card,2,4,No
+CUST00689,Male,41,Standard,Month-to-Month,39,19.14,674.44,PayPal,4,2,Yes
+CUST00690,Female,60,Basic,Two-Year,45,8.74,389.03,Debit Card,1,4,No
+CUST00691,Female,51,Standard,Month-to-Month,32,17.7,612.6,PayPal,2,5,No
+CUST00692,Female,42,Standard,Month-to-Month,1,16.04,15.42,Debit Card,1,4,Yes
+CUST00693,Male,67,Premium,Two-Year,38,41.04,1464.69,PayPal,0,4,No
+CUST00694,Female,46,Premium,Annual,13,41.18,580.96,Bank Transfer,1,3,No
+CUST00695,Female,56,Basic,Month-to-Month,11,11.78,119.35,Debit Card,1,3,Yes
+CUST00696,Female,48,Basic,Annual,10,9.77,88.94,Bank Transfer,0,5,No
+CUST00697,Male,64,Basic,Two-Year,48,9.51,491.12,Debit Card,0,2,No
+CUST00698,Female,60,Basic,Annual,59,9.23,566.45,PayPal,3,1,Yes
+CUST00699,Female,67,Premium,Annual,26,39.37,1007.67,Bank Transfer,3,1,Yes
+CUST00700,Male,40,Basic,Annual,56,11.67,686.5,PayPal,1,5,No
+CUST00701,Female,61,Basic,Month-to-Month,55,9.95,573.68,Debit Card,1,2,Yes
+CUST00702,Female,55,Standard,Annual,20,20.56,373.37,Bank Transfer,2,2,Yes
+CUST00703,Male,37,Standard,Month-to-Month,17,19.33,340.19,Credit Card,3,2,Yes
+CUST00704,Female,40,Basic,Two-Year,17,11.97,209.22,PayPal,2,3,No
+CUST00705,Male,62,Basic,Month-to-Month,4,7.13,31.17,Debit Card,0,5,No
+CUST00706,Male,69,Basic,Annual,5,8.16,44.61,Bank Transfer,1,1,Yes
+CUST00707,Female,33,Standard,Month-to-Month,23,20.56,461.32,PayPal,3,2,Yes
+CUST00708,Female,67,Basic,Month-to-Month,46,12.62,590.95,Bank Transfer,0,5,No
+CUST00709,Female,59,Basic,Month-to-Month,52,9.65,465.81,PayPal,0,1,Yes
+CUST00710,Female,25,Standard,Two-Year,10,18.73,171.06,PayPal,4,3,No
+CUST00711,Male,67,Basic,Two-Year,46,11.49,521.43,PayPal,4,4,No
+CUST00712,Female,38,Standard,Month-to-Month,28,20.48,595.22,Bank Transfer,2,1,No
+CUST00713,Male,18,Standard,Two-Year,33,21.93,733.5,Bank Transfer,0,1,No
+CUST00714,Female,25,Basic,Annual,43,8.05,341.28,PayPal,2,1,No
+CUST00715,Female,46,Premium,Annual,26,41.81,1156.22,Credit Card,1,4,No
+CUST00716,Female,49,Standard,Month-to-Month,55,17.67,1029.08,Credit Card,1,2,Yes
+CUST00717,Male,55,Basic,Two-Year,50,9.56,500.17,Credit Card,0,4,No
+CUST00718,Female,22,Standard,Annual,48,20.61,905.59,Debit Card,0,1,Yes
+CUST00719,Female,64,Standard,Two-Year,29,20.27,622.68,Credit Card,0,3,No
+CUST00720,Female,39,Standard,Annual,27,21.58,631.54,Bank Transfer,2,1,No
+CUST00721,Female,64,Basic,Annual,18,7.25,119.0,Credit Card,2,3,No
+CUST00722,Male,51,Premium,Annual,40,40.2,1576.38,Bank Transfer,0,5,No
+CUST00723,Female,18,Basic,Month-to-Month,10,11.79,129.42,Debit Card,0,3,No
+CUST00724,Male,43,Basic,Month-to-Month,58,10.08,596.24,Bank Transfer,1,1,No
+CUST00725,Male,60,Basic,Month-to-Month,42,8.28,348.7,Bank Transfer,0,4,No
+CUST00726,Male,27,Basic,Month-to-Month,5,11.5,53.79,Bank Transfer,1,1,Yes
+CUST00727,Male,47,Premium,Annual,10,39.02,395.31,Credit Card,1,1,No
+CUST00728,Male,67,Basic,Annual,50,8.75,432.17,PayPal,0,5,No
+CUST00729,Male,35,Basic,Two-Year,21,8.56,166.37,Bank Transfer,0,2,No
+CUST00730,Female,34,Premium,Month-to-Month,24,39.69,945.76,Credit Card,5,1,Yes
+CUST00731,Male,43,Basic,Month-to-Month,38,10.26,363.71,Credit Card,3,5,No
+CUST00732,Male,25,Basic,Month-to-Month,3,8.09,25.39,Credit Card,2,4,No
+CUST00733,Male,64,Basic,Month-to-Month,40,8.39,367.39,PayPal,1,5,No
+CUST00734,Female,57,Basic,Month-to-Month,31,8.95,275.76,PayPal,1,5,No
+CUST00735,Female,66,Basic,Annual,41,8.56,360.25,PayPal,2,3,No
+CUST00736,Male,29,Standard,Month-to-Month,37,20.05,731.61,PayPal,3,2,No
+CUST00737,Female,44,Basic,Annual,2,10.53,19.54,Debit Card,1,2,Yes
+CUST00738,Male,25,Basic,Month-to-Month,2,10.33,22.6,PayPal,0,4,Yes
+CUST00739,Male,42,Standard,Two-Year,39,20.33,734.13,PayPal,0,5,No
+CUST00740,Female,63,Standard,Annual,49,22.5,1016.86,PayPal,2,4,No
+CUST00741,Male,21,Basic,Two-Year,42,10.63,442.81,Bank Transfer,2,4,No
+CUST00742,Female,50,Standard,Two-Year,44,21.17,961.08,Bank Transfer,1,2,Yes
+CUST00743,Female,18,Basic,Two-Year,34,9.37,309.34,PayPal,1,2,No
+CUST00744,Male,36,Standard,Two-Year,42,21.41,843.92,Debit Card,3,2,No
+CUST00745,Male,48,Standard,Annual,20,19.3,410.62,Bank Transfer,1,1,Yes
+CUST00746,Female,33,Basic,Month-to-Month,33,10.61,340.54,Credit Card,1,5,No
+CUST00747,Male,31,Premium,Month-to-Month,4,37.93,142.44,Bank Transfer,1,4,Yes
+CUST00748,Male,65,Basic,Month-to-Month,45,10.24,448.37,Credit Card,1,5,No
+CUST00749,Male,22,Standard,Annual,44,18.53,768.77,Bank Transfer,0,4,No
+CUST00750,Female,58,Basic,Month-to-Month,11,11.39,125.78,PayPal,3,4,No
+CUST00751,Female,43,Standard,Two-Year,42,21.3,924.71,Bank Transfer,2,4,No
+CUST00752,Male,45,Standard,Two-Year,47,19.29,960.95,PayPal,2,4,No
+CUST00753,Female,19,Premium,Month-to-Month,5,43.06,203.57,PayPal,2,3,No
+CUST00754,Female,67,Basic,Month-to-Month,25,9.56,223.08,Bank Transfer,1,3,Yes
+CUST00755,Female,23,Standard,Two-Year,49,17.57,778.21,Credit Card,2,1,No
+CUST00756,Female,26,Standard,Month-to-Month,37,18.82,658.47,Credit Card,0,2,Yes
+CUST00757,Female,50,Standard,Annual,34,18.42,566.65,Bank Transfer,0,4,No
+CUST00758,Male,58,Standard,Month-to-Month,9,20.56,179.32,PayPal,2,5,No
+CUST00759,Male,42,Standard,Annual,6,18.14,101.13,Credit Card,0,3,No
+CUST00760,Male,65,Basic,Month-to-Month,18,9.18,167.88,Debit Card,1,2,Yes
+CUST00761,Female,30,Basic,Two-Year,14,10.46,143.03,PayPal,1,1,Yes
+CUST00762,Female,26,Standard,Annual,19,20.2,352.6,Bank Transfer,6,2,Yes
+CUST00763,Male,30,Basic,Month-to-Month,14,9.97,136.78,PayPal,0,4,Yes
+CUST00764,Female,48,Premium,Month-to-Month,40,40.18,1513.77,Debit Card,0,2,Yes
+CUST00765,Male,58,Standard,Month-to-Month,17,19.43,342.21,Debit Card,2,4,No
+CUST00766,Male,28,Premium,Two-Year,35,37.58,1279.64,Credit Card,2,3,No
+CUST00767,Male,21,Basic,Annual,29,9.39,253.09,Debit Card,1,3,No
+CUST00768,Female,51,Premium,Month-to-Month,42,40.69,1657.57,PayPal,0,4,No
+CUST00769,Female,55,Premium,Month-to-Month,17,39.78,638.98,Credit Card,5,5,No
+CUST00770,Male,63,Standard,Month-to-Month,59,20.58,1286.05,Debit Card,3,3,No
+CUST00771,Male,21,Standard,Annual,43,19.11,901.17,Credit Card,1,5,No
+CUST00772,Male,55,Basic,Annual,8,11.48,83.12,Credit Card,2,4,No
+CUST00773,Male,36,Premium,Month-to-Month,1,36.16,37.53,Bank Transfer,2,4,No
+CUST00774,Female,23,Standard,Annual,45,20.2,866.09,Credit Card,0,3,No
+CUST00775,Female,51,Basic,Annual,53,12.01,581.33,Credit Card,4,5,No
+CUST00776,Male,35,Basic,Two-Year,36,12.24,397.84,Debit Card,0,4,No
+CUST00777,Male,30,Premium,Two-Year,7,39.64,298.62,PayPal,0,3,No
+CUST00778,Female,58,Premium,Annual,46,38.0,1696.82,PayPal,2,4,No
+CUST00779,Female,40,Premium,Annual,5,42.04,230.99,Debit Card,0,2,Yes
+CUST00780,Male,36,Standard,Month-to-Month,24,19.91,472.33,PayPal,0,2,Yes
+CUST00781,Male,62,Basic,Annual,28,9.75,255.94,Credit Card,1,3,No
+CUST00782,Male,28,Basic,Month-to-Month,43,8.65,392.57,Bank Transfer,0,4,No
+CUST00783,Female,18,Basic,Month-to-Month,17,8.12,149.81,Credit Card,2,3,No
+CUST00784,Female,41,Basic,Month-to-Month,37,10.84,426.4,Credit Card,2,1,Yes
+CUST00785,Female,24,Basic,Annual,20,10.99,230.58,Bank Transfer,1,3,No
+CUST00786,Male,42,Basic,Month-to-Month,3,10.29,29.85,Debit Card,2,3,Yes
+CUST00787,Male,38,Basic,Month-to-Month,37,8.84,298.59,Credit Card,1,2,Yes
+CUST00788,Female,32,Premium,Month-to-Month,26,38.39,938.51,Credit Card,1,2,Yes
+CUST00789,Female,18,Basic,Month-to-Month,15,7.84,116.35,Debit Card,1,4,Yes
+CUST00790,Male,29,Premium,Month-to-Month,51,39.15,2178.82,Credit Card,3,3,No
+CUST00791,Female,24,Standard,Annual,48,18.48,926.58,Credit Card,2,3,No
+CUST00792,Female,32,Basic,Annual,8,7.43,63.34,PayPal,2,4,No
+CUST00793,Male,38,Basic,Month-to-Month,13,10.97,136.26,Debit Card,0,5,Yes
+CUST00794,Female,36,Basic,Two-Year,48,8.01,398.62,Credit Card,1,4,No
+CUST00795,Male,46,Basic,Annual,3,11.47,36.9,Credit Card,1,2,Yes
+CUST00796,Male,42,Standard,Month-to-Month,1,20.58,20.5,Bank Transfer,2,2,No
+CUST00797,Male,50,Basic,Annual,9,10.43,92.55,Bank Transfer,2,3,No
+CUST00798,Male,66,Basic,Two-Year,31,12.49,404.18,Bank Transfer,3,2,No
+CUST00799,Male,49,Basic,Month-to-Month,41,8.06,334.42,Credit Card,0,4,No
+CUST00800,Male,66,Premium,Month-to-Month,54,41.3,2450.17,Credit Card,2,3,Yes
+CUST00801,Male,52,Standard,Two-Year,26,19.54,500.43,Bank Transfer,1,4,No
+CUST00802,Female,61,Standard,Annual,17,23.85,379.17,PayPal,2,4,No
+CUST00803,Male,55,Basic,Month-to-Month,56,9.42,524.56,PayPal,0,3,No
+CUST00804,Male,43,Standard,Annual,34,19.18,617.58,PayPal,3,5,No
+CUST00805,Female,28,Standard,Month-to-Month,9,20.63,187.94,PayPal,1,2,Yes
+CUST00806,Female,52,Standard,Two-Year,56,19.68,1019.6,Debit Card,4,1,No
+CUST00807,Female,25,Premium,Month-to-Month,51,38.85,2159.66,Bank Transfer,2,1,Yes
+CUST00808,Male,63,Basic,Month-to-Month,13,8.53,118.87,Credit Card,2,1,Yes
+CUST00809,Female,31,Premium,Annual,5,42.18,196.37,Bank Transfer,1,2,Yes
+CUST00810,Male,27,Premium,Month-to-Month,41,38.24,1465.11,PayPal,1,5,No
+CUST00811,Male,19,Basic,Month-to-Month,13,10.32,134.49,Credit Card,0,4,No
+CUST00812,Male,63,Standard,Annual,1,21.57,22.75,Debit Card,5,3,No
+CUST00813,Male,26,Premium,Annual,25,41.65,982.75,Bank Transfer,3,5,No
+CUST00814,Female,20,Basic,Month-to-Month,47,9.09,389.72,Credit Card,2,1,Yes
+CUST00815,Female,38,Standard,Annual,4,19.68,79.44,Credit Card,1,2,No
+CUST00816,Male,43,Premium,Month-to-Month,36,39.39,1472.38,PayPal,4,2,Yes
+CUST00817,Male,25,Standard,Month-to-Month,52,17.69,872.85,PayPal,1,3,Yes
+CUST00818,Male,65,Basic,Month-to-Month,10,10.8,113.18,Bank Transfer,4,4,Yes
+CUST00819,Female,19,Standard,Month-to-Month,28,20.05,612.0,Debit Card,1,5,No
+CUST00820,Male,23,Basic,Annual,57,12.15,642.28,Credit Card,1,5,No
+CUST00821,Male,45,Standard,Month-to-Month,6,18.76,112.81,PayPal,0,5,No
+CUST00822,Female,46,Basic,Annual,27,11.62,285.93,Bank Transfer,2,4,No
+CUST00823,Female,43,Standard,Month-to-Month,56,21.73,1145.49,PayPal,1,4,No
+CUST00824,Male,42,Standard,Two-Year,12,20.06,220.97,Bank Transfer,2,4,No
+CUST00825,Female,29,Standard,Annual,52,16.73,853.26,PayPal,1,3,No
+CUST00826,Female,22,Standard,Annual,48,19.22,981.76,Debit Card,0,2,No
+CUST00827,Male,51,Standard,Month-to-Month,3,22.67,69.06,Credit Card,1,1,Yes
+CUST00828,Female,65,Standard,Month-to-Month,46,20.44,888.07,PayPal,3,4,Yes
+CUST00829,Male,54,Basic,Month-to-Month,33,11.03,330.51,Credit Card,2,2,No
+CUST00830,Female,32,Standard,Two-Year,10,19.86,200.72,Bank Transfer,1,4,No
+CUST00831,Male,61,Basic,Month-to-Month,31,9.65,277.18,Debit Card,2,1,Yes
+CUST00832,Male,53,Premium,Annual,15,37.19,540.3,Credit Card,2,4,No
+CUST00833,Male,32,Basic,Annual,7,11.18,78.42,PayPal,5,2,Yes
+CUST00834,Female,60,Basic,Month-to-Month,36,11.61,451.71,Credit Card,2,3,Yes
+CUST00835,Male,65,Standard,Annual,14,18.56,238.11,Credit Card,0,1,Yes
+CUST00836,Female,40,Standard,Annual,56,19.72,1141.56,Bank Transfer,1,2,No
+CUST00837,Male,23,Basic,Annual,48,9.52,412.55,Debit Card,3,5,No
+CUST00838,Male,63,Standard,Month-to-Month,14,20.62,296.18,Debit Card,1,5,No
+CUST00839,Female,67,Standard,Month-to-Month,3,19.17,58.1,Credit Card,1,5,No
+CUST00840,Male,61,Standard,Month-to-Month,49,21.39,1113.48,Credit Card,4,3,Yes
+CUST00841,Male,60,Basic,Annual,53,10.1,538.69,Bank Transfer,0,4,Yes
+CUST00842,Female,62,Standard,Annual,46,16.17,721.89,Credit Card,0,4,No
+CUST00843,Male,38,Standard,Month-to-Month,50,20.65,979.38,Bank Transfer,3,4,Yes
+CUST00844,Male,40,Standard,Two-Year,3,21.48,59.09,Debit Card,1,3,No
+CUST00845,Male,60,Standard,Month-to-Month,22,18.26,404.5,Debit Card,0,5,No
+CUST00846,Male,33,Standard,Two-Year,19,20.6,421.8,Bank Transfer,1,4,Yes
+CUST00847,Female,64,Basic,Two-Year,35,12.73,446.86,Credit Card,0,3,No
+CUST00848,Female,32,Basic,Two-Year,12,10.16,127.75,Debit Card,0,3,No
+CUST00849,Male,42,Basic,Annual,54,11.7,606.33,PayPal,2,2,Yes
+CUST00850,Female,53,Basic,Month-to-Month,5,9.33,46.17,Bank Transfer,2,4,No
+CUST00851,Male,28,Basic,Month-to-Month,10,9.96,96.11,Debit Card,0,5,No
+CUST00852,Female,68,Standard,Annual,41,19.68,743.82,Debit Card,1,1,No
+CUST00853,Male,32,Basic,Month-to-Month,33,9.41,305.37,Debit Card,5,3,Yes
+CUST00854,Male,21,Premium,Month-to-Month,13,39.77,544.34,PayPal,1,2,Yes
+CUST00855,Male,38,Basic,Annual,35,7.54,258.36,PayPal,2,1,Yes
+CUST00856,Male,30,Standard,Month-to-Month,51,19.49,1023.85,PayPal,1,3,Yes
+CUST00857,Male,39,Standard,Two-Year,32,22.0,740.41,Credit Card,2,2,No
+CUST00858,Male,36,Basic,Annual,11,8.54,90.61,Bank Transfer,0,4,No
+CUST00859,Female,51,Basic,Annual,48,8.39,426.68,Credit Card,2,2,Yes
+CUST00860,Male,31,Standard,Annual,38,20.08,738.46,PayPal,2,3,No
+CUST00861,Female,21,Basic,Two-Year,24,10.16,231.95,Bank Transfer,2,4,No
+CUST00862,Male,65,Premium,Annual,35,40.56,1340.8,Credit Card,1,5,No
+CUST00863,Female,69,Standard,Annual,19,19.82,353.98,Credit Card,2,2,No
+CUST00864,Female,63,Premium,Month-to-Month,6,40.1,252.01,Credit Card,0,1,Yes
+CUST00865,Female,44,Basic,Two-Year,40,9.46,407.73,PayPal,3,4,No
+CUST00866,Male,46,Standard,Annual,54,18.08,923.73,Debit Card,2,4,No
+CUST00867,Male,64,Standard,Month-to-Month,45,19.88,820.39,Bank Transfer,1,5,No
+CUST00868,Female,45,Standard,Month-to-Month,44,21.08,892.97,PayPal,4,2,Yes
+CUST00869,Male,52,Basic,Annual,42,10.76,466.19,Bank Transfer,2,1,No
+CUST00870,Female,25,Standard,Month-to-Month,35,17.37,591.96,PayPal,3,5,Yes
+CUST00871,Male,33,Standard,Two-Year,4,20.37,82.28,Credit Card,1,2,Yes
+CUST00872,Female,59,Standard,Two-Year,33,18.65,645.52,Credit Card,3,1,No
+CUST00873,Female,53,Basic,Month-to-Month,13,12.08,154.17,Debit Card,1,1,Yes
+CUST00874,Male,47,Premium,Annual,56,40.48,2493.43,Debit Card,2,3,No
+CUST00875,Female,35,Basic,Month-to-Month,36,11.33,391.4,Bank Transfer,1,1,Yes
+CUST00876,Male,19,Premium,Annual,54,40.02,2367.79,Debit Card,1,2,Yes
+CUST00877,Female,66,Premium,Month-to-Month,43,39.89,1613.39,Debit Card,1,5,No
+CUST00878,Female,30,Premium,Annual,19,42.23,739.93,Bank Transfer,2,5,No
+CUST00879,Male,21,Standard,Month-to-Month,43,21.45,968.62,PayPal,2,3,No
+CUST00880,Male,43,Basic,Month-to-Month,12,10.17,126.98,Debit Card,2,2,No
+CUST00881,Male,42,Premium,Month-to-Month,11,39.69,463.76,PayPal,1,1,No
+CUST00882,Female,47,Basic,Month-to-Month,6,7.43,43.19,Credit Card,1,3,No
+CUST00883,Male,28,Standard,Annual,12,20.48,266.94,Debit Card,1,4,No
+CUST00884,Female,24,Standard,Month-to-Month,27,19.8,493.91,Credit Card,2,2,Yes
+CUST00885,Female,48,Standard,Month-to-Month,41,20.82,773.43,Credit Card,0,3,No
+CUST00886,Male,61,Basic,Two-Year,25,11.28,270.75,PayPal,2,5,No
+CUST00887,Male,27,Standard,Annual,42,21.84,971.83,Bank Transfer,1,3,No
+CUST00888,Female,56,Premium,Two-Year,3,40.5,125.7,Debit Card,1,4,No
+CUST00889,Female,30,Basic,Two-Year,3,8.42,24.94,PayPal,0,2,Yes
+CUST00890,Male,48,Premium,Month-to-Month,20,36.77,699.55,Bank Transfer,2,3,Yes
+CUST00891,Male,24,Basic,Month-to-Month,28,8.75,223.4,Credit Card,1,1,Yes
+CUST00892,Male,66,Basic,Annual,23,11.99,266.81,Debit Card,1,2,No
+CUST00893,Male,59,Basic,Two-Year,48,12.73,606.15,Credit Card,1,3,No
+CUST00894,Male,59,Basic,Two-Year,3,9.63,29.97,Credit Card,2,3,No
+CUST00895,Female,53,Premium,Month-to-Month,42,37.8,1633.95,Debit Card,2,2,No
+CUST00896,Female,37,Basic,Month-to-Month,24,9.02,235.85,Bank Transfer,1,5,No
+CUST00897,Female,21,Basic,Month-to-Month,43,11.7,462.89,Bank Transfer,1,1,Yes
+CUST00898,Female,24,Basic,Annual,40,9.1,352.09,Debit Card,3,2,No
+CUST00899,Male,18,Standard,Annual,6,20.87,124.76,Debit Card,1,1,No
+CUST00900,Male,61,Standard,Month-to-Month,20,20.24,418.62,PayPal,2,1,Yes
+CUST00901,Male,62,Basic,Month-to-Month,11,11.06,121.55,PayPal,2,2,No
+CUST00902,Female,59,Basic,Annual,32,12.72,440.64,Credit Card,1,3,No
+CUST00903,Female,64,Premium,Annual,27,40.87,1127.47,Debit Card,1,5,No
+CUST00904,Male,30,Basic,Month-to-Month,21,10.21,194.67,Bank Transfer,1,1,No
+CUST00905,Male,39,Standard,Two-Year,44,22.88,928.93,Credit Card,1,1,Yes
+CUST00906,Female,38,Basic,Annual,48,10.51,530.06,Credit Card,3,3,No
+CUST00907,Female,39,Standard,Annual,50,18.8,980.57,Credit Card,1,2,No
+CUST00908,Male,45,Basic,Annual,13,11.02,133.33,Credit Card,2,5,No
+CUST00909,Male,26,Standard,Month-to-Month,22,20.66,414.42,Bank Transfer,0,1,Yes
+CUST00910,Female,43,Basic,Month-to-Month,35,9.53,338.8,Credit Card,1,1,No
+CUST00911,Male,26,Premium,Annual,47,39.21,1892.9,Debit Card,2,2,No
+CUST00912,Male,32,Basic,Month-to-Month,22,9.54,194.57,PayPal,0,3,No
+CUST00913,Male,27,Standard,Annual,28,19.19,534.49,Bank Transfer,3,4,No
+CUST00914,Female,41,Basic,Annual,21,9.59,193.57,Debit Card,3,3,No
+CUST00915,Female,59,Basic,Annual,46,8.73,436.22,Debit Card,0,1,No
+CUST00916,Female,25,Standard,Month-to-Month,18,20.57,349.47,Debit Card,4,1,Yes
+CUST00917,Female,41,Basic,Month-to-Month,31,10.46,339.39,PayPal,1,5,No
+CUST00918,Female,33,Premium,Annual,46,40.51,1870.22,PayPal,1,3,No
+CUST00919,Female,66,Premium,Month-to-Month,37,39.9,1332.07,PayPal,2,4,No
+CUST00920,Female,43,Premium,Annual,21,39.72,836.96,Debit Card,1,5,No
+CUST00921,Male,44,Basic,Annual,14,12.15,156.47,PayPal,1,4,No
+CUST00922,Male,54,Standard,Month-to-Month,25,20.09,518.23,Credit Card,3,5,No
+CUST00923,Male,21,Basic,Annual,27,11.89,325.24,PayPal,0,3,No
+CUST00924,Male,67,Premium,Month-to-Month,40,38.5,1389.21,Bank Transfer,3,1,Yes
+CUST00925,Male,41,Standard,Month-to-Month,23,20.87,451.66,Debit Card,1,4,No
+CUST00926,Male,36,Premium,Two-Year,31,38.89,1272.19,Debit Card,0,3,No
+CUST00927,Male,53,Standard,Two-Year,47,19.16,860.14,Credit Card,0,4,No
+CUST00928,Female,56,Standard,Month-to-Month,29,19.37,561.65,PayPal,2,3,No
+CUST00929,Female,27,Basic,Two-Year,47,9.28,419.76,PayPal,2,5,No
+CUST00930,Male,42,Standard,Month-to-Month,30,19.29,627.49,Bank Transfer,1,3,Yes
+CUST00931,Male,35,Basic,Month-to-Month,51,11.82,607.23,Credit Card,3,5,No
+CUST00932,Female,36,Standard,Month-to-Month,26,20.06,542.02,Bank Transfer,0,1,Yes
+CUST00933,Male,53,Standard,Two-Year,20,20.33,372.73,Bank Transfer,2,5,No
+CUST00934,Male,27,Standard,Month-to-Month,38,19.3,665.98,Debit Card,3,2,No
+CUST00935,Female,50,Basic,Annual,19,11.28,204.0,Debit Card,2,1,Yes
+CUST00936,Male,67,Standard,Annual,27,20.52,532.89,PayPal,1,3,No
+CUST00937,Female,22,Basic,Annual,25,9.53,247.19,PayPal,1,3,No
+CUST00938,Male,64,Standard,Month-to-Month,40,17.61,714.14,Bank Transfer,3,2,No
+CUST00939,Female,66,Basic,Month-to-Month,38,10.31,381.95,PayPal,1,3,No
+CUST00940,Female,52,Basic,Month-to-Month,52,10.85,581.59,Bank Transfer,2,1,No
+CUST00941,Female,61,Basic,Annual,23,8.52,182.77,PayPal,1,1,No
+CUST00942,Male,51,Standard,Annual,29,19.55,517.45,PayPal,1,5,No
+CUST00943,Female,50,Basic,Annual,15,10.8,173.49,Debit Card,2,4,No
+CUST00944,Male,38,Basic,Annual,59,7.63,455.93,Debit Card,2,3,No
+CUST00945,Male,34,Premium,Month-to-Month,3,39.02,120.55,Debit Card,0,2,Yes
+CUST00946,Male,39,Basic,Two-Year,10,10.56,101.53,Debit Card,1,1,No
+CUST00947,Male,65,Standard,Annual,15,21.65,316.43,Credit Card,1,1,No
+CUST00948,Female,54,Standard,Month-to-Month,56,23.27,1194.27,Debit Card,0,1,No
+CUST00949,Female,32,Premium,Month-to-Month,16,42.93,735.92,Credit Card,2,4,No
+CUST00950,Male,52,Standard,Annual,17,20.21,349.92,Debit Card,0,4,No
+CUST00951,Male,45,Standard,Two-Year,19,19.26,335.47,PayPal,2,3,No
+CUST00952,Female,24,Premium,Month-to-Month,11,41.37,482.79,Bank Transfer,1,2,No
+CUST00953,Male,49,Basic,Annual,48,9.17,435.24,PayPal,0,4,No
+CUST00954,Female,28,Premium,Month-to-Month,5,38.85,204.55,PayPal,3,5,Yes
+CUST00955,Male,27,Basic,Month-to-Month,5,9.53,43.01,Credit Card,0,4,No
+CUST00956,Male,26,Premium,Annual,58,39.34,2066.66,Debit Card,1,1,No
+CUST00957,Female,31,Basic,Annual,14,10.61,138.76,Bank Transfer,1,2,No
+CUST00958,Male,30,Standard,Annual,50,19.09,899.31,Bank Transfer,1,3,No
+CUST00959,Female,42,Basic,Month-to-Month,26,10.12,277.01,Debit Card,2,4,No
+CUST00960,Male,19,Standard,Month-to-Month,8,22.38,186.44,Credit Card,0,1,Yes
+CUST00961,Male,52,Basic,Month-to-Month,5,10.17,52.03,Credit Card,1,5,Yes
+CUST00962,Male,24,Premium,Month-to-Month,7,42.27,318.67,Credit Card,2,5,No
+CUST00963,Female,38,Premium,Month-to-Month,16,41.79,634.83,Bank Transfer,3,3,Yes
+CUST00964,Male,35,Basic,Month-to-Month,55,10.88,646.8,Credit Card,0,3,No
+CUST00965,Male,20,Premium,Month-to-Month,14,39.46,597.68,Credit Card,1,4,No
+CUST00966,Male,59,Standard,Month-to-Month,37,21.55,786.87,Bank Transfer,1,3,No
+CUST00967,Male,56,Standard,Annual,56,19.62,1009.59,Bank Transfer,1,1,Yes
+CUST00968,Female,58,Basic,Month-to-Month,41,9.99,428.15,PayPal,1,1,Yes
+CUST00969,Female,66,Basic,Month-to-Month,4,10.49,40.59,Bank Transfer,2,1,No
+CUST00970,Male,28,Basic,Annual,36,9.98,380.47,Debit Card,3,4,No
+CUST00971,Female,56,Basic,Month-to-Month,48,8.91,398.91,Bank Transfer,1,4,No
+CUST00972,Male,41,Premium,Annual,56,37.7,2127.88,Bank Transfer,0,3,No
+CUST00973,Male,63,Basic,Month-to-Month,17,11.43,194.62,Credit Card,1,4,No
+CUST00974,Male,36,Premium,Month-to-Month,47,40.85,1766.47,PayPal,0,1,Yes
+CUST00975,Female,21,Basic,Month-to-Month,36,7.41,259.47,Credit Card,1,2,Yes
+CUST00976,Female,43,Standard,Month-to-Month,6,18.87,103.82,PayPal,1,1,Yes
+CUST00977,Female,55,Standard,Annual,16,20.26,321.87,Credit Card,3,2,No
+CUST00978,Female,59,Premium,Two-Year,29,40.65,1259.7,Debit Card,1,3,No
+CUST00979,Female,49,Basic,Month-to-Month,36,7.71,264.8,Credit Card,3,5,No
+CUST00980,Female,56,Standard,Month-to-Month,38,19.86,794.66,Credit Card,0,4,No
+CUST00981,Female,62,Basic,Annual,37,10.8,374.3,Debit Card,1,4,No
+CUST00982,Female,63,Basic,Month-to-Month,48,9.46,469.86,Debit Card,1,1,No
+CUST00983,Female,53,Basic,Annual,57,10.37,640.21,Bank Transfer,3,1,Yes
+CUST00984,Male,57,Standard,Month-to-Month,48,19.26,891.93,Credit Card,0,2,Yes
+CUST00985,Female,54,Basic,Two-Year,10,11.35,122.59,Debit Card,2,4,No
+CUST00986,Female,50,Standard,Month-to-Month,41,18.79,771.23,Debit Card,3,3,No
+CUST00987,Female,53,Basic,Month-to-Month,36,8.28,287.16,Bank Transfer,3,1,No
+CUST00988,Female,20,Standard,Two-Year,29,20.03,626.93,PayPal,1,4,No
+CUST00989,Female,26,Basic,Annual,14,7.84,99.49,Debit Card,3,5,No
+CUST00990,Female,25,Standard,Month-to-Month,4,16.83,60.97,Debit Card,1,2,No
+CUST00991,Female,50,Premium,Annual,44,41.62,1867.84,Credit Card,0,1,No
+CUST00992,Female,23,Standard,Annual,56,18.51,1098.08,Bank Transfer,1,1,No
+CUST00993,Female,58,Standard,Month-to-Month,42,17.99,793.59,Credit Card,0,3,Yes
+CUST00994,Female,56,Basic,Annual,36,8.77,289.17,PayPal,2,1,Yes
+CUST00995,Female,21,Standard,Month-to-Month,50,18.71,1019.74,Bank Transfer,1,4,No
+CUST00996,Male,30,Basic,Annual,45,9.78,457.97,Credit Card,1,4,No
+CUST00997,Male,66,Basic,Two-Year,13,8.35,118.3,Debit Card,2,4,No
+CUST00998,Female,19,Standard,Month-to-Month,46,20.74,921.43,Debit Card,1,5,Yes
+CUST00999,Female,22,Premium,Month-to-Month,18,40.96,765.88,Bank Transfer,2,5,No
+CUST01000,Male,61,Basic,Month-to-Month,33,8.08,285.83,Debit Card,1,1,Yes
+CUST01001,Female,44,Standard,Month-to-Month,21,19.06,390.69,Credit Card,3,5,No
+CUST01002,Male,49,Standard,Two-Year,16,19.21,335.94,Bank Transfer,1,5,No
+CUST01003,Male,38,Basic,Month-to-Month,15,9.74,139.23,Debit Card,0,3,Yes
+CUST01004,Male,25,Basic,Month-to-Month,54,11.61,603.82,Debit Card,4,5,Yes
+CUST01005,Male,55,Basic,Annual,57,11.7,722.96,PayPal,1,2,Yes
+CUST01006,Male,25,Basic,Two-Year,5,13.74,75.15,PayPal,0,2,No
+CUST01007,Female,67,Basic,Month-to-Month,6,6.59,37.84,Bank Transfer,4,2,Yes
+CUST01008,Male,20,Basic,Annual,38,8.6,303.03,PayPal,0,1,Yes
+CUST01009,Female,61,Basic,Annual,3,12.71,40.11,Credit Card,2,4,No
+CUST01010,Female,20,Standard,Two-Year,48,17.29,901.24,Debit Card,2,3,No
+CUST01011,Male,39,Standard,Annual,12,22.68,277.64,Debit Card,0,1,Yes
+CUST01012,Male,23,Premium,Annual,36,40.21,1486.5,Debit Card,1,4,No
+CUST01013,Female,19,Basic,Month-to-Month,33,10.27,356.73,Bank Transfer,2,3,Yes
+CUST01014,Male,40,Standard,Month-to-Month,36,18.07,605.38,Bank Transfer,1,3,Yes
+CUST01015,Male,61,Premium,Annual,33,39.31,1420.07,PayPal,1,3,No
+CUST01016,Female,19,Standard,Two-Year,31,22.61,681.89,Debit Card,3,2,Yes
+CUST01017,Female,55,Basic,Two-Year,21,9.92,213.66,Debit Card,2,2,No
+CUST01018,Male,34,Standard,Two-Year,27,19.32,518.37,Debit Card,3,2,Yes
+CUST01019,Female,52,Basic,Month-to-Month,27,10.6,284.38,Debit Card,1,3,No
+CUST01020,Male,51,Basic,Annual,8,9.7,80.75,Debit Card,3,3,No
+CUST01021,Male,40,Standard,Annual,56,20.51,1262.19,Credit Card,1,2,No
+CUST01022,Male,47,Standard,Annual,37,18.72,714.67,Debit Card,1,3,No
+CUST01023,Female,69,Basic,Month-to-Month,32,9.87,334.42,Credit Card,5,2,Yes
+CUST01024,Female,25,Premium,Month-to-Month,26,39.03,918.91,Debit Card,2,2,Yes
+CUST01025,Female,39,Standard,Two-Year,2,17.28,36.71,Bank Transfer,3,2,No
+CUST01026,Female,61,Standard,Month-to-Month,12,20.71,238.58,Bank Transfer,2,4,No
+CUST01027,Female,53,Premium,Two-Year,22,38.14,776.43,Credit Card,2,3,No
+CUST01028,Male,22,Basic,Month-to-Month,17,9.74,152.78,Debit Card,4,1,No
+CUST01029,Male,30,Premium,Annual,7,41.38,300.08,Bank Transfer,4,2,No
+CUST01030,Male,46,Standard,Annual,43,17.74,838.74,Bank Transfer,0,1,Yes
+CUST01031,Male,48,Basic,Annual,4,10.9,45.05,Debit Card,3,4,No
+CUST01032,Female,64,Standard,Month-to-Month,37,19.54,688.62,Debit Card,1,3,No
+CUST01033,Male,33,Standard,Two-Year,38,18.54,662.71,Bank Transfer,1,2,Yes
+CUST01034,Female,59,Standard,Annual,32,23.02,740.46,Debit Card,2,2,Yes
+CUST01035,Male,47,Premium,Month-to-Month,11,39.99,401.62,PayPal,0,2,Yes
+CUST01036,Female,33,Standard,Annual,1,19.14,18.75,Debit Card,0,1,No
+CUST01037,Female,29,Standard,Month-to-Month,25,18.82,486.14,Bank Transfer,2,4,No
+CUST01038,Male,34,Premium,Month-to-Month,42,41.31,1897.3,Bank Transfer,2,3,Yes
+CUST01039,Male,33,Standard,Month-to-Month,52,19.07,976.89,Credit Card,0,4,No
+CUST01040,Male,29,Basic,Two-Year,24,11.12,250.88,PayPal,1,2,Yes
+CUST01041,Male,25,Premium,Month-to-Month,53,39.99,2254.0,Bank Transfer,2,4,No
+CUST01042,Female,37,Basic,Annual,43,11.66,525.87,PayPal,1,1,No
+CUST01043,Male,20,Standard,Month-to-Month,56,18.43,1106.33,Debit Card,1,5,Yes
+CUST01044,Male,33,Premium,Month-to-Month,17,38.64,619.4,Bank Transfer,3,5,No
+CUST01045,Female,47,Standard,Two-Year,8,19.57,153.58,Credit Card,2,3,No
+CUST01046,Male,62,Standard,Annual,59,19.69,1273.6,Bank Transfer,1,3,No
+CUST01047,Male,40,Standard,Two-Year,45,19.46,815.81,Credit Card,1,4,No
+CUST01048,Male,45,Standard,Month-to-Month,27,23.94,668.54,PayPal,2,3,No
+CUST01049,Male,68,Premium,Month-to-Month,52,43.08,2122.41,Credit Card,1,1,Yes
+CUST01050,Male,57,Basic,Two-Year,18,10.44,187.93,Debit Card,0,2,No
+CUST01051,Female,22,Basic,Annual,27,10.62,303.97,Debit Card,0,2,No
+CUST01052,Male,37,Basic,Month-to-Month,22,9.64,211.6,Debit Card,2,4,No
+CUST01053,Male,57,Standard,Month-to-Month,16,18.42,312.73,Bank Transfer,0,2,No
+CUST01054,Male,61,Standard,Annual,2,19.72,38.86,Debit Card,1,4,No
+CUST01055,Male,18,Premium,Month-to-Month,5,41.15,226.3,Debit Card,1,3,Yes
+CUST01056,Male,47,Basic,Annual,18,11.95,212.34,Bank Transfer,2,3,No
+CUST01057,Female,38,Standard,Month-to-Month,3,21.48,59.92,PayPal,1,1,Yes
+CUST01058,Male,37,Basic,Month-to-Month,27,7.73,204.61,Debit Card,0,2,No
+CUST01059,Female,23,Basic,Two-Year,54,9.56,541.29,Debit Card,2,1,No
+CUST01060,Female,39,Standard,Month-to-Month,17,17.79,323.48,Bank Transfer,1,5,No
+CUST01061,Male,35,Basic,Month-to-Month,16,11.74,186.34,PayPal,3,1,No
+CUST01062,Male,25,Basic,Annual,6,9.37,57.28,PayPal,0,4,No
+CUST01063,Male,56,Basic,Month-to-Month,51,9.92,540.82,PayPal,1,4,Yes
+CUST01064,Male,49,Basic,Month-to-Month,7,10.71,79.67,Bank Transfer,2,1,Yes
+CUST01065,Female,50,Standard,Annual,50,24.14,1245.07,Credit Card,3,3,No
+CUST01066,Male,33,Basic,Month-to-Month,14,10.39,154.62,Credit Card,4,5,Yes
+CUST01067,Male,29,Standard,Month-to-Month,38,19.63,757.26,Debit Card,1,1,Yes
+CUST01068,Male,55,Premium,Month-to-Month,40,38.13,1374.1,Debit Card,0,3,No
+CUST01069,Male,69,Standard,Annual,15,22.18,302.18,Debit Card,3,1,No
+CUST01070,Male,51,Premium,Annual,47,39.72,2045.99,Credit Card,1,2,No
+CUST01071,Male,31,Standard,Annual,47,22.48,981.54,Bank Transfer,0,4,No
+CUST01072,Female,53,Standard,Month-to-Month,48,21.65,1019.35,Debit Card,1,2,No
+CUST01073,Female,50,Premium,Annual,33,39.3,1409.42,Bank Transfer,0,2,No
+CUST01074,Male,40,Basic,Two-Year,43,7.9,318.98,Debit Card,0,5,No
+CUST01075,Male,67,Premium,Month-to-Month,27,40.4,1165.8,Bank Transfer,1,3,No
+CUST01076,Male,62,Basic,Annual,29,9.07,279.77,Bank Transfer,3,4,No
+CUST01077,Female,19,Basic,Annual,57,10.05,628.57,Credit Card,5,2,No
+CUST01078,Male,58,Basic,Two-Year,37,11.56,409.04,Bank Transfer,1,4,No
+CUST01079,Female,38,Standard,Two-Year,5,17.51,84.32,PayPal,2,3,No
+CUST01080,Male,19,Standard,Month-to-Month,29,20.39,638.96,Credit Card,0,1,Yes
+CUST01081,Male,44,Standard,Month-to-Month,32,21.13,640.2,Debit Card,2,2,Yes
+CUST01082,Male,26,Basic,Month-to-Month,53,11.2,599.29,Credit Card,2,3,No
+CUST01083,Male,18,Basic,Month-to-Month,6,7.94,49.62,PayPal,1,4,No
+CUST01084,Female,28,Basic,Month-to-Month,2,10.62,20.27,PayPal,1,3,Yes
+CUST01085,Female,20,Basic,Annual,6,11.8,77.01,Bank Transfer,4,1,No
+CUST01086,Male,69,Premium,Month-to-Month,46,40.5,1924.74,PayPal,3,3,No
+CUST01087,Male,40,Basic,Month-to-Month,43,9.82,384.02,PayPal,3,4,No
+CUST01088,Female,43,Premium,Annual,4,41.7,154.65,PayPal,0,2,No
+CUST01089,Female,21,Premium,Month-to-Month,56,38.95,2046.31,PayPal,2,2,No
+CUST01090,Female,35,Basic,Two-Year,29,7.7,211.91,Debit Card,2,5,No
+CUST01091,Female,23,Standard,Annual,59,19.69,1215.31,Debit Card,1,4,No
+CUST01092,Male,52,Basic,Month-to-Month,25,10.79,247.57,Credit Card,2,5,Yes
+CUST01093,Female,39,Basic,Month-to-Month,9,11.55,100.84,Bank Transfer,2,5,No
+CUST01094,Male,60,Basic,Month-to-Month,56,10.79,653.95,Debit Card,2,1,Yes
+CUST01095,Female,32,Standard,Annual,3,21.24,64.44,PayPal,3,4,No
+CUST01096,Female,39,Basic,Month-to-Month,26,11.56,286.46,Bank Transfer,4,2,Yes
+CUST01097,Female,54,Standard,Annual,48,19.48,1020.51,Debit Card,3,4,No
+CUST01098,Female,69,Standard,Annual,43,19.77,806.64,Credit Card,1,1,Yes
+CUST01099,Female,59,Basic,Month-to-Month,27,11.92,347.92,PayPal,0,4,No
+CUST01100,Male,29,Standard,Two-Year,36,18.17,683.66,Bank Transfer,3,4,No
+CUST01101,Male,64,Standard,Month-to-Month,32,20.63,691.92,Debit Card,0,5,No
+CUST01102,Female,66,Basic,Two-Year,1,8.91,9.38,Bank Transfer,0,4,No
+CUST01103,Female,59,Basic,Month-to-Month,57,11.64,664.35,Debit Card,2,5,No
+CUST01104,Male,55,Standard,Annual,53,19.96,1124.44,Credit Card,0,5,No
+CUST01105,Female,35,Basic,Month-to-Month,54,10.0,576.31,PayPal,2,3,No
+CUST01106,Female,62,Standard,Annual,16,22.58,351.2,Credit Card,1,1,No
+CUST01107,Male,52,Basic,Month-to-Month,51,8.38,418.86,PayPal,3,5,No
+CUST01108,Female,47,Basic,Month-to-Month,48,10.31,533.36,PayPal,2,4,No
+CUST01109,Female,41,Basic,Annual,11,9.72,107.45,Bank Transfer,6,5,No
+CUST01110,Male,59,Basic,Month-to-Month,26,10.79,301.13,Debit Card,1,5,No
+CUST01111,Male,47,Standard,Annual,40,22.88,938.4,Credit Card,0,5,No
+CUST01112,Male,31,Basic,Two-Year,55,9.08,508.75,Credit Card,5,2,No
+CUST01113,Female,23,Standard,Month-to-Month,1,18.19,16.48,Credit Card,0,2,Yes
+CUST01114,Male,20,Premium,Month-to-Month,26,38.78,963.49,Bank Transfer,2,2,No
+CUST01115,Male,33,Standard,Month-to-Month,28,19.64,550.15,Bank Transfer,0,2,Yes
+CUST01116,Male,24,Standard,Annual,53,20.09,1083.36,Bank Transfer,4,3,No
+CUST01117,Male,69,Basic,Month-to-Month,58,10.16,604.65,PayPal,1,5,No
+CUST01118,Male,31,Basic,Month-to-Month,9,12.69,119.15,Credit Card,1,3,No
+CUST01119,Male,26,Standard,Month-to-Month,59,22.43,1364.72,PayPal,2,4,Yes
+CUST01120,Female,32,Basic,Month-to-Month,44,11.94,561.99,Credit Card,0,1,Yes
+CUST01121,Female,38,Standard,Two-Year,22,23.76,501.34,Credit Card,1,3,No
+CUST01122,Male,52,Basic,Month-to-Month,8,11.23,92.38,Debit Card,3,2,Yes
+CUST01123,Male,19,Standard,Annual,58,21.65,1142.98,Credit Card,2,2,No
+CUST01124,Male,44,Premium,Annual,49,41.2,2010.8,Bank Transfer,2,4,No
+CUST01125,Female,19,Premium,Annual,42,40.95,1640.11,Bank Transfer,1,5,No
+CUST01126,Female,52,Standard,Month-to-Month,27,20.58,542.42,Bank Transfer,1,1,No
+CUST01127,Female,35,Standard,Annual,39,19.39,734.23,Debit Card,0,3,No
+CUST01128,Female,31,Standard,Two-Year,19,18.12,314.01,Debit Card,0,5,No
+CUST01129,Female,37,Standard,Month-to-Month,25,19.79,491.45,PayPal,0,5,No
+CUST01130,Female,35,Basic,Month-to-Month,38,10.84,452.67,Credit Card,2,3,No
+CUST01131,Female,27,Basic,Month-to-Month,21,10.1,203.57,Credit Card,0,3,Yes
+CUST01132,Female,42,Standard,Month-to-Month,24,18.39,462.21,Bank Transfer,7,3,Yes
+CUST01133,Female,19,Premium,Month-to-Month,24,39.74,962.88,Bank Transfer,1,3,Yes
+CUST01134,Male,42,Basic,Annual,19,9.66,177.12,Bank Transfer,3,2,No
+CUST01135,Male,50,Standard,Month-to-Month,50,19.9,913.33,Bank Transfer,1,5,No
+CUST01136,Male,53,Standard,Month-to-Month,47,20.73,918.94,Bank Transfer,1,5,Yes
+CUST01137,Male,48,Standard,Annual,2,21.05,44.47,Bank Transfer,0,2,Yes
+CUST01138,Female,31,Standard,Month-to-Month,14,19.24,257.46,Credit Card,2,5,No
+CUST01139,Female,18,Basic,Annual,53,11.46,564.17,Debit Card,1,3,No
+CUST01140,Male,63,Standard,Month-to-Month,32,21.69,670.66,Bank Transfer,3,1,Yes
+CUST01141,Female,33,Premium,Two-Year,42,40.47,1728.31,Credit Card,2,5,No
+CUST01142,Male,63,Standard,Month-to-Month,32,20.99,699.01,Bank Transfer,1,1,No
+CUST01143,Female,69,Basic,Annual,28,11.47,313.93,PayPal,2,1,Yes
+CUST01144,Male,20,Standard,Annual,48,18.34,879.99,PayPal,1,2,No
+CUST01145,Female,52,Premium,Month-to-Month,39,41.57,1606.61,Credit Card,4,4,No
+CUST01146,Female,58,Basic,Month-to-Month,40,8.8,317.43,Debit Card,2,5,No
+CUST01147,Male,23,Standard,Annual,42,18.95,779.28,PayPal,1,2,No
+CUST01148,Female,42,Premium,Month-to-Month,47,40.28,1926.22,PayPal,0,2,Yes
+CUST01149,Male,30,Standard,Two-Year,40,16.77,680.18,Debit Card,2,1,Yes
+CUST01150,Male,51,Premium,Two-Year,13,40.25,549.39,PayPal,0,5,No
+CUST01151,Male,25,Standard,Month-to-Month,12,21.46,266.3,Bank Transfer,2,2,No
+CUST01152,Male,38,Standard,Month-to-Month,8,17.52,133.9,Debit Card,1,3,Yes
+CUST01153,Female,51,Standard,Month-to-Month,15,21.62,308.45,PayPal,0,2,No
+CUST01154,Female,21,Basic,Month-to-Month,26,8.94,230.77,Debit Card,2,3,No
+CUST01155,Female,42,Basic,Annual,12,10.3,129.36,Bank Transfer,2,4,No
+CUST01156,Male,32,Standard,Annual,43,19.16,756.95,PayPal,0,3,No
+CUST01157,Female,21,Basic,Month-to-Month,51,10.85,602.97,Credit Card,0,3,No
+CUST01158,Male,62,Basic,Month-to-Month,46,11.53,534.96,PayPal,1,1,Yes
+CUST01159,Female,29,Premium,Month-to-Month,27,40.96,1063.1,PayPal,1,2,No
+CUST01160,Female,49,Premium,Month-to-Month,18,39.98,747.47,Bank Transfer,3,4,No
+CUST01161,Female,49,Standard,Annual,45,19.28,788.6,Credit Card,2,2,No
+CUST01162,Male,45,Premium,Month-to-Month,36,39.89,1431.56,Credit Card,2,3,No
+CUST01163,Female,30,Standard,Annual,49,20.97,1024.65,Credit Card,1,3,No
+CUST01164,Female,48,Basic,Annual,51,11.03,524.5,Bank Transfer,2,2,Yes
+CUST01165,Male,31,Basic,Annual,27,10.82,311.85,Bank Transfer,0,4,No
+CUST01166,Female,37,Standard,Month-to-Month,9,18.07,172.28,Bank Transfer,1,4,No
+CUST01167,Male,35,Standard,Annual,55,19.96,1021.55,Bank Transfer,0,1,Yes
+CUST01168,Female,46,Basic,Annual,39,9.04,342.96,Bank Transfer,4,3,No
+CUST01169,Male,23,Standard,Annual,1,20.99,19.31,Credit Card,1,3,No
+CUST01170,Male,49,Basic,Month-to-Month,7,8.84,66.19,Debit Card,2,1,Yes
+CUST01171,Female,46,Standard,Month-to-Month,26,20.67,518.43,Bank Transfer,2,2,Yes
+CUST01172,Male,60,Premium,Annual,7,39.57,273.63,Debit Card,2,3,No
+CUST01173,Male,19,Standard,Month-to-Month,52,17.17,861.39,PayPal,1,2,No
+CUST01174,Male,40,Premium,Month-to-Month,7,41.39,278.72,PayPal,0,4,No
+CUST01175,Male,36,Premium,Two-Year,8,39.95,335.41,Bank Transfer,1,5,No
+CUST01176,Male,48,Premium,Month-to-Month,16,41.9,703.59,PayPal,1,1,Yes
+CUST01177,Male,68,Premium,Month-to-Month,3,37.49,112.87,Debit Card,1,3,Yes
+CUST01178,Female,22,Premium,Month-to-Month,45,39.55,1835.85,PayPal,3,1,No
+CUST01179,Male,36,Standard,Annual,10,19.67,197.16,PayPal,2,4,No
+CUST01180,Male,51,Basic,Month-to-Month,50,10.4,470.97,Debit Card,3,4,No
+CUST01181,Female,27,Standard,Annual,7,18.0,115.06,PayPal,1,4,No
+CUST01182,Female,42,Standard,Month-to-Month,21,20.81,426.85,Bank Transfer,1,4,No
+CUST01183,Female,19,Basic,Month-to-Month,53,12.86,715.62,Debit Card,3,5,No
+CUST01184,Female,28,Basic,Annual,37,10.7,428.62,Debit Card,0,2,Yes
+CUST01185,Female,67,Premium,Month-to-Month,31,40.13,1127.02,Credit Card,2,2,Yes
+CUST01186,Female,48,Premium,Two-Year,23,37.92,849.14,Credit Card,1,5,No
+CUST01187,Female,32,Premium,Month-to-Month,57,38.83,2091.04,Debit Card,1,2,Yes
+CUST01188,Male,26,Basic,Month-to-Month,27,9.91,284.44,Debit Card,2,4,No
+CUST01189,Male,40,Basic,Month-to-Month,56,9.2,550.85,Credit Card,2,2,Yes
+CUST01190,Female,36,Basic,Month-to-Month,22,11.53,238.77,Bank Transfer,0,1,Yes
+CUST01191,Male,26,Basic,Two-Year,39,10.79,438.55,PayPal,0,2,Yes
+CUST01192,Male,52,Basic,Two-Year,57,14.03,836.78,PayPal,3,1,Yes
+CUST01193,Male,38,Basic,Month-to-Month,27,8.52,215.18,PayPal,1,3,Yes
+CUST01194,Female,26,Premium,Annual,54,40.04,2133.49,Debit Card,0,1,No
+CUST01195,Female,45,Standard,Annual,49,17.91,898.71,Bank Transfer,1,1,No
+CUST01196,Male,63,Basic,Month-to-Month,4,6.66,24.11,Credit Card,0,4,No
+CUST01197,Female,68,Basic,Month-to-Month,24,11.07,260.61,Bank Transfer,1,4,No
+CUST01198,Male,24,Standard,Two-Year,23,20.73,443.89,Bank Transfer,3,4,No
+CUST01199,Male,33,Basic,Two-Year,48,8.71,421.58,PayPal,1,1,Yes
+CUST01200,Male,33,Premium,Two-Year,19,40.13,814.76,Credit Card,0,5,No
+CUST01201,Male,50,Basic,Annual,42,9.05,381.98,Bank Transfer,1,4,No
+CUST01202,Female,21,Basic,Annual,3,9.25,25.17,Credit Card,0,4,No
+CUST01203,Female,21,Basic,Month-to-Month,27,9.51,232.62,Debit Card,3,1,Yes
+CUST01204,Female,56,Basic,Month-to-Month,3,8.65,26.5,PayPal,2,3,Yes
+CUST01205,Male,57,Standard,Month-to-Month,28,18.92,511.53,Credit Card,0,3,Yes
+CUST01206,Female,34,Standard,Annual,17,18.96,327.0,Debit Card,3,2,No
+CUST01207,Male,54,Standard,Annual,31,20.62,596.22,Debit Card,2,3,No
+CUST01208,Female,56,Basic,Annual,10,5.83,61.53,Debit Card,0,4,No
+CUST01209,Male,69,Standard,Two-Year,49,19.65,1032.31,Bank Transfer,1,5,No
+CUST01210,Male,46,Standard,Two-Year,22,18.36,435.36,Bank Transfer,5,2,Yes
+CUST01211,Male,69,Premium,Two-Year,30,38.41,1107.15,PayPal,1,5,No
+CUST01212,Female,53,Basic,Month-to-Month,49,9.2,465.29,PayPal,0,5,No
+CUST01213,Female,55,Basic,Annual,21,9.97,200.12,Debit Card,1,4,No
+CUST01214,Female,56,Standard,Annual,36,19.67,745.33,PayPal,1,1,No
+CUST01215,Female,67,Standard,Month-to-Month,53,18.39,900.7,Bank Transfer,2,1,Yes
+CUST01216,Male,54,Standard,Two-Year,23,21.07,510.08,PayPal,1,1,No
+CUST01217,Female,69,Basic,Two-Year,38,8.64,324.36,Credit Card,2,3,No
+CUST01218,Female,52,Standard,Month-to-Month,12,18.89,242.8,Bank Transfer,1,1,Yes
+CUST01219,Male,24,Premium,Month-to-Month,25,40.42,1058.79,Debit Card,3,4,No
+CUST01220,Male,44,Standard,Annual,54,20.47,1078.08,Debit Card,0,3,No
+CUST01221,Male,45,Premium,Annual,57,39.07,2406.73,PayPal,1,1,No
+CUST01222,Female,39,Standard,Two-Year,20,15.59,298.29,Bank Transfer,0,5,No
+CUST01223,Male,31,Premium,Month-to-Month,49,38.66,2071.27,Debit Card,1,4,Yes
+CUST01224,Male,24,Premium,Month-to-Month,49,40.23,2076.62,Debit Card,4,4,Yes
+CUST01225,Male,54,Basic,Month-to-Month,42,11.02,508.26,Bank Transfer,1,2,Yes
+CUST01226,Female,39,Premium,Month-to-Month,7,39.87,254.19,Bank Transfer,1,4,Yes
+CUST01227,Male,22,Basic,Month-to-Month,29,9.27,256.68,Debit Card,0,5,No
+CUST01228,Female,19,Premium,Two-Year,48,43.43,2185.23,PayPal,3,4,No
+CUST01229,Female,44,Standard,Month-to-Month,29,19.43,611.06,PayPal,2,2,Yes
+CUST01230,Male,38,Basic,Month-to-Month,13,10.91,128.46,PayPal,0,4,No
+CUST01231,Male,55,Standard,Month-to-Month,3,17.99,48.57,Credit Card,2,4,Yes
+CUST01232,Female,32,Premium,Month-to-Month,2,38.35,72.96,Bank Transfer,0,2,No
+CUST01233,Male,38,Basic,Annual,16,10.96,187.73,Debit Card,0,4,No
+CUST01234,Male,27,Standard,Annual,30,21.56,681.36,Credit Card,2,3,No
+CUST01235,Female,40,Standard,Annual,38,19.41,714.02,PayPal,2,4,No
+CUST01236,Female,56,Premium,Month-to-Month,6,37.22,201.08,Credit Card,0,1,Yes
+CUST01237,Male,22,Basic,Month-to-Month,45,9.74,443.1,Debit Card,2,1,No
+CUST01238,Female,18,Basic,Month-to-Month,7,10.27,68.12,Debit Card,3,3,No
+CUST01239,Male,30,Basic,Month-to-Month,5,10.14,53.19,Bank Transfer,1,4,No
+CUST01240,Male,38,Standard,Annual,56,19.14,1060.34,PayPal,1,5,No
+CUST01241,Male,43,Standard,Month-to-Month,7,19.76,143.26,PayPal,1,4,No
+CUST01242,Female,67,Premium,Annual,34,38.87,1414.7,Credit Card,2,1,No
+CUST01243,Male,62,Basic,Month-to-Month,32,8.32,268.14,PayPal,2,2,Yes
+CUST01244,Male,38,Standard,Annual,49,21.12,1000.93,Credit Card,2,3,No
+CUST01245,Male,35,Basic,Two-Year,13,10.14,138.93,Debit Card,2,2,No
+CUST01246,Female,54,Basic,Annual,30,9.76,279.05,Debit Card,2,5,No
+CUST01247,Female,62,Standard,Annual,25,19.23,518.39,Debit Card,2,4,No
+CUST01248,Female,49,Standard,Two-Year,21,19.72,378.62,Debit Card,0,5,No
+CUST01249,Female,53,Standard,Annual,59,20.23,1273.65,Debit Card,1,2,No
+CUST01250,Female,34,Premium,Month-to-Month,21,42.58,821.14,Credit Card,3,4,No
+CUST01251,Male,52,Standard,Month-to-Month,28,20.97,535.04,Debit Card,1,5,No
+CUST01252,Female,66,Premium,Annual,48,38.99,1820.34,Credit Card,3,1,No
+CUST01253,Female,28,Premium,Annual,58,39.01,2469.18,Debit Card,0,1,Yes
+CUST01254,Female,38,Standard,Month-to-Month,20,18.77,411.7,Credit Card,3,3,No
+CUST01255,Male,69,Premium,Month-to-Month,34,39.69,1269.05,Credit Card,3,1,Yes
+CUST01256,Female,43,Standard,Two-Year,5,18.77,87.25,Credit Card,2,1,No
+CUST01257,Female,21,Basic,Month-to-Month,18,10.7,186.94,PayPal,0,2,Yes
+CUST01258,Male,51,Standard,Month-to-Month,39,16.02,604.42,Credit Card,1,1,Yes
+CUST01259,Female,69,Basic,Month-to-Month,43,10.79,488.06,Credit Card,1,1,Yes
+CUST01260,Male,65,Standard,Annual,57,20.4,1149.78,Debit Card,3,2,Yes
+CUST01261,Male,35,Standard,Month-to-Month,57,21.88,1316.97,Credit Card,1,1,Yes
+CUST01262,Male,57,Basic,Annual,11,11.31,130.6,Credit Card,2,1,Yes
+CUST01263,Male,52,Basic,Month-to-Month,54,8.96,491.42,Bank Transfer,0,3,No
+CUST01264,Male,58,Premium,Annual,17,41.14,746.03,PayPal,1,1,Yes
+CUST01265,Female,46,Standard,Annual,48,19.74,889.84,Bank Transfer,1,1,No
+CUST01266,Male,69,Basic,Month-to-Month,45,7.09,297.47,Debit Card,1,3,No
+CUST01267,Male,46,Standard,Month-to-Month,22,20.23,467.37,PayPal,2,2,Yes
+CUST01268,Female,55,Standard,Month-to-Month,37,19.05,668.87,PayPal,1,1,Yes
+CUST01269,Male,59,Standard,Month-to-Month,20,19.99,360.04,Bank Transfer,0,5,No
+CUST01270,Female,38,Premium,Annual,48,42.47,2206.52,PayPal,0,2,No
+CUST01271,Female,59,Standard,Month-to-Month,54,20.33,1124.81,Bank Transfer,0,2,Yes
+CUST01272,Female,30,Basic,Annual,54,8.46,451.81,Credit Card,7,1,No
+CUST01273,Male,66,Premium,Month-to-Month,48,41.44,2078.92,Bank Transfer,0,3,No
+CUST01274,Male,58,Premium,Month-to-Month,48,40.53,1880.59,PayPal,3,2,No
+CUST01275,Male,34,Basic,Month-to-Month,46,8.29,415.94,PayPal,2,3,No
+CUST01276,Female,26,Basic,Annual,6,7.58,41.56,Debit Card,2,5,No
+CUST01277,Male,58,Basic,Month-to-Month,34,8.52,297.85,Debit Card,1,3,No
+CUST01278,Male,18,Standard,Annual,14,21.24,313.85,Debit Card,2,4,No
+CUST01279,Male,19,Standard,Month-to-Month,48,19.54,932.13,Debit Card,1,3,No
+CUST01280,Female,65,Standard,Month-to-Month,23,20.11,486.12,PayPal,0,2,No
+CUST01281,Female,46,Premium,Annual,20,37.98,824.46,Debit Card,1,3,No
+CUST01282,Male,50,Standard,Annual,13,21.28,290.14,Bank Transfer,2,3,No
+CUST01283,Male,27,Basic,Month-to-Month,47,6.97,315.1,Credit Card,0,4,Yes
+CUST01284,Male,67,Basic,Annual,44,9.01,401.34,PayPal,1,4,No
+CUST01285,Male,57,Basic,Month-to-Month,41,10.62,471.26,Debit Card,3,1,Yes
+CUST01286,Female,38,Basic,Annual,32,8.31,263.21,PayPal,1,2,Yes
+CUST01287,Female,45,Standard,Two-Year,26,20.91,563.42,Debit Card,3,1,No
+CUST01288,Female,28,Premium,Two-Year,50,38.69,1921.16,PayPal,1,4,No
+CUST01289,Female,51,Basic,Annual,53,8.15,399.24,Debit Card,0,3,No
+CUST01290,Male,25,Standard,Month-to-Month,14,21.92,279.79,Credit Card,0,4,No
+CUST01291,Male,39,Standard,Annual,52,20.22,1146.55,Debit Card,2,5,No
+CUST01292,Male,25,Basic,Month-to-Month,57,10.77,627.71,Bank Transfer,0,3,Yes
+CUST01293,Female,66,Basic,Month-to-Month,36,11.52,381.86,PayPal,1,1,Yes
+CUST01294,Male,32,Standard,Month-to-Month,8,16.06,137.66,PayPal,2,3,No
+CUST01295,Female,34,Basic,Two-Year,40,10.94,439.59,Bank Transfer,2,5,No
+CUST01296,Female,40,Premium,Two-Year,22,38.85,901.18,Bank Transfer,1,4,No
+CUST01297,Male,41,Basic,Month-to-Month,22,9.05,184.24,Credit Card,1,2,Yes
+CUST01298,Male,62,Basic,Annual,16,10.65,184.27,PayPal,2,2,No
+CUST01299,Male,36,Standard,Annual,27,19.45,534.66,Credit Card,2,2,No
+CUST01300,Female,22,Premium,Month-to-Month,56,40.88,2398.37,PayPal,2,4,Yes
+CUST01301,Male,49,Basic,Month-to-Month,10,9.93,89.99,PayPal,1,2,Yes
+CUST01302,Female,61,Basic,Annual,25,10.24,246.54,Credit Card,2,5,No
+CUST01303,Male,18,Basic,Month-to-Month,31,9.25,273.41,PayPal,2,4,No
+CUST01304,Female,40,Basic,Month-to-Month,21,8.39,192.03,PayPal,0,2,Yes
+CUST01305,Female,54,Basic,Annual,27,8.88,224.67,Credit Card,0,1,Yes
+CUST01306,Male,25,Standard,Two-Year,17,19.84,351.25,Debit Card,2,4,No
+CUST01307,Female,30,Basic,Annual,33,12.75,382.27,Credit Card,0,4,No
+CUST01308,Female,25,Basic,Annual,31,12.2,355.33,PayPal,2,3,No
+CUST01309,Male,40,Premium,Month-to-Month,50,39.01,1887.54,Bank Transfer,2,2,Yes
+CUST01310,Female,60,Basic,Month-to-Month,42,10.08,448.3,Debit Card,2,1,Yes
+CUST01311,Male,18,Basic,Annual,26,9.56,262.98,Bank Transfer,2,5,No
+CUST01312,Female,62,Basic,Month-to-Month,21,10.19,233.36,Debit Card,1,4,No
+CUST01313,Male,68,Premium,Two-Year,36,40.38,1574.85,Bank Transfer,0,5,Yes
+CUST01314,Male,41,Basic,Month-to-Month,1,10.78,9.88,Debit Card,1,5,No
+CUST01315,Female,52,Premium,Month-to-Month,4,35.64,151.97,Credit Card,1,5,No
+CUST01316,Female,41,Standard,Month-to-Month,4,20.54,81.36,Debit Card,1,3,No
+CUST01317,Female,34,Basic,Two-Year,26,9.39,262.01,Debit Card,1,5,No
+CUST01318,Female,22,Premium,Month-to-Month,4,38.93,142.93,Debit Card,1,2,Yes
+CUST01319,Female,37,Basic,Month-to-Month,49,11.18,583.18,PayPal,0,2,Yes
+CUST01320,Male,38,Basic,Month-to-Month,9,12.19,102.24,Bank Transfer,0,1,No
+CUST01321,Female,57,Premium,Annual,30,41.02,1189.71,Credit Card,2,1,No
+CUST01322,Male,48,Standard,Month-to-Month,51,19.21,887.39,Bank Transfer,2,5,No
+CUST01323,Male,63,Standard,Month-to-Month,45,18.38,764.86,Bank Transfer,0,5,No
+CUST01324,Female,53,Basic,Month-to-Month,4,5.48,21.68,Credit Card,2,3,Yes
+CUST01325,Male,28,Standard,Annual,5,20.26,107.75,PayPal,1,5,No
+CUST01326,Male,69,Standard,Month-to-Month,45,20.86,990.08,Debit Card,1,5,No
+CUST01327,Male,32,Basic,Month-to-Month,23,9.84,214.34,PayPal,1,5,No
+CUST01328,Male,36,Basic,Month-to-Month,16,11.39,169.54,PayPal,1,4,No
+CUST01329,Female,24,Basic,Annual,22,8.01,172.32,Debit Card,3,4,No
+CUST01330,Male,68,Basic,Annual,37,9.73,387.61,Bank Transfer,2,3,No
+CUST01331,Female,45,Premium,Month-to-Month,8,39.61,290.99,Debit Card,0,3,No
+CUST01332,Female,68,Basic,Two-Year,48,9.82,475.41,Credit Card,3,2,No
+CUST01333,Male,60,Premium,Two-Year,33,41.74,1264.14,Debit Card,1,3,No
+CUST01334,Female,22,Basic,Month-to-Month,55,9.83,537.43,Bank Transfer,2,2,No
+CUST01335,Female,22,Standard,Annual,38,19.55,687.45,PayPal,4,5,No
+CUST01336,Female,47,Basic,Annual,43,8.58,337.97,PayPal,3,3,No
+CUST01337,Male,49,Basic,Two-Year,16,11.98,179.83,Debit Card,1,3,No
+CUST01338,Female,25,Basic,Month-to-Month,5,7.84,37.28,Credit Card,1,3,Yes
+CUST01339,Female,27,Basic,Month-to-Month,16,9.16,140.0,Bank Transfer,0,2,Yes
+CUST01340,Female,55,Standard,Month-to-Month,7,22.53,162.29,PayPal,4,2,Yes
+CUST01341,Male,64,Premium,Two-Year,51,40.69,1890.49,Debit Card,0,1,No
+CUST01342,Female,49,Standard,Month-to-Month,1,19.96,18.29,Credit Card,2,2,Yes
+CUST01343,Male,65,Basic,Month-to-Month,9,10.02,84.57,Credit Card,3,2,No
+CUST01344,Male,45,Basic,Month-to-Month,18,8.57,165.74,PayPal,3,4,No
+CUST01345,Male,34,Basic,Month-to-Month,45,9.89,456.5,PayPal,2,3,No
+CUST01346,Male,48,Standard,Annual,58,19.47,1181.29,Bank Transfer,0,2,No
+CUST01347,Male,25,Standard,Month-to-Month,47,20.26,927.53,Credit Card,2,3,No
+CUST01348,Male,57,Premium,Month-to-Month,3,37.73,106.7,Bank Transfer,0,3,Yes
+CUST01349,Female,42,Basic,Two-Year,24,10.59,230.67,Credit Card,2,4,No
+CUST01350,Male,26,Standard,Month-to-Month,28,21.51,600.9,Credit Card,1,3,No
+CUST01351,Female,19,Standard,Annual,10,19.68,199.72,Debit Card,0,2,No
+CUST01352,Female,32,Standard,Month-to-Month,9,20.96,203.62,PayPal,2,3,No
+CUST01353,Male,67,Standard,Month-to-Month,13,20.46,286.31,Credit Card,1,1,Yes
+CUST01354,Female,20,Standard,Annual,48,19.08,902.04,Bank Transfer,1,1,Yes
+CUST01355,Female,66,Standard,Annual,35,18.4,634.16,PayPal,1,4,No
+CUST01356,Female,53,Basic,Month-to-Month,54,8.61,433.43,Bank Transfer,1,2,Yes
+CUST01357,Female,21,Standard,Two-Year,23,20.43,447.1,PayPal,3,4,No
+CUST01358,Male,31,Basic,Two-Year,47,9.91,505.42,PayPal,3,1,No
+CUST01359,Female,58,Standard,Two-Year,17,21.9,345.57,Credit Card,3,2,No
+CUST01360,Male,58,Basic,Month-to-Month,46,11.18,562.49,Debit Card,4,3,Yes
+CUST01361,Female,42,Standard,Month-to-Month,7,21.17,148.33,Credit Card,1,2,Yes
+CUST01362,Female,67,Premium,Annual,52,40.38,2081.54,PayPal,1,5,No
+CUST01363,Male,27,Premium,Annual,16,38.55,576.66,Credit Card,2,2,Yes
+CUST01364,Female,38,Premium,Month-to-Month,53,40.48,2214.76,Credit Card,0,3,No
+CUST01365,Female,53,Standard,Annual,40,20.09,797.15,PayPal,3,5,No
+CUST01366,Female,29,Standard,Month-to-Month,36,18.28,641.06,PayPal,2,4,No
+CUST01367,Male,44,Standard,Month-to-Month,20,21.8,415.47,Credit Card,0,2,Yes
+CUST01368,Female,57,Premium,Month-to-Month,24,41.64,912.71,Credit Card,2,4,Yes
+CUST01369,Male,19,Basic,Annual,47,8.27,390.19,Credit Card,1,2,No
+CUST01370,Female,30,Premium,Month-to-Month,5,39.03,187.85,Bank Transfer,2,1,Yes
+CUST01371,Male,49,Premium,Annual,45,39.17,1835.93,Credit Card,2,1,Yes
+CUST01372,Male,48,Standard,Annual,6,20.9,131.01,Bank Transfer,1,3,No
+CUST01373,Female,33,Basic,Annual,28,10.73,290.35,Debit Card,1,1,No
+CUST01374,Female,49,Basic,Two-Year,59,10.06,613.62,Bank Transfer,0,5,No
+CUST01375,Male,49,Premium,Annual,5,40.4,192.25,Credit Card,3,5,No
+CUST01376,Male,51,Basic,Two-Year,49,8.06,412.88,Debit Card,0,2,No
+CUST01377,Female,28,Premium,Month-to-Month,39,40.56,1428.74,Bank Transfer,2,4,No
+CUST01378,Male,27,Standard,Month-to-Month,38,19.84,701.39,Bank Transfer,0,5,No
+CUST01379,Female,32,Basic,Month-to-Month,2,8.97,17.03,PayPal,3,2,Yes
+CUST01380,Female,34,Premium,Month-to-Month,43,37.69,1709.14,Debit Card,2,4,No
+CUST01381,Female,57,Standard,Annual,39,20.03,713.42,PayPal,1,1,Yes
+CUST01382,Female,35,Standard,Month-to-Month,54,20.53,1039.45,Debit Card,1,2,No
+CUST01383,Male,26,Standard,Month-to-Month,21,17.44,355.88,Bank Transfer,0,4,No
+CUST01384,Female,42,Basic,Annual,40,10.02,361.46,PayPal,0,3,Yes
+CUST01385,Male,57,Standard,Annual,37,20.17,785.41,Credit Card,3,3,Yes
+CUST01386,Female,31,Basic,Month-to-Month,59,9.16,546.94,Bank Transfer,3,5,No
+CUST01387,Male,42,Premium,Annual,18,40.56,788.59,Debit Card,1,4,No
+CUST01388,Female,67,Premium,Month-to-Month,54,39.79,1947.13,Debit Card,0,3,Yes
+CUST01389,Male,39,Basic,Month-to-Month,48,10.41,476.83,PayPal,0,5,Yes
+CUST01390,Male,69,Standard,Annual,46,20.79,1000.57,PayPal,1,2,Yes
+CUST01391,Female,47,Standard,Annual,12,20.79,258.22,Debit Card,2,2,No
+CUST01392,Female,37,Basic,Month-to-Month,17,11.52,185.78,Bank Transfer,1,4,No
+CUST01393,Female,38,Premium,Two-Year,37,40.5,1527.18,PayPal,1,4,No
+CUST01394,Female,61,Basic,Month-to-Month,46,9.27,451.47,Credit Card,4,4,Yes
+CUST01395,Male,49,Basic,Month-to-Month,38,9.02,310.77,Debit Card,3,4,No
+CUST01396,Female,68,Standard,Month-to-Month,15,18.4,288.01,Credit Card,1,3,Yes
+CUST01397,Male,63,Standard,Annual,7,20.22,134.52,Debit Card,3,3,No
+CUST01398,Male,66,Standard,Annual,14,21.97,335.13,Credit Card,3,5,No
+CUST01399,Female,38,Standard,Month-to-Month,50,19.45,979.93,Bank Transfer,2,3,No
+CUST01400,Male,52,Standard,Month-to-Month,1,20.66,18.73,Debit Card,2,2,Yes
+CUST01401,Male,49,Standard,Annual,38,18.86,702.84,Bank Transfer,3,5,No
+CUST01402,Male,47,Basic,Month-to-Month,3,10.28,33.72,PayPal,4,3,Yes
+CUST01403,Male,56,Basic,Month-to-Month,37,11.88,459.81,Debit Card,2,4,No
+CUST01404,Female,66,Basic,Annual,44,11.02,465.53,Bank Transfer,5,3,No
+CUST01405,Female,29,Basic,Month-to-Month,31,7.63,240.09,Credit Card,3,1,Yes
+CUST01406,Female,58,Standard,Two-Year,43,20.85,914.32,Bank Transfer,1,5,No
+CUST01407,Female,64,Basic,Month-to-Month,13,10.91,128.31,Debit Card,0,3,No
+CUST01408,Male,35,Basic,Annual,48,10.25,460.4,Bank Transfer,1,3,No
+CUST01409,Male,38,Basic,Month-to-Month,18,10.99,199.87,Credit Card,2,2,No
+CUST01410,Female,30,Premium,Two-Year,17,38.74,645.77,Credit Card,0,4,No
+CUST01411,Female,38,Premium,Month-to-Month,17,40.08,639.12,Credit Card,4,4,No
+CUST01412,Female,25,Standard,Annual,11,21.66,251.25,PayPal,1,2,No
+CUST01413,Male,63,Premium,Annual,20,41.52,828.57,Debit Card,4,2,Yes
+CUST01414,Female,57,Standard,Month-to-Month,10,20.81,200.19,Credit Card,0,1,No
+CUST01415,Female,63,Standard,Month-to-Month,29,18.67,504.79,PayPal,2,5,No
+CUST01416,Female,24,Basic,Annual,48,8.43,413.64,Credit Card,2,4,No
+CUST01417,Male,40,Standard,Two-Year,34,20.16,708.23,Bank Transfer,0,2,No
+CUST01418,Male,61,Standard,Month-to-Month,17,20.26,356.1,Debit Card,2,2,No
+CUST01419,Male,49,Standard,Month-to-Month,54,19.84,1011.43,Bank Transfer,1,5,No
+CUST01420,Male,28,Standard,Annual,52,18.78,995.18,PayPal,3,2,No
+CUST01421,Male,39,Standard,Month-to-Month,42,20.65,937.62,Bank Transfer,3,1,Yes
+CUST01422,Male,39,Standard,Two-Year,13,20.16,254.38,Bank Transfer,1,5,No
+CUST01423,Male,60,Premium,Annual,44,40.42,1675.6,Credit Card,0,1,No
+CUST01424,Male,42,Basic,Annual,47,10.88,539.19,Bank Transfer,2,3,No
+CUST01425,Female,39,Standard,Month-to-Month,39,19.58,714.27,Credit Card,1,4,Yes
+CUST01426,Female,45,Standard,Month-to-Month,27,19.26,494.41,Credit Card,2,2,Yes
+CUST01427,Male,46,Standard,Annual,54,21.65,1075.72,Debit Card,1,5,No
+CUST01428,Male,30,Standard,Two-Year,53,18.85,952.67,PayPal,0,1,No
+CUST01429,Female,35,Basic,Two-Year,26,9.29,237.21,PayPal,0,4,No
+CUST01430,Male,19,Standard,Month-to-Month,28,21.84,558.21,PayPal,2,4,No
+CUST01431,Male,46,Basic,Month-to-Month,13,9.17,128.07,Credit Card,0,2,Yes
+CUST01432,Male,38,Standard,Month-to-Month,12,19.84,238.73,PayPal,2,4,No
+CUST01433,Female,32,Standard,Two-Year,44,19.37,867.3,Credit Card,1,2,No
+CUST01434,Female,69,Standard,Month-to-Month,28,17.32,472.48,Debit Card,3,3,No
+CUST01435,Female,44,Basic,Month-to-Month,2,9.81,20.29,PayPal,1,2,Yes
+CUST01436,Female,67,Standard,Month-to-Month,37,18.47,674.07,Credit Card,1,1,No
+CUST01437,Female,48,Basic,Month-to-Month,57,10.37,621.98,PayPal,0,4,Yes
+CUST01438,Male,32,Premium,Two-Year,57,41.65,2526.65,PayPal,1,4,No
+CUST01439,Female,68,Premium,Month-to-Month,34,36.67,1289.63,Debit Card,0,4,No
+CUST01440,Male,40,Premium,Month-to-Month,23,39.38,904.17,Bank Transfer,1,2,No
+CUST01441,Male,41,Standard,Month-to-Month,58,20.67,1266.54,PayPal,1,5,No
+CUST01442,Female,61,Standard,Month-to-Month,52,16.71,867.93,Debit Card,1,2,Yes
+CUST01443,Female,30,Basic,Month-to-Month,45,11.99,497.63,PayPal,0,1,Yes
+CUST01444,Male,39,Basic,Month-to-Month,29,10.56,282.74,PayPal,1,2,No
+CUST01445,Male,60,Standard,Annual,35,21.61,824.21,PayPal,3,4,No
+CUST01446,Male,54,Standard,Month-to-Month,11,19.14,198.48,PayPal,2,3,No
+CUST01447,Female,50,Premium,Month-to-Month,48,39.33,2007.12,Bank Transfer,3,1,Yes
+CUST01448,Female,20,Basic,Month-to-Month,33,9.75,305.45,Bank Transfer,0,3,Yes
+CUST01449,Female,36,Premium,Annual,51,43.2,2172.7,PayPal,2,1,No
+CUST01450,Female,40,Standard,Annual,11,21.97,249.16,PayPal,2,1,No
+CUST01451,Female,46,Standard,Annual,9,20.19,169.31,Debit Card,2,4,No
+CUST01452,Male,47,Basic,Annual,14,10.37,152.07,Debit Card,2,2,No
+CUST01453,Female,56,Basic,Annual,9,10.94,102.2,Credit Card,6,4,No
+CUST01454,Male,61,Standard,Month-to-Month,39,23.58,927.54,Bank Transfer,2,4,No
+CUST01455,Male,64,Standard,Two-Year,48,20.56,999.89,PayPal,2,4,No
+CUST01456,Male,42,Basic,Month-to-Month,3,10.06,27.8,Bank Transfer,0,3,No
+CUST01457,Female,54,Standard,Month-to-Month,29,19.48,557.68,Debit Card,1,1,Yes
+CUST01458,Female,64,Premium,Annual,19,40.34,703.08,Bank Transfer,2,5,No
+CUST01459,Female,25,Premium,Month-to-Month,36,39.11,1353.86,Bank Transfer,1,2,Yes
+CUST01460,Male,59,Premium,Two-Year,32,40.73,1407.71,PayPal,4,4,No
+CUST01461,Male,33,Basic,Month-to-Month,7,7.84,55.7,PayPal,1,1,Yes
+CUST01462,Male,25,Basic,Two-Year,55,9.6,553.63,Debit Card,1,2,No
+CUST01463,Male,18,Standard,Annual,28,21.09,599.25,PayPal,1,5,No
+CUST01464,Male,61,Basic,Two-Year,44,10.54,435.4,Debit Card,1,5,No
+CUST01465,Male,22,Basic,Two-Year,18,9.3,170.57,Debit Card,4,4,No
+CUST01466,Female,20,Basic,Two-Year,5,9.64,50.66,Credit Card,0,5,No
+CUST01467,Female,18,Basic,Annual,23,11.54,246.23,Credit Card,0,5,No
+CUST01468,Female,21,Basic,Month-to-Month,55,8.17,477.83,Credit Card,1,2,No
+CUST01469,Female,57,Basic,Month-to-Month,22,8.18,181.95,Bank Transfer,2,2,No
+CUST01470,Male,52,Basic,Annual,26,8.6,201.43,Credit Card,3,4,No
+CUST01471,Male,49,Basic,Two-Year,42,9.97,420.4,PayPal,0,1,No
+CUST01472,Female,59,Standard,Annual,12,17.95,210.91,PayPal,2,4,No
+CUST01473,Male,51,Standard,Two-Year,40,21.42,821.92,Credit Card,0,3,No
+CUST01474,Female,60,Standard,Annual,19,18.6,372.57,Bank Transfer,2,5,No
+CUST01475,Female,42,Basic,Month-to-Month,47,10.33,524.3,Debit Card,2,1,No
+CUST01476,Female,27,Basic,Month-to-Month,1,9.12,9.6,Bank Transfer,1,2,Yes
+CUST01477,Male,38,Standard,Month-to-Month,3,19.89,63.81,Bank Transfer,2,3,No
+CUST01478,Female,63,Standard,Month-to-Month,27,17.58,513.47,Debit Card,2,3,Yes
+CUST01479,Female,56,Standard,Annual,18,21.49,418.74,Debit Card,0,5,No
+CUST01480,Female,44,Basic,Two-Year,50,8.55,394.55,Debit Card,3,2,No
+CUST01481,Male,44,Premium,Annual,30,38.39,1141.65,PayPal,1,1,Yes
+CUST01482,Male,19,Basic,Month-to-Month,2,13.56,24.41,Debit Card,2,2,Yes
+CUST01483,Female,58,Standard,Month-to-Month,5,20.82,104.23,Debit Card,1,5,No
+CUST01484,Male,65,Standard,Month-to-Month,29,21.43,674.2,Bank Transfer,2,3,No
+CUST01485,Male,30,Standard,Month-to-Month,33,20.68,641.37,Bank Transfer,2,5,No
+CUST01486,Male,26,Basic,Month-to-Month,42,9.31,401.95,Credit Card,5,4,No
+CUST01487,Male,69,Basic,Month-to-Month,20,8.03,165.24,Bank Transfer,2,3,Yes
+CUST01488,Male,53,Standard,Month-to-Month,30,19.54,546.38,Debit Card,1,5,No
+CUST01489,Male,39,Basic,Month-to-Month,42,8.52,339.13,PayPal,3,1,No
+CUST01490,Male,59,Basic,Two-Year,5,8.61,42.72,Bank Transfer,0,1,Yes
+CUST01491,Male,43,Basic,Month-to-Month,50,7.62,357.24,Bank Transfer,2,1,Yes
+CUST01492,Male,29,Premium,Month-to-Month,21,40.16,857.7,Debit Card,1,4,No
+CUST01493,Male,34,Basic,Month-to-Month,58,12.35,714.09,Bank Transfer,3,2,No
+CUST01494,Female,31,Premium,Month-to-Month,15,40.83,614.8,Bank Transfer,1,1,Yes
+CUST01495,Female,31,Standard,Annual,20,19.83,367.61,Debit Card,0,4,No
+CUST01496,Male,51,Premium,Annual,8,39.93,320.54,Bank Transfer,0,1,No
+CUST01497,Female,37,Premium,Month-to-Month,49,35.42,1579.2,PayPal,0,4,No
+CUST01498,Female,28,Standard,Annual,31,19.35,645.62,Credit Card,0,1,No
+CUST01499,Male,33,Basic,Month-to-Month,12,7.85,91.25,Bank Transfer,0,2,Yes
+CUST01500,Male,68,Basic,Annual,21,10.19,229.24,PayPal,0,5,No
+CUST01501,Male,48,Basic,Month-to-Month,30,9.6,299.62,Bank Transfer,3,1,No
+CUST01502,Female,23,Standard,Month-to-Month,27,18.69,531.49,Credit Card,2,5,No
+CUST01503,Female,36,Basic,Annual,44,10.16,430.46,Debit Card,5,1,No
+CUST01504,Male,54,Basic,Annual,26,10.14,249.28,Credit Card,0,2,Yes
+CUST01505,Male,21,Basic,Annual,33,12.27,397.36,Bank Transfer,0,5,No
+CUST01506,Male,64,Premium,Month-to-Month,26,41.02,965.04,Credit Card,1,4,No
+CUST01507,Female,21,Basic,Month-to-Month,26,10.32,290.79,Credit Card,0,1,No
+CUST01508,Female,37,Basic,Two-Year,36,8.57,301.55,Debit Card,2,1,No
+CUST01509,Female,27,Basic,Month-to-Month,40,8.38,367.95,Bank Transfer,1,4,No
+CUST01510,Female,41,Premium,Month-to-Month,1,40.89,43.03,Credit Card,1,2,No
+CUST01511,Male,52,Standard,Month-to-Month,59,19.69,1064.25,Credit Card,3,3,No
+CUST01512,Male,43,Basic,Month-to-Month,15,10.36,160.38,Debit Card,2,1,No
+CUST01513,Male,54,Basic,Month-to-Month,50,11.46,546.74,PayPal,1,4,No
+CUST01514,Male,55,Basic,Month-to-Month,1,7.72,7.32,Bank Transfer,1,3,No
+CUST01515,Female,38,Basic,Month-to-Month,11,12.09,126.52,PayPal,2,1,Yes
+CUST01516,Female,57,Premium,Two-Year,55,41.44,2468.86,PayPal,1,5,No
+CUST01517,Male,56,Standard,Month-to-Month,2,16.91,33.82,Debit Card,1,4,No
+CUST01518,Male,38,Standard,Month-to-Month,1,23.52,24.32,Debit Card,0,5,Yes
+CUST01519,Female,27,Premium,Annual,31,40.47,1199.61,Bank Transfer,1,2,No
+CUST01520,Male,55,Basic,Annual,44,9.27,409.75,PayPal,1,3,No
+CUST01521,Female,63,Standard,Month-to-Month,16,20.77,322.36,Credit Card,0,4,No
+CUST01522,Male,21,Premium,Annual,54,38.52,2005.67,PayPal,2,1,No
+CUST01523,Male,62,Basic,Month-to-Month,22,10.81,225.78,Debit Card,1,1,Yes
+CUST01524,Male,37,Standard,Annual,42,18.8,775.23,Credit Card,2,3,No
+CUST01525,Male,34,Basic,Month-to-Month,18,13.02,241.86,Credit Card,1,5,No
+CUST01526,Male,24,Basic,Month-to-Month,47,10.08,447.42,Debit Card,1,5,No
+CUST01527,Male,21,Basic,Two-Year,17,10.96,203.66,Credit Card,4,4,No
+CUST01528,Male,46,Basic,Annual,30,8.81,244.46,PayPal,1,4,No
+CUST01529,Female,31,Standard,Month-to-Month,10,21.21,211.26,Debit Card,1,5,No
+CUST01530,Female,20,Premium,Month-to-Month,35,39.97,1282.85,Bank Transfer,3,4,No
+CUST01531,Female,41,Standard,Month-to-Month,58,17.87,937.51,Debit Card,0,5,No
+CUST01532,Female,54,Premium,Annual,21,39.63,902.58,Bank Transfer,2,3,No
+CUST01533,Female,33,Premium,Month-to-Month,16,42.89,728.84,Bank Transfer,2,4,No
+CUST01534,Male,69,Basic,Month-to-Month,6,11.28,70.31,Debit Card,1,5,No
+CUST01535,Male,21,Standard,Month-to-Month,3,19.42,62.52,Debit Card,0,4,No
+CUST01536,Female,41,Basic,Annual,41,7.19,312.65,Bank Transfer,0,1,No
+CUST01537,Male,51,Standard,Annual,43,18.74,829.55,Bank Transfer,2,1,No
+CUST01538,Female,47,Premium,Annual,21,37.88,850.74,Credit Card,1,2,Yes
+CUST01539,Female,35,Basic,Month-to-Month,13,7.22,91.81,Debit Card,1,5,No
+CUST01540,Male,36,Standard,Two-Year,18,21.17,385.08,Debit Card,1,2,No
+CUST01541,Male,48,Standard,Annual,58,20.08,1229.0,Credit Card,2,5,No
+CUST01542,Male,36,Standard,Two-Year,54,22.68,1123.02,Debit Card,1,4,No
+CUST01543,Female,66,Basic,Month-to-Month,24,8.49,218.38,Credit Card,1,5,Yes
+CUST01544,Male,63,Basic,Month-to-Month,27,9.99,251.22,Credit Card,2,1,Yes
+CUST01545,Female,36,Basic,Annual,54,7.9,457.7,Debit Card,0,4,No
+CUST01546,Female,39,Basic,Month-to-Month,4,9.1,35.03,PayPal,3,1,Yes
+CUST01547,Female,41,Basic,Month-to-Month,22,9.66,205.16,Bank Transfer,3,4,No
+CUST01548,Male,62,Standard,Annual,24,19.43,426.58,Debit Card,1,5,No
+CUST01549,Male,29,Basic,Annual,40,10.07,433.89,PayPal,0,5,No
+CUST01550,Female,47,Premium,Two-Year,45,41.45,1743.83,Credit Card,1,1,No
+CUST01551,Male,55,Standard,Annual,10,21.29,218.44,PayPal,2,3,No
+CUST01552,Male,48,Standard,Month-to-Month,2,18.84,38.76,Debit Card,2,5,Yes
+CUST01553,Male,53,Basic,Month-to-Month,40,9.94,380.2,Debit Card,1,3,No
+CUST01554,Female,36,Standard,Month-to-Month,6,21.18,139.42,PayPal,4,4,No
+CUST01555,Female,65,Premium,Month-to-Month,48,41.54,1820.12,Debit Card,3,3,No
+CUST01556,Male,62,Basic,Month-to-Month,18,9.0,165.5,Bank Transfer,4,1,Yes
+CUST01557,Female,53,Basic,Month-to-Month,17,11.05,187.08,PayPal,2,2,No
+CUST01558,Male,47,Standard,Annual,38,20.49,738.99,Credit Card,1,2,Yes
+CUST01559,Male,66,Basic,Annual,45,8.39,352.14,PayPal,0,1,Yes
+CUST01560,Male,50,Basic,Two-Year,23,11.19,269.57,PayPal,2,2,Yes
+CUST01561,Male,35,Basic,Annual,46,10.22,509.26,PayPal,2,1,No
+CUST01562,Female,69,Basic,Annual,30,7.38,204.02,PayPal,2,5,No
+CUST01563,Female,66,Standard,Annual,58,19.55,1064.5,Credit Card,0,3,No
+CUST01564,Female,45,Basic,Two-Year,21,10.05,231.58,Credit Card,0,2,Yes
+CUST01565,Male,64,Premium,Annual,10,39.08,352.89,Credit Card,1,5,No
+CUST01566,Male,28,Standard,Two-Year,56,21.83,1224.5,PayPal,2,2,No
+CUST01567,Male,62,Standard,Two-Year,43,21.89,944.3,Bank Transfer,6,4,No
+CUST01568,Female,50,Standard,Two-Year,13,19.42,240.5,Bank Transfer,2,1,No
+CUST01569,Male,34,Premium,Month-to-Month,12,39.25,486.36,Credit Card,0,1,Yes
+CUST01570,Female,23,Basic,Month-to-Month,9,9.79,95.95,Bank Transfer,0,5,No
+CUST01571,Female,21,Premium,Month-to-Month,4,39.69,157.18,Bank Transfer,3,4,Yes
+CUST01572,Female,37,Standard,Month-to-Month,39,19.1,782.06,Bank Transfer,1,3,Yes
+CUST01573,Female,65,Standard,Month-to-Month,24,14.43,356.44,Bank Transfer,2,4,No
+CUST01574,Female,64,Standard,Month-to-Month,54,22.62,1214.87,Bank Transfer,2,4,No
+CUST01575,Female,44,Basic,Month-to-Month,34,9.99,309.08,Debit Card,1,3,Yes
+CUST01576,Male,32,Basic,Month-to-Month,39,9.72,397.41,Credit Card,2,3,No
+CUST01577,Male,23,Standard,Annual,41,20.48,816.71,PayPal,8,4,Yes
+CUST01578,Female,64,Basic,Month-to-Month,5,9.87,46.63,Bank Transfer,1,2,Yes
+CUST01579,Female,31,Standard,Annual,15,19.34,316.11,Debit Card,3,2,Yes
+CUST01580,Male,28,Basic,Annual,50,8.48,447.19,PayPal,1,4,No
+CUST01581,Female,56,Basic,Annual,4,7.23,31.59,Debit Card,2,2,Yes
+CUST01582,Female,26,Basic,Two-Year,51,7.96,386.17,Bank Transfer,0,3,No
+CUST01583,Male,43,Basic,Month-to-Month,52,8.31,461.14,Bank Transfer,1,3,No
+CUST01584,Female,33,Standard,Month-to-Month,58,20.97,1242.46,Bank Transfer,3,2,Yes
+CUST01585,Female,22,Basic,Month-to-Month,39,11.08,473.73,Bank Transfer,0,3,No
+CUST01586,Female,69,Premium,Month-to-Month,58,38.67,2443.07,PayPal,3,1,No
+CUST01587,Male,27,Standard,Annual,8,15.99,140.02,PayPal,0,3,No
+CUST01588,Male,67,Basic,Month-to-Month,49,10.0,534.27,Debit Card,1,4,No
+CUST01589,Male,20,Standard,Month-to-Month,45,19.36,785.41,Credit Card,2,5,No
+CUST01590,Female,30,Premium,Month-to-Month,24,39.32,989.18,Bank Transfer,0,2,No
+CUST01591,Female,60,Standard,Month-to-Month,53,21.42,1083.48,Debit Card,0,2,Yes
+CUST01592,Male,66,Basic,Annual,28,10.2,297.31,Debit Card,3,3,No
+CUST01593,Female,47,Premium,Annual,55,38.53,2322.85,Debit Card,1,3,No
+CUST01594,Female,62,Standard,Month-to-Month,43,18.18,709.72,Bank Transfer,4,5,Yes
+CUST01595,Female,23,Basic,Month-to-Month,27,9.6,262.67,Bank Transfer,0,5,No
+CUST01596,Female,34,Basic,Month-to-Month,1,8.63,9.04,Debit Card,2,4,No
+CUST01597,Female,62,Standard,Month-to-Month,34,19.88,642.58,Bank Transfer,2,1,No
+CUST01598,Male,68,Basic,Two-Year,17,11.53,185.23,Debit Card,1,4,No
+CUST01599,Female,36,Premium,Month-to-Month,37,37.92,1279.67,PayPal,2,2,Yes
+CUST01600,Male,59,Basic,Annual,38,10.12,353.33,Bank Transfer,5,3,No
+CUST01601,Female,52,Premium,Two-Year,26,41.36,1109.07,PayPal,1,4,No
+CUST01602,Male,63,Standard,Month-to-Month,57,19.86,1133.2,Credit Card,2,3,Yes
+CUST01603,Female,43,Basic,Month-to-Month,24,11.07,240.71,Bank Transfer,0,3,No
+CUST01604,Male,68,Basic,Two-Year,39,9.56,407.86,Credit Card,1,4,No
+CUST01605,Female,22,Standard,Annual,21,20.25,438.52,Debit Card,2,4,No
+CUST01606,Male,46,Standard,Month-to-Month,30,20.65,621.42,Bank Transfer,3,5,Yes
+CUST01607,Female,54,Standard,Annual,47,19.13,858.24,Bank Transfer,2,1,No
+CUST01608,Male,37,Basic,Annual,51,12.98,682.91,Bank Transfer,1,5,No
+CUST01609,Female,66,Basic,Month-to-Month,48,10.86,507.12,Credit Card,0,1,Yes
+CUST01610,Male,38,Basic,Two-Year,57,11.94,708.14,Credit Card,1,4,No
+CUST01611,Male,27,Standard,Month-to-Month,13,21.6,291.05,Debit Card,2,1,No
+CUST01612,Female,22,Basic,Month-to-Month,37,10.48,356.18,PayPal,1,2,Yes
+CUST01613,Female,53,Basic,Two-Year,3,12.07,39.17,PayPal,1,5,No
+CUST01614,Male,23,Standard,Annual,32,20.27,646.95,Credit Card,0,5,No
+CUST01615,Female,43,Premium,Month-to-Month,35,38.9,1332.35,Bank Transfer,1,5,No
+CUST01616,Male,21,Basic,Month-to-Month,19,10.01,207.51,PayPal,2,3,No
+CUST01617,Male,56,Basic,Annual,14,8.48,117.25,PayPal,2,3,Yes
+CUST01618,Male,56,Standard,Annual,48,16.84,844.08,Credit Card,1,4,No
+CUST01619,Female,67,Standard,Annual,22,18.71,424.39,Debit Card,2,4,No
+CUST01620,Male,52,Basic,Two-Year,17,10.1,160.2,Credit Card,2,3,No
+CUST01621,Male,18,Premium,Two-Year,59,41.58,2694.2,Credit Card,1,5,No
+CUST01622,Female,41,Premium,Month-to-Month,4,38.71,153.71,Bank Transfer,0,3,Yes
+CUST01623,Female,53,Basic,Month-to-Month,45,11.51,507.05,Credit Card,2,1,Yes
+CUST01624,Female,23,Basic,Month-to-Month,40,8.17,354.23,Bank Transfer,1,5,Yes
+CUST01625,Female,58,Standard,Annual,19,18.61,355.66,Debit Card,2,3,No
+CUST01626,Male,63,Standard,Annual,37,22.16,853.55,Bank Transfer,0,4,No
+CUST01627,Male,61,Basic,Month-to-Month,2,10.06,21.51,Debit Card,1,3,Yes
+CUST01628,Male,48,Standard,Month-to-Month,15,19.73,280.29,Debit Card,1,2,Yes
+CUST01629,Male,37,Standard,Month-to-Month,2,20.34,37.99,Debit Card,1,3,No
+CUST01630,Female,41,Basic,Month-to-Month,11,8.18,82.21,Credit Card,1,5,No
+CUST01631,Male,42,Standard,Month-to-Month,45,19.49,946.71,Bank Transfer,0,3,No
+CUST01632,Male,53,Premium,Month-to-Month,23,39.99,864.65,PayPal,3,4,No
+CUST01633,Female,38,Basic,Month-to-Month,10,11.84,113.85,Credit Card,1,1,Yes
+CUST01634,Male,47,Basic,Month-to-Month,3,7.48,21.48,Debit Card,1,2,Yes
+CUST01635,Male,41,Basic,Annual,5,12.63,60.68,PayPal,2,5,No
+CUST01636,Male,61,Premium,Month-to-Month,3,39.8,123.41,Credit Card,1,4,No
+CUST01637,Male,59,Premium,Annual,38,38.32,1588.41,PayPal,1,2,No
+CUST01638,Male,47,Basic,Annual,13,8.05,101.08,Debit Card,0,3,No
+CUST01639,Male,39,Standard,Annual,42,20.4,840.97,PayPal,1,2,No
+CUST01640,Female,45,Standard,Annual,19,17.97,359.95,PayPal,1,1,No
+CUST01641,Female,24,Standard,Month-to-Month,40,19.15,755.63,Debit Card,2,2,No
+CUST01642,Male,52,Basic,Month-to-Month,50,9.62,521.99,PayPal,5,2,Yes
+CUST01643,Male,45,Basic,Two-Year,35,11.71,410.11,Credit Card,1,3,No
+CUST01644,Female,31,Basic,Annual,24,11.52,268.06,PayPal,6,3,Yes
+CUST01645,Male,27,Standard,Two-Year,24,19.03,499.8,Bank Transfer,1,5,No
+CUST01646,Male,33,Basic,Annual,17,9.67,161.95,Credit Card,0,3,No
+CUST01647,Male,33,Premium,Month-to-Month,40,37.6,1423.14,PayPal,2,2,Yes
+CUST01648,Female,48,Basic,Month-to-Month,10,6.93,64.83,Bank Transfer,2,1,Yes
+CUST01649,Male,59,Basic,Annual,2,8.15,17.91,Bank Transfer,2,3,No
+CUST01650,Female,42,Standard,Month-to-Month,44,21.67,1001.72,Bank Transfer,1,5,No
+CUST01651,Male,30,Standard,Month-to-Month,23,21.16,477.79,PayPal,2,5,No
+CUST01652,Female,23,Basic,Annual,6,10.57,67.56,Debit Card,4,2,Yes
+CUST01653,Female,61,Basic,Month-to-Month,2,7.8,15.75,Bank Transfer,3,3,Yes
+CUST01654,Male,26,Premium,Month-to-Month,21,38.92,787.47,Debit Card,3,3,No
+CUST01655,Female,62,Basic,Annual,55,8.7,501.79,Credit Card,0,5,No
+CUST01656,Male,53,Basic,Annual,56,9.74,572.26,Debit Card,1,3,No
+CUST01657,Female,60,Premium,Month-to-Month,35,39.65,1387.8,Debit Card,2,2,Yes
+CUST01658,Male,37,Basic,Annual,49,8.49,378.17,Debit Card,1,1,No
+CUST01659,Male,35,Standard,Two-Year,29,20.51,544.47,Debit Card,2,2,No
+CUST01660,Female,60,Basic,Month-to-Month,7,10.33,76.49,Debit Card,2,3,Yes
+CUST01661,Male,38,Basic,Month-to-Month,29,8.9,274.8,Credit Card,0,2,No
+CUST01662,Male,21,Basic,Month-to-Month,53,10.45,573.6,Credit Card,3,4,No
+CUST01663,Female,67,Basic,Month-to-Month,37,11.68,461.47,Debit Card,2,4,No
+CUST01664,Male,50,Basic,Month-to-Month,23,12.13,291.24,Debit Card,1,3,No
+CUST01665,Male,44,Basic,Two-Year,33,10.73,382.2,Bank Transfer,3,3,No
+CUST01666,Female,24,Standard,Annual,8,20.68,153.87,Credit Card,1,1,No
+CUST01667,Female,23,Basic,Annual,12,9.63,112.97,PayPal,4,2,Yes
+CUST01668,Male,32,Basic,Two-Year,46,11.53,526.57,Credit Card,0,1,No
+CUST01669,Male,35,Premium,Two-Year,48,38.38,1767.69,PayPal,0,3,No
+CUST01670,Female,49,Standard,Month-to-Month,10,21.36,223.23,Bank Transfer,5,3,No
+CUST01671,Female,28,Basic,Month-to-Month,15,9.56,155.23,Debit Card,0,5,No
+CUST01672,Male,37,Premium,Annual,53,42.23,2199.01,Bank Transfer,1,1,No
+CUST01673,Female,41,Basic,Month-to-Month,24,10.87,283.92,Debit Card,1,3,No
+CUST01674,Male,32,Basic,Month-to-Month,26,9.89,258.0,Credit Card,1,4,No
+CUST01675,Male,65,Standard,Annual,47,19.64,927.24,Debit Card,1,5,No
+CUST01676,Male,24,Standard,Two-Year,42,20.78,890.25,PayPal,2,2,No
+CUST01677,Male,38,Basic,Month-to-Month,53,10.71,541.33,PayPal,2,5,Yes
+CUST01678,Male,59,Basic,Annual,39,9.39,357.67,Bank Transfer,0,2,No
+CUST01679,Female,43,Standard,Month-to-Month,58,20.13,1179.97,Credit Card,0,4,Yes
+CUST01680,Female,61,Basic,Annual,3,11.33,36.99,PayPal,3,2,Yes
+CUST01681,Female,31,Premium,Month-to-Month,2,37.94,78.05,Bank Transfer,0,1,Yes
+CUST01682,Female,54,Basic,Two-Year,6,11.08,64.26,Credit Card,0,2,No
+CUST01683,Male,38,Premium,Month-to-Month,21,40.77,772.35,Credit Card,1,2,Yes
+CUST01684,Male,35,Standard,Annual,9,21.77,214.8,Bank Transfer,3,5,No
+CUST01685,Male,22,Premium,Month-to-Month,10,38.92,388.65,PayPal,2,4,No
+CUST01686,Male,20,Standard,Month-to-Month,36,20.0,783.14,PayPal,1,2,No
+CUST01687,Female,40,Standard,Month-to-Month,59,20.3,1209.52,Bank Transfer,0,1,Yes
+CUST01688,Male,43,Basic,Month-to-Month,3,11.1,34.0,PayPal,2,5,No
+CUST01689,Male,54,Basic,Month-to-Month,41,10.63,454.3,Bank Transfer,0,4,No
+CUST01690,Female,41,Basic,Month-to-Month,24,8.13,188.13,PayPal,0,4,No
+CUST01691,Female,66,Premium,Annual,22,40.43,924.86,PayPal,1,3,No
+CUST01692,Female,36,Premium,Annual,49,43.0,2118.29,Bank Transfer,0,1,No
+CUST01693,Female,68,Basic,Month-to-Month,14,10.91,158.01,Bank Transfer,3,5,No
+CUST01694,Male,42,Basic,Annual,42,12.45,558.02,PayPal,1,5,No
+CUST01695,Male,38,Basic,Month-to-Month,45,11.55,486.93,Bank Transfer,1,1,No
+CUST01696,Female,29,Standard,Month-to-Month,44,22.03,991.33,PayPal,2,4,No
+CUST01697,Male,58,Standard,Month-to-Month,27,20.45,502.69,Debit Card,1,2,Yes
+CUST01698,Male,50,Standard,Annual,33,20.77,630.87,Credit Card,1,1,No
+CUST01699,Male,67,Premium,Month-to-Month,22,40.37,919.15,Credit Card,3,5,No
+CUST01700,Female,21,Basic,Two-Year,29,10.0,265.11,PayPal,1,1,No
+CUST01701,Male,59,Standard,Month-to-Month,19,21.1,408.55,Credit Card,1,4,No
+CUST01702,Female,24,Basic,Month-to-Month,19,9.21,165.19,PayPal,2,3,No
+CUST01703,Male,39,Basic,Month-to-Month,6,12.82,73.91,Bank Transfer,1,3,No
+CUST01704,Male,50,Basic,Two-Year,45,8.6,358.33,Debit Card,2,2,No
+CUST01705,Male,34,Basic,Annual,19,11.21,202.28,Credit Card,4,2,Yes
+CUST01706,Female,41,Premium,Annual,13,42.06,581.92,Credit Card,2,4,No
+CUST01707,Male,51,Basic,Two-Year,59,9.73,590.02,Bank Transfer,1,2,No
+CUST01708,Female,45,Standard,Two-Year,26,18.32,519.17,Debit Card,1,3,No
+CUST01709,Female,60,Premium,Annual,22,41.72,835.0,Debit Card,2,4,No
+CUST01710,Female,58,Standard,Month-to-Month,21,20.3,451.23,Debit Card,0,4,No
+CUST01711,Male,56,Basic,Annual,36,11.21,419.63,Bank Transfer,2,4,No
+CUST01712,Male,39,Standard,Month-to-Month,56,19.83,1057.38,Credit Card,3,1,Yes
+CUST01713,Male,66,Basic,Annual,2,12.59,26.33,Credit Card,1,2,Yes
+CUST01714,Male,34,Standard,Annual,47,16.81,824.29,Debit Card,1,5,No
+CUST01715,Female,51,Standard,Annual,44,20.55,896.85,Bank Transfer,1,3,No
+CUST01716,Female,23,Standard,Month-to-Month,30,22.0,684.9,Bank Transfer,1,2,No
+CUST01717,Female,63,Basic,Annual,27,10.15,271.01,Bank Transfer,1,3,No
+CUST01718,Male,23,Premium,Two-Year,7,40.44,273.77,Debit Card,5,2,Yes
+CUST01719,Female,51,Basic,Month-to-Month,20,9.34,185.55,Bank Transfer,2,5,No
+CUST01720,Male,18,Basic,Month-to-Month,50,10.02,540.59,Debit Card,3,3,Yes
+CUST01721,Female,27,Basic,Annual,31,7.48,226.53,Debit Card,0,5,No
+CUST01722,Male,38,Basic,Two-Year,23,8.91,200.98,Debit Card,1,3,No
+CUST01723,Male,22,Basic,Month-to-Month,13,8.81,117.01,PayPal,1,1,Yes
+CUST01724,Female,19,Premium,Month-to-Month,17,40.99,732.09,Debit Card,0,1,No
+CUST01725,Female,39,Premium,Month-to-Month,4,39.13,163.86,Bank Transfer,0,3,Yes
+CUST01726,Female,65,Basic,Month-to-Month,57,9.18,473.01,PayPal,1,3,No
+CUST01727,Female,19,Basic,Two-Year,14,9.42,136.82,Credit Card,2,5,Yes
+CUST01728,Male,27,Basic,Annual,20,8.87,175.65,Credit Card,2,4,No
+CUST01729,Female,51,Basic,Annual,13,10.39,135.72,Bank Transfer,1,3,No
+CUST01730,Female,33,Basic,Month-to-Month,3,10.56,32.07,Bank Transfer,2,2,Yes
+CUST01731,Female,65,Premium,Annual,26,41.23,1121.66,Bank Transfer,2,2,Yes
+CUST01732,Male,68,Basic,Month-to-Month,26,10.97,304.12,Bank Transfer,2,2,No
+CUST01733,Male,56,Basic,Month-to-Month,18,10.82,200.46,PayPal,2,1,Yes
+CUST01734,Female,39,Basic,Month-to-Month,32,9.5,307.89,Bank Transfer,5,5,Yes
+CUST01735,Male,29,Premium,Month-to-Month,14,39.4,537.67,Debit Card,1,1,Yes
+CUST01736,Female,41,Standard,Month-to-Month,47,18.68,814.37,Credit Card,2,2,Yes
+CUST01737,Male,64,Premium,Month-to-Month,3,38.66,126.62,Bank Transfer,1,3,Yes
+CUST01738,Male,57,Standard,Month-to-Month,1,20.28,20.13,Debit Card,1,2,Yes
+CUST01739,Male,55,Basic,Month-to-Month,26,8.91,234.73,Bank Transfer,0,3,Yes
+CUST01740,Male,27,Basic,Annual,24,12.19,307.25,Debit Card,0,5,No
+CUST01741,Female,52,Standard,Month-to-Month,49,19.93,892.27,PayPal,2,4,No
+CUST01742,Female,68,Basic,Two-Year,35,12.24,458.82,Credit Card,0,3,No
+CUST01743,Female,66,Standard,Month-to-Month,14,20.85,309.24,Credit Card,1,1,Yes
+CUST01744,Male,49,Basic,Annual,3,8.82,27.91,PayPal,4,2,Yes
+CUST01745,Female,24,Basic,Two-Year,13,9.9,116.4,Debit Card,1,2,No
+CUST01746,Female,38,Standard,Two-Year,47,17.48,825.92,Bank Transfer,0,2,No
+CUST01747,Female,37,Standard,Two-Year,50,20.28,923.61,Debit Card,0,3,No
+CUST01748,Male,43,Standard,Month-to-Month,14,18.96,268.14,Credit Card,1,5,Yes
+CUST01749,Male,21,Basic,Month-to-Month,21,8.32,182.35,PayPal,0,3,No
+CUST01750,Male,63,Standard,Month-to-Month,26,22.27,535.23,PayPal,2,1,Yes
+CUST01751,Female,69,Basic,Month-to-Month,3,11.54,35.97,Debit Card,1,2,Yes
+CUST01752,Female,39,Basic,Month-to-Month,51,11.49,580.08,Debit Card,3,3,No
+CUST01753,Female,32,Basic,Two-Year,40,11.16,474.22,PayPal,1,2,Yes
+CUST01754,Male,57,Basic,Annual,4,8.14,32.78,Credit Card,1,1,Yes
+CUST01755,Male,38,Basic,Annual,36,9.39,326.96,Bank Transfer,1,4,No
+CUST01756,Female,32,Basic,Two-Year,51,9.48,467.23,Bank Transfer,3,4,No
+CUST01757,Male,39,Basic,Annual,43,7.43,344.89,Debit Card,1,4,No
+CUST01758,Male,69,Basic,Annual,1,9.15,9.06,PayPal,1,2,Yes
+CUST01759,Male,45,Basic,Annual,40,9.17,359.89,PayPal,2,3,No
+CUST01760,Male,31,Basic,Month-to-Month,47,10.18,434.43,PayPal,1,2,Yes
+CUST01761,Female,44,Basic,Month-to-Month,33,13.79,442.72,Credit Card,8,5,No
+CUST01762,Male,58,Standard,Two-Year,7,19.96,149.49,Debit Card,3,3,No
+CUST01763,Male,57,Basic,Two-Year,53,10.18,567.7,Debit Card,3,1,No
+CUST01764,Male,45,Basic,Two-Year,52,9.61,471.83,Debit Card,1,4,No
+CUST01765,Male,43,Basic,Month-to-Month,52,11.1,567.16,Credit Card,1,3,No
+CUST01766,Female,66,Standard,Two-Year,56,18.38,966.82,Debit Card,3,3,No
+CUST01767,Female,19,Premium,Month-to-Month,11,42.83,513.93,Bank Transfer,1,4,No
+CUST01768,Male,42,Standard,Month-to-Month,27,19.8,545.09,Debit Card,4,1,Yes
+CUST01769,Male,20,Standard,Month-to-Month,14,19.4,285.42,Debit Card,0,2,Yes
+CUST01770,Male,25,Standard,Month-to-Month,22,21.45,492.08,Debit Card,0,2,Yes
+CUST01771,Male,61,Standard,Month-to-Month,16,18.65,320.7,Credit Card,3,3,No
+CUST01772,Male,50,Standard,Month-to-Month,46,21.07,1056.32,Bank Transfer,2,4,No
+CUST01773,Male,59,Basic,Month-to-Month,12,12.1,131.62,Bank Transfer,2,5,Yes
+CUST01774,Female,69,Basic,Month-to-Month,49,9.63,516.73,PayPal,1,1,No
+CUST01775,Male,52,Basic,Annual,46,13.07,645.78,PayPal,1,2,No
+CUST01776,Female,23,Premium,Annual,10,40.96,400.01,Bank Transfer,1,1,No
+CUST01777,Female,56,Standard,Month-to-Month,24,20.98,537.46,Debit Card,1,1,Yes
+CUST01778,Male,69,Standard,Month-to-Month,46,22.04,1061.81,Debit Card,2,1,Yes
+CUST01779,Female,40,Basic,Annual,18,12.44,237.05,Debit Card,2,4,No
+CUST01780,Female,42,Basic,Month-to-Month,22,10.38,215.6,Credit Card,3,4,No
+CUST01781,Female,67,Basic,Month-to-Month,9,11.19,103.7,Debit Card,1,4,No
+CUST01782,Female,60,Basic,Annual,17,12.08,185.89,Credit Card,3,3,No
+CUST01783,Female,36,Premium,Two-Year,38,38.25,1554.73,Bank Transfer,3,4,No
+CUST01784,Female,22,Standard,Month-to-Month,40,17.4,758.79,Debit Card,1,3,Yes
+CUST01785,Male,68,Basic,Month-to-Month,58,9.9,592.82,Debit Card,1,2,Yes
+CUST01786,Female,28,Premium,Month-to-Month,13,37.36,486.91,PayPal,1,2,Yes
+CUST01787,Female,29,Basic,Annual,50,9.52,497.49,Bank Transfer,0,2,No
+CUST01788,Female,27,Premium,Month-to-Month,37,40.46,1445.03,Debit Card,1,2,Yes
+CUST01789,Male,25,Basic,Month-to-Month,6,9.58,58.93,Credit Card,1,2,No
+CUST01790,Female,41,Basic,Month-to-Month,21,9.78,214.37,Bank Transfer,0,4,No
+CUST01791,Male,45,Basic,Two-Year,51,8.49,402.05,PayPal,1,5,No
+CUST01792,Female,58,Basic,Annual,36,11.17,373.17,Bank Transfer,2,4,No
+CUST01793,Male,53,Basic,Annual,7,8.39,61.27,Credit Card,0,5,No
+CUST01794,Male,54,Standard,Annual,36,16.84,597.97,PayPal,2,4,No
+CUST01795,Female,38,Premium,Month-to-Month,25,39.68,1069.22,Credit Card,1,2,No
+CUST01796,Female,25,Standard,Two-Year,11,21.36,226.12,Bank Transfer,1,1,No
+CUST01797,Male,26,Basic,Annual,44,10.11,404.13,PayPal,1,5,No
+CUST01798,Female,64,Standard,Month-to-Month,14,18.24,263.01,Credit Card,2,1,No
+CUST01799,Male,32,Basic,Annual,45,10.14,473.11,Bank Transfer,1,2,No
+CUST01800,Male,65,Basic,Annual,29,10.65,312.16,Credit Card,1,5,No
+CUST01801,Male,63,Standard,Annual,10,20.13,208.68,Debit Card,1,1,No
+CUST01802,Male,57,Standard,Month-to-Month,50,19.59,984.15,Bank Transfer,0,4,No
+CUST01803,Male,35,Basic,Two-Year,48,10.72,534.38,PayPal,0,2,No
+CUST01804,Female,59,Basic,Two-Year,5,7.38,33.53,PayPal,0,4,No
+CUST01805,Male,37,Premium,Month-to-Month,8,38.65,301.06,Debit Card,1,4,No
+CUST01806,Male,23,Basic,Month-to-Month,46,8.03,348.02,Credit Card,0,2,No
+CUST01807,Female,29,Basic,Month-to-Month,5,12.01,55.24,Credit Card,3,5,No
+CUST01808,Male,19,Standard,Two-Year,58,21.06,1156.52,PayPal,1,3,No
+CUST01809,Female,24,Basic,Annual,24,10.27,231.26,Credit Card,3,3,No
+CUST01810,Female,33,Basic,Month-to-Month,40,7.81,341.96,Bank Transfer,2,2,No
+CUST01811,Female,20,Basic,Month-to-Month,57,11.11,606.24,Bank Transfer,2,3,No
+CUST01812,Male,62,Standard,Month-to-Month,26,22.07,542.94,PayPal,2,1,Yes
+CUST01813,Male,20,Standard,Annual,6,20.85,133.48,Bank Transfer,1,5,No
+CUST01814,Male,44,Standard,Month-to-Month,16,19.94,313.88,PayPal,1,4,No
+CUST01815,Female,67,Premium,Two-Year,36,40.94,1450.69,Credit Card,2,4,No
+CUST01816,Male,60,Standard,Annual,12,20.4,242.04,Credit Card,2,2,Yes
+CUST01817,Female,57,Basic,Annual,11,11.38,123.09,Credit Card,2,4,No
+CUST01818,Male,55,Basic,Month-to-Month,3,11.35,32.87,Debit Card,4,1,Yes
+CUST01819,Female,50,Standard,Month-to-Month,44,19.66,828.08,PayPal,3,1,No
+CUST01820,Male,45,Standard,Month-to-Month,37,19.0,756.7,Bank Transfer,2,2,Yes
+CUST01821,Male,18,Standard,Month-to-Month,6,19.39,108.47,Credit Card,1,4,No
+CUST01822,Male,25,Standard,Month-to-Month,19,20.79,369.81,Debit Card,1,3,No
+CUST01823,Female,54,Basic,Two-Year,18,9.48,173.09,Bank Transfer,1,3,No
+CUST01824,Female,49,Basic,Month-to-Month,16,8.86,137.33,Bank Transfer,2,5,No
+CUST01825,Male,65,Basic,Month-to-Month,23,9.99,226.16,Bank Transfer,0,2,No
+CUST01826,Male,60,Basic,Month-to-Month,43,11.65,531.66,Credit Card,3,5,No
+CUST01827,Female,54,Basic,Month-to-Month,37,10.19,407.47,Bank Transfer,2,3,Yes
+CUST01828,Female,21,Standard,Two-Year,9,19.58,186.46,PayPal,1,3,No
+CUST01829,Female,47,Standard,Month-to-Month,3,20.47,58.15,Debit Card,0,3,No
+CUST01830,Male,23,Basic,Month-to-Month,8,10.12,88.73,Bank Transfer,0,5,No
+CUST01831,Female,63,Standard,Annual,38,17.09,631.65,Bank Transfer,1,2,No
+CUST01832,Male,36,Standard,Month-to-Month,4,21.04,78.59,PayPal,0,1,Yes
+CUST01833,Female,49,Basic,Month-to-Month,12,10.6,127.19,Bank Transfer,1,1,Yes
+CUST01834,Male,26,Standard,Month-to-Month,44,20.01,920.11,Credit Card,1,3,No
+CUST01835,Female,29,Standard,Month-to-Month,31,21.58,613.22,Credit Card,2,2,Yes
+CUST01836,Female,28,Standard,Month-to-Month,25,21.81,559.89,Credit Card,1,2,No
+CUST01837,Female,63,Standard,Month-to-Month,53,21.19,1203.5,Bank Transfer,1,4,No
+CUST01838,Female,33,Standard,Annual,16,18.71,285.1,Debit Card,0,4,No
+CUST01839,Female,18,Basic,Month-to-Month,42,8.77,382.57,Debit Card,3,5,No
+CUST01840,Male,62,Basic,Annual,54,11.67,617.56,Bank Transfer,1,4,No
+CUST01841,Female,38,Basic,Annual,14,7.17,98.66,Debit Card,2,5,No
+CUST01842,Female,47,Premium,Month-to-Month,13,39.77,494.35,Debit Card,3,1,No
+CUST01843,Female,30,Basic,Month-to-Month,41,10.65,447.51,Bank Transfer,4,3,Yes
+CUST01844,Male,51,Basic,Month-to-Month,7,7.36,50.09,Credit Card,3,2,Yes
+CUST01845,Female,21,Premium,Annual,12,40.34,516.12,Bank Transfer,0,1,No
+CUST01846,Male,45,Premium,Annual,37,41.42,1674.42,Credit Card,3,1,Yes
+CUST01847,Female,55,Standard,Annual,50,17.76,965.27,Credit Card,1,5,No
+CUST01848,Female,48,Basic,Month-to-Month,4,12.48,46.56,Debit Card,0,3,Yes
+CUST01849,Male,44,Basic,Two-Year,2,8.48,15.31,Debit Card,1,5,No
+CUST01850,Female,22,Basic,Month-to-Month,35,10.85,375.08,Credit Card,2,1,No
+CUST01851,Male,42,Basic,Month-to-Month,58,9.86,598.06,Credit Card,4,2,No
+CUST01852,Male,20,Basic,Month-to-Month,44,10.09,486.35,Debit Card,4,4,No
+CUST01853,Female,50,Standard,Month-to-Month,3,18.06,57.25,PayPal,2,5,Yes
+CUST01854,Male,21,Premium,Month-to-Month,4,41.88,170.22,Credit Card,2,1,Yes
+CUST01855,Female,42,Basic,Annual,38,10.48,360.51,Credit Card,2,4,No
+CUST01856,Female,37,Standard,Annual,12,22.42,286.56,Credit Card,1,4,No
+CUST01857,Male,51,Standard,Two-Year,19,18.1,321.69,Debit Card,0,1,No
+CUST01858,Male,43,Basic,Month-to-Month,10,9.72,88.56,Bank Transfer,0,3,No
+CUST01859,Male,22,Standard,Annual,1,20.3,21.72,Credit Card,0,1,No
+CUST01860,Male,52,Basic,Month-to-Month,17,10.08,173.63,Credit Card,1,2,Yes
+CUST01861,Female,45,Basic,Month-to-Month,16,10.99,162.78,Credit Card,3,4,Yes
+CUST01862,Female,46,Standard,Month-to-Month,9,19.7,173.28,Bank Transfer,2,2,Yes
+CUST01863,Male,26,Basic,Month-to-Month,57,13.17,688.46,Bank Transfer,0,5,No
+CUST01864,Female,69,Premium,Month-to-Month,53,40.05,2181.24,Credit Card,1,4,No
+CUST01865,Female,55,Basic,Month-to-Month,9,5.66,48.72,Credit Card,2,3,Yes
+CUST01866,Female,67,Standard,Annual,59,20.12,1274.0,PayPal,0,1,No
+CUST01867,Female,23,Basic,Two-Year,55,11.88,634.82,Bank Transfer,2,5,No
+CUST01868,Male,36,Basic,Month-to-Month,9,8.61,77.41,PayPal,1,2,No
+CUST01869,Male,61,Basic,Two-Year,12,8.51,93.21,Credit Card,3,5,No
+CUST01870,Female,28,Standard,Annual,55,18.73,983.92,Credit Card,2,3,No
+CUST01871,Male,19,Premium,Month-to-Month,41,38.38,1629.21,Credit Card,2,1,Yes
+CUST01872,Male,64,Premium,Annual,15,39.27,616.88,Credit Card,3,5,No
+CUST01873,Male,61,Standard,Month-to-Month,2,21.35,40.5,Debit Card,1,2,No
+CUST01874,Female,61,Standard,Annual,11,22.28,245.27,Debit Card,2,5,No
+CUST01875,Female,26,Standard,Annual,11,16.35,191.27,Debit Card,1,1,No
+CUST01876,Female,38,Standard,Two-Year,8,19.42,151.63,PayPal,5,5,No
+CUST01877,Male,41,Standard,Annual,55,20.44,1041.86,Bank Transfer,0,2,No
+CUST01878,Female,51,Standard,Annual,32,20.29,640.43,Credit Card,0,1,No
+CUST01879,Female,39,Premium,Annual,6,42.84,262.21,Bank Transfer,3,3,No
+CUST01880,Male,20,Basic,Month-to-Month,53,6.97,333.02,Debit Card,2,3,Yes
+CUST01881,Female,29,Premium,Month-to-Month,20,36.11,700.33,Credit Card,3,4,No
+CUST01882,Female,45,Standard,Month-to-Month,39,23.08,919.46,Credit Card,1,5,No
+CUST01883,Male,47,Basic,Month-to-Month,35,11.12,424.38,PayPal,0,2,Yes
+CUST01884,Male,43,Basic,Month-to-Month,8,9.13,71.7,Bank Transfer,3,5,Yes
+CUST01885,Male,65,Basic,Two-Year,50,10.25,477.95,PayPal,2,1,No
+CUST01886,Female,38,Standard,Month-to-Month,49,20.35,1003.97,Debit Card,2,4,No
+CUST01887,Female,45,Premium,Two-Year,43,39.1,1609.26,Bank Transfer,1,2,No
+CUST01888,Female,43,Basic,Annual,34,10.2,327.02,Debit Card,0,5,No
+CUST01889,Male,50,Premium,Annual,57,40.52,2351.4,PayPal,2,2,Yes
+CUST01890,Male,38,Premium,Two-Year,53,43.01,2469.13,PayPal,0,1,No
+CUST01891,Female,52,Basic,Month-to-Month,59,11.44,720.21,Credit Card,3,4,No
+CUST01892,Female,69,Premium,Two-Year,56,42.6,2234.02,Bank Transfer,4,2,Yes
+CUST01893,Male,51,Premium,Month-to-Month,19,37.97,759.79,Bank Transfer,1,1,Yes
+CUST01894,Male,58,Standard,Month-to-Month,7,19.47,128.93,Credit Card,1,3,No
+CUST01895,Male,68,Standard,Month-to-Month,31,20.35,604.44,Bank Transfer,3,2,Yes
+CUST01896,Male,64,Premium,Month-to-Month,18,37.11,724.1,Debit Card,3,4,No
+CUST01897,Female,35,Standard,Annual,40,21.76,941.96,Debit Card,0,2,No
+CUST01898,Male,28,Basic,Month-to-Month,14,10.95,143.14,PayPal,1,2,Yes
+CUST01899,Female,40,Premium,Month-to-Month,39,39.44,1404.09,Debit Card,1,1,No
+CUST01900,Female,65,Standard,Two-Year,53,19.71,1001.41,Bank Transfer,2,5,No
+CUST01901,Female,39,Standard,Annual,59,21.87,1311.43,Credit Card,1,5,No
+CUST01902,Male,34,Basic,Month-to-Month,36,8.8,340.68,PayPal,3,2,Yes
+CUST01903,Male,22,Standard,Annual,17,21.93,344.39,Credit Card,0,4,No
+CUST01904,Male,61,Basic,Annual,37,9.61,349.52,PayPal,0,4,No
+CUST01905,Male,28,Premium,Two-Year,44,41.12,1726.69,PayPal,2,1,No
+CUST01906,Female,47,Basic,Month-to-Month,9,10.12,82.24,Credit Card,3,2,No
+CUST01907,Male,32,Basic,Month-to-Month,58,13.34,818.36,Debit Card,4,2,Yes
+CUST01908,Male,44,Basic,Month-to-Month,20,8.66,184.05,Debit Card,1,5,No
+CUST01909,Female,52,Basic,Month-to-Month,45,9.13,387.94,Debit Card,2,1,Yes
+CUST01910,Male,50,Standard,Two-Year,57,17.73,940.12,Debit Card,3,3,No
+CUST01911,Female,37,Premium,Month-to-Month,28,38.34,997.21,Credit Card,2,4,No
+CUST01912,Female,33,Premium,Two-Year,50,41.06,2038.2,Bank Transfer,1,4,No
+CUST01913,Female,51,Basic,Month-to-Month,20,12.39,235.24,PayPal,1,2,Yes
+CUST01914,Female,19,Basic,Two-Year,41,11.23,461.48,Credit Card,1,1,Yes
+CUST01915,Female,52,Premium,Month-to-Month,36,39.98,1406.13,Debit Card,1,3,No
+CUST01916,Female,57,Premium,Two-Year,53,38.65,1930.0,Debit Card,1,4,No
+CUST01917,Female,45,Standard,Two-Year,27,21.34,605.13,Credit Card,2,1,No
+CUST01918,Female,64,Standard,Two-Year,8,18.57,138.17,PayPal,1,3,No
+CUST01919,Male,56,Basic,Month-to-Month,32,7.97,270.29,Credit Card,2,2,No
+CUST01920,Male,23,Premium,Month-to-Month,1,39.53,40.02,Credit Card,2,5,No
+CUST01921,Male,26,Standard,Annual,17,16.94,307.1,Bank Transfer,1,4,No
+CUST01922,Male,37,Basic,Month-to-Month,57,7.92,406.73,Credit Card,2,4,No
+CUST01923,Female,18,Basic,Month-to-Month,9,12.82,121.13,Bank Transfer,0,3,Yes
+CUST01924,Male,25,Premium,Month-to-Month,20,37.64,685.28,PayPal,0,5,No
+CUST01925,Female,40,Basic,Month-to-Month,45,8.21,402.71,Credit Card,3,1,Yes
+CUST01926,Male,20,Basic,Month-to-Month,32,10.1,336.31,Credit Card,1,2,Yes
+CUST01927,Male,21,Standard,Month-to-Month,2,20.18,38.91,Debit Card,3,1,Yes
+CUST01928,Male,42,Basic,Month-to-Month,32,9.64,297.37,Credit Card,0,3,No
+CUST01929,Female,64,Basic,Month-to-Month,45,6.98,336.81,Debit Card,3,4,No
+CUST01930,Male,55,Premium,Annual,9,41.26,401.26,Debit Card,2,4,No
+CUST01931,Female,32,Premium,Month-to-Month,30,39.33,1272.3,Debit Card,2,1,Yes
+CUST01932,Female,38,Premium,Month-to-Month,20,41.82,888.05,PayPal,2,2,No
+CUST01933,Male,52,Premium,Two-Year,38,39.02,1577.37,Bank Transfer,0,3,No
+CUST01934,Male,63,Standard,Two-Year,1,21.46,21.77,Debit Card,1,2,Yes
+CUST01935,Male,69,Premium,Two-Year,57,41.93,2164.5,Credit Card,3,3,No
+CUST01936,Female,31,Basic,Two-Year,5,9.29,42.61,Credit Card,1,2,Yes
+CUST01937,Male,53,Standard,Month-to-Month,35,21.31,768.16,Debit Card,2,1,Yes
+CUST01938,Female,29,Premium,Annual,36,38.0,1340.96,Debit Card,1,5,No
+CUST01939,Female,34,Basic,Month-to-Month,1,10.39,10.53,Credit Card,2,3,Yes
+CUST01940,Male,56,Basic,Annual,14,11.82,156.58,Debit Card,1,1,Yes
+CUST01941,Male,26,Standard,Month-to-Month,9,20.77,192.52,Bank Transfer,2,4,No
+CUST01942,Female,52,Basic,Annual,30,13.6,387.01,Bank Transfer,3,4,No
+CUST01943,Female,30,Basic,Month-to-Month,24,10.85,258.36,PayPal,1,2,No
+CUST01944,Female,32,Premium,Month-to-Month,4,39.44,157.09,Debit Card,2,4,Yes
+CUST01945,Male,35,Premium,Annual,50,44.25,2069.87,PayPal,0,5,No
+CUST01946,Female,68,Basic,Month-to-Month,14,12.44,187.26,PayPal,3,3,Yes
+CUST01947,Male,50,Basic,Month-to-Month,25,7.59,190.73,PayPal,1,2,No
+CUST01948,Female,23,Basic,Month-to-Month,4,8.81,37.83,Debit Card,3,3,No
+CUST01949,Female,44,Premium,Month-to-Month,25,38.43,915.12,PayPal,3,3,No
+CUST01950,Male,40,Standard,Month-to-Month,10,20.96,195.86,Bank Transfer,2,1,Yes
+CUST01951,Female,44,Basic,Two-Year,35,10.85,343.14,PayPal,1,4,No
+CUST01952,Male,51,Standard,Month-to-Month,55,20.84,1053.1,Bank Transfer,1,3,Yes
+CUST01953,Male,63,Basic,Month-to-Month,7,7.55,49.12,Bank Transfer,2,5,No
+CUST01954,Female,55,Standard,Month-to-Month,42,19.03,731.94,Debit Card,0,5,No
+CUST01955,Male,31,Premium,Annual,13,39.77,558.05,PayPal,3,4,No
+CUST01956,Male,53,Standard,Annual,4,17.26,74.72,Debit Card,3,4,No
+CUST01957,Female,25,Standard,Annual,50,18.68,1015.7,Bank Transfer,0,2,No
+CUST01958,Male,52,Basic,Annual,43,12.02,564.4,Credit Card,2,2,Yes
+CUST01959,Male,36,Standard,Two-Year,57,17.66,1004.98,PayPal,0,2,No
+CUST01960,Male,47,Standard,Two-Year,36,22.17,802.91,Debit Card,2,4,No
+CUST01961,Female,31,Basic,Annual,56,11.63,603.19,Credit Card,1,3,No
+CUST01962,Male,37,Standard,Month-to-Month,14,19.55,253.83,PayPal,4,1,Yes
+CUST01963,Female,66,Basic,Annual,18,9.02,171.22,PayPal,2,2,No
+CUST01964,Female,42,Premium,Month-to-Month,8,41.24,353.39,Debit Card,3,1,Yes
+CUST01965,Male,57,Basic,Annual,32,8.81,297.97,Credit Card,2,5,No
+CUST01966,Male,41,Premium,Annual,27,38.88,1120.0,Debit Card,1,4,No
+CUST01967,Male,31,Basic,Annual,42,9.95,399.23,PayPal,3,5,No
+CUST01968,Female,43,Standard,Annual,37,16.79,617.01,PayPal,1,2,No
+CUST01969,Male,55,Standard,Month-to-Month,23,17.82,406.52,Bank Transfer,2,3,Yes
+CUST01970,Male,40,Standard,Month-to-Month,7,19.52,150.18,PayPal,2,2,Yes
+CUST01971,Male,39,Basic,Month-to-Month,12,10.7,139.93,PayPal,2,1,No
+CUST01972,Male,65,Standard,Two-Year,25,18.79,479.0,Credit Card,1,2,Yes
+CUST01973,Male,36,Standard,Annual,3,19.69,54.79,Credit Card,2,3,No
+CUST01974,Female,63,Basic,Annual,26,7.57,187.32,Bank Transfer,2,3,Yes
+CUST01975,Female,68,Basic,Annual,4,11.39,44.32,Bank Transfer,3,4,No
+CUST01976,Male,20,Standard,Annual,42,20.32,917.14,Bank Transfer,3,4,No
+CUST01977,Male,59,Standard,Two-Year,36,20.45,687.7,Debit Card,1,3,No
+CUST01978,Male,36,Basic,Annual,15,10.72,151.79,Debit Card,2,3,Yes
+CUST01979,Male,26,Basic,Annual,32,10.11,313.77,Bank Transfer,1,1,Yes
+CUST01980,Female,45,Basic,Annual,29,9.26,291.47,Debit Card,2,2,No
+CUST01981,Male,37,Standard,Month-to-Month,10,21.68,216.97,PayPal,3,4,No
+CUST01982,Female,62,Standard,Annual,21,20.23,437.31,Bank Transfer,2,1,Yes
+CUST01983,Female,24,Premium,Month-to-Month,54,39.74,2097.56,Bank Transfer,2,2,No
+CUST01984,Male,31,Premium,Month-to-Month,16,39.98,599.83,Debit Card,0,4,Yes
+CUST01985,Female,26,Standard,Annual,47,19.95,885.67,Credit Card,4,1,Yes
+CUST01986,Female,36,Basic,Month-to-Month,19,9.73,196.06,Bank Transfer,0,5,No
+CUST01987,Female,64,Basic,Two-Year,29,10.66,333.47,Debit Card,2,5,No
+CUST01988,Female,69,Basic,Month-to-Month,52,8.59,446.06,Debit Card,3,4,No
+CUST01989,Male,31,Premium,Month-to-Month,51,38.7,1917.25,Credit Card,2,1,Yes
+CUST01990,Male,55,Standard,Month-to-Month,18,20.83,398.02,Bank Transfer,0,2,Yes
+CUST01991,Female,53,Basic,Month-to-Month,58,9.77,586.28,Credit Card,2,2,Yes
+CUST01992,Male,57,Basic,Month-to-Month,44,11.45,457.54,PayPal,1,1,Yes
+CUST01993,Male,34,Standard,Month-to-Month,57,20.6,1139.15,Credit Card,0,5,No
+CUST01994,Male,47,Standard,Month-to-Month,16,19.16,317.73,Credit Card,1,1,No
+CUST01995,Male,26,Basic,Month-to-Month,1,10.85,11.01,Debit Card,2,5,No
+CUST01996,Male,50,Premium,Month-to-Month,48,41.79,2197.71,Credit Card,1,5,No
+CUST01997,Female,69,Standard,Annual,2,20.66,44.35,PayPal,0,2,Yes
+CUST01998,Male,42,Basic,Month-to-Month,56,10.99,561.25,Debit Card,0,4,No
+CUST01999,Male,31,Premium,Annual,15,39.73,622.86,PayPal,2,3,Yes
+CUST02000,Male,28,Basic,Annual,39,11.48,433.06,Credit Card,2,1,No

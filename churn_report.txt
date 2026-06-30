@@ -1,0 +1,37 @@
+
+CUSTOMER RETENTION & CHURN ANALYSIS - SUMMARY REPORT
+=====================================================
+
+OVERVIEW
+--------
+Total Customers Analyzed : 2000
+Overall Churn Rate        : 31.00%
+Average Monthly Revenue   : $19.67
+Average Customer Tenure   : 29.8 months
+
+KEY CHURN PATTERNS
+------------------
+1. Plan with highest churn        : Basic (32.0%)
+2. Contract type with highest churn: Month-to-Month (43.2%)
+3. Weakest tenure cohort (lowest retention): 0-6 mo (57.5% retained)
+4. Customers with satisfaction score <= 2 churn at 52.1% on average
+5. Customers with 4+ support calls churn at 38.9% on average
+
+CUSTOMER LIFETIME VALUE
+------------------------
+Plan
+Premium     1188.72
+Standard     596.47
+Basic        298.56
+
+ACTIONABLE RECOMMENDATIONS
+---------------------------
+1. Target Month-to-Month customers with incentives to switch to Annual/Two-Year
+   contracts (e.g., discounts for longer commitments) since they show the highest churn.
+2. Set up proactive outreach for customers with satisfaction scores of 1-2 and/or
+   4+ support tickets in the last month — this segment is at highest churn risk.
+3. Strengthen onboarding for the 0-6 month tenure cohort, since early-tenure customers
+   show the lowest retention. Consider a structured 90-day onboarding journey.
+4. Reassess pricing or value proposition for the "Basic" plan, which has the
+   highest churn rate among all plans.
+5. Use CLV by plan to prioritize retention spend — protect high-CLV segments first.
